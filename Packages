@@ -1,0 +1,16 @@
+Package: com.CrackedRepo.phoenix-dev.ares
+Version: 1.0.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 13.0)
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Filename: ./debs/com.CrackedRepo.phoenix-dev.ares_1.0.1_iphoneos-arm.deb
+Size: 631600 
+MD5sum: 64ae07ab87f85ca5b0a709ac0f209067
+SHA1: 1159e4377798cc47e82b192544d313e0ee90db07
+SHA256: 8c9fc20265d69e9f2662dab14b4990acd344f8473336ec22e71449b7ffe354b0
+Icon: https://phnx-dev.github.io/repo/icons/ares.png
+Installed-Size: 1176
+Section: Tweaks
+Description: Siri - the way it should be!
+Author: CrackedRepo <Gold Findings Only!!!>
+Name: Ares
