@@ -14,3 +14,39 @@ Section: Tweaks
 Description: Siri - the way it should be!
 Author: CrackedRepo <Gold Findings Only!!!>
 Name: Ares
+
+Package: com.CrackedRepo.1conan.tsssaver
+Version: 2.0.4
+Architecture: iphoneos-arm
+Conflicts: co.dynastic.TSSsaver
+Depends: dimentio (>=1.0.3+git20201124.7ffffff) | com.0x7ff.dimentio 
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Filename: ./debs/com.CrackedRepo.1conan.tsssaver_2.0.4_iphoneos-arm.deb
+Size: 53992
+MD5sum: 03c1a16703aabfd02d8828b18b9d24dc
+SHA1: 5e8f04caa40dcb1168eb86c67ec5b2fe1399b678
+SHA256: 241df30de0adecefbe5b3eeffed3885ba4df1f9a697aa3b861b07b0907dde974
+Installed-Size: 232
+Section: Applications
+Description: An awesome application!
+Author: CrackedRepo <Gold Findings Only!!!>
+Name: TSS Saver
+
+Package: com.CrackedRepo.geosn0w.iSecureOS
+Version: 1.20
+Architecture: iphoneos-arm
+Depends: firmware (>= 11.0)
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Filename: ./debs/com.CrackedRepo.geosn0w.iSecureOS_1.20_iphoneos-arm.deb
+Size: 53992
+MD5sum: 03c1a16703aabfd02d8828b18b9d24dc
+SHA1: 5e8f04caa40dcb1168eb86c67ec5b2fe1399b678
+SHA256: 241df30de0adecefbe5b3eeffed3885ba4df1f9a697aa3b861b07b0907dde974
+Installed-Size: 232
+Icon: https://isecureos.idevicecentral.com/repo/Files/iSecureOS/iSecureOS.png
+Depiction: https://isecureos.idevicecentral.com/repo/Files/iSecureOS/iSecureOS.html
+SileoDepiction: https://isecureos.idevicecentral.com/repo/sileo/isecureos.json
+Section: Utilities
+Description: An iOS Security Application for Jailbroken units.
+Author: CrackedRepo <Gold Findings Only!!!>
+Name: iSecureOS
