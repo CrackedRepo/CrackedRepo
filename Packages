@@ -314,7 +314,7 @@ SHA1: c1b15f12e615e6f480a33d39049e41ce6f949713
 SHA256: bf1dfcc133bb347bb7e8723adfea20b9deff3f7d02fc7f9c45ccd1947033d4a3
 Name: RepoFinder
 Version: 1.021
-Section: Library
+Section: Applications 
 Architecture: iphoneos-arm
 Installed-Size: 25546344
 Author: CrackedRepo <Gold Findings Only!!!>
@@ -334,7 +334,7 @@ Size: 3250218
 MD5sum: 8b05a4f8bbfc869e999303036fec889b
 SHA1: 878f297edefb6177bd53b18acb6627302ba7658b
 SHA256:  96e142d6ddbebd7c902940f267f251a307e08882322b725447b72072f26bfa29
-Section: Application
+Section: Applications
 Version: 1.1.2
 
 Package: com.synnyg.backupaz4
@@ -345,7 +345,7 @@ SHA1: c147192912cef8310807f5130afbbc5b47e09848
 SHA256:  9ab5e31dd30771026fa4a3fa3b7a6054832644bc4347792a9a2f20d7f7ef5a63
 Name: BackupAZ 4 (iOS 13 - 14)
 Version: 1.2.1
-Section: Application
+Section: Applications
 Architecture: iphoneos-arm
 Depends: firmware (>= 13.0), coreutils-bin, dpkg, shell-cmds
 Author: CrackedRepo <Gold Findings Only!!!>
