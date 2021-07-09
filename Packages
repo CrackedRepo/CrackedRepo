@@ -200,6 +200,130 @@ Description: Using secret camera without anyone noticing.
 Homepage: https://adolfoi.info
 dev: Adolfoi_
 
+Package: com.ginsu.androbar
+Filename: ./debs/com.ginsu.androbar_1.6.1_iphoneos-arm.deb
+Size: 1290388 
+MD5sum: 19c949f2df7627a65b7e8772daadf83f
+SHA1: c66e72dacb47db76f1e88805305027937ab4afdf
+SHA256: b6ce59d8ae5cf988bc7e6fed841209837ea6bafb1d54baed3f29e86ae3b52342
+Name: AndroBar
+Version: 1.6.1
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader, applist, ws.hbang.alderis (>= 1.1)
+Installed-Size: 2200
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Description: Quick action bar for iOS.
+
+Package: com.anthopak.appaze
+Filename: ./debs/com.anthopak.appaze_2.1.1_iphoneos-arm.deb
+Size: 1105754 
+MD5sum: d23d7c4ca2e64199333a0c7d27f8ae1d
+SHA1: 90a704f827113081e69b564503ab6d1a64419b9a
+SHA256: f46e3a579c4acd64295ea68e68e840932a1970e2094ed63259ebec8bddfe1df0
+Name: Appaze
+Version: 2.1.1
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), com.a3tweaks.flipswitch
+Installed-Size: 1984
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Description: Set custom volume/brightness/toggles per app, directly from 3D Touch menu.
+
+Package: com.anthopak.appaze2
+Filename: ./debs/com.anthopak.appaze2_1.3_iphoneos-arm.deb
+Size: 782000 
+MD5sum: 6e817e2708eac380dd4808aa735a84dd
+SHA1: dbe87495fbf16ba2db46abcaca185ab7ccf726a1
+SHA256: 0858b400e936f0dd96f419100ab80870fb1aefd1de7bc9e7a1a790990ee94b19
+Name: Appaze 2
+Version: 1.3
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, ws.hbang.common (>= 1.15), firmware (>= 11.0), com.a3tweaks.flipswitch (>= 1.0.16~beta5)
+Installed-Size: 1844
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Description: Customize any iOS setting per app, directly from 3DTouch menu!
+Icon: file:///Library/PreferenceBundles/Appaze2Prefs.bundle/icon@2x.png
+
+Package: com.sharedroutine.appcrumb
+Filename: ./debs/com.sharedroutine.appcrumb_1.0_iphoneos-arm.deb
+Size: 48012 
+MD5sum: 85d11c6a235fd64114bcc100c05ba623
+SHA1: 44cd9c94cbf93b794ebec649f46ca1fb9105d75a
+SHA256: aa270c7f3556172a1523af00b31c216a7ec92ce5e6c5c5d677343a4c61f980bb
+Name: AppCrumb
+Version: 1.0
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, applist
+Installed-Size: 364
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Description: Supercharge your Breadcrumbs!
+
+Package: com.p2kdev.arkita
+Filename: ./debs/com.p2kdev.arkita_1.0.3_iphoneos-arm.deb
+Size: 59996 
+MD5sum: 533e34cecab41613cc4059d7aa0c97a9
+SHA1: 8a53f1f988b59ec813e5cbdc658241b0d4848fc4
+SHA256: 7498432a1f0085810f71e972ee408d36544938815cc87da9a9fd498ab6e35e88
+Name: Arkita
+Version: 1.0.3
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 13)
+Conflicts: ch.mdaus.utils, com.johnzaro.perfectmusic13, com.p2kdev.tinywidget, com.p2kdev.tinywidget14
+Installed-Size: 572
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Description: Get in the Groove!
+Icon: file:///Library/Application Support/Arkita/icon.png
+
+Package: com.ouraigua.xcode.audicy
+Filename: ./debs/com.ouraigua.xcode.audicy_2.0.4_iphoneos-arm.deb
+Size: 48190948 
+MD5sum: c324f481ed7f38864b5d19e90a3ae8f9
+SHA1: 0fd3cf56a57045f1f3fb83ed2726c2b4ddff3f55
+SHA256: bd6d7f2a3dbe16a8d234f5da6b577f10a3cd65c12f7c56a780e2746c9337e2a4
+Name: Audicy
+Version: 2.0.4
+Section: Utilities
+Architecture: iphoneos-arm
+Pre-Depends: firmware (>= 12.2)
+Depends: com.ouraigua.jodebox (>= 4.0.6), org.swift.libswift (>= 5.0)
+Replaces: com.ouraigua.jodownloader, com.ouraigua.audicy, com.ouraigua.xcode.old.audicy
+Installed-Size: 60732
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Description: Import audio/video to Music app, Videos app, Ringtones, Podcasts, Camera Roll...!
+Homepage: https://ouraigua.com/apps/audicy/index.php
+Depiction: http://littlemarrakech.co.uk/depiction/index.php?bundle=com.ouraigua.xcode.audicy&aos=disable
+Sponsor: ouraigua.com <https://ouraigua.com>
+SileoDepiction: https://ouraigua.com/apps/audicy/sileo_depiction.json
+Icon: file:///Applications/Audicy.app/_icon@2x.png
+
+Package: com.HomemadeToast.RepoFinder
+Filename: ./debs/com.HomemadeToast.RepoFinder_1.021_iphoneos-arm.deb
+Size: 6767660
+MD5sum: 3e34160c803dbdf531d42fca0ce24fba
+SHA1: c1b15f12e615e6f480a33d39049e41ce6f949713
+SHA256: bf1dfcc133bb347bb7e8723adfea20b9deff3f7d02fc7f9c45ccd1947033d4a3
+Name: RepoFinder
+Version: 1.021
+Section: Library
+Architecture: iphoneos-arm
+Installed-Size: 25546344
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Description: Jailbreak utility for finding your favorite repos!
+dev: HomemadeToast
+
+
+
 
 
 
