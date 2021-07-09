@@ -322,6 +322,70 @@ Maintainer: CrackedRepo <Gold Findings Only!!!>
 Description: Jailbreak utility for finding your favorite repos!
 dev: HomemadeToast
 
+Architecture: iphoneos-arm
+Depends: firmware (>= 9.0)
+Author: CrackedRepo <Gold Findings Only!!!>
+Description: A complete download manager!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Name: DHelper
+Package: com.synnyg.dhelper
+Filename: ./debs/com.synnyg.dhelper_1.1.2_iphoneos-arm.deb
+Size: 3250218 
+MD5sum: 8b05a4f8bbfc869e999303036fec889b
+SHA1: 878f297edefb6177bd53b18acb6627302ba7658b
+SHA256:  96e142d6ddbebd7c902940f267f251a307e08882322b725447b72072f26bfa29
+Section: Application
+Version: 1.1.2
+
+Package: com.synnyg.backupaz4
+Filename: ./debs/com.synnyg.backupaz4_1.2.1_iphoneos-arm.deb
+Size: 8482632 
+MD5sum: 32cdc47ecc9307f58a1aedef74f367e4
+SHA1: c147192912cef8310807f5130afbbc5b47e09848
+SHA256:  9ab5e31dd30771026fa4a3fa3b7a6054832644bc4347792a9a2f20d7f7ef5a63
+Name: BackupAZ 4 (iOS 13 - 14)
+Version: 1.2.1
+Section: Application
+Architecture: iphoneos-arm
+Depends: firmware (>= 13.0), coreutils-bin, dpkg, shell-cmds
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Description: A complete and modern backup tool!
+
+Package: com.dave1482.powerapp
+Filename: ./debs/com.dave1482.powerapp_6.0_iphoneos-arm.deb
+Size: 411682 
+MD5sum: 491e00e0988b57d6b54e50131001ed6e
+SHA1: 7a6567dbf322e7dc9b5569b41f96b5ffe6bb9269
+SHA256: 94ac9ae7b124a9c20252c3c19dcd31e2170855549164187b8088e1e428c3d427
+Pre-Depends: firmware (>= 8.0), system-cmds, shell-cmds, coreutils
+Conflicts: com.dave1482.powerappbeta
+Name: PowerApp
+Version: 6.0
+Architecture: iphoneos-arm
+Description: Reboot, Shutdown, Respring, go into Safemode!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Utilities
+Depiction: https://powerapp.dave1482.com/
+Icon: file:///Applications/PowerApp.app/Icon-60.png
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14, compatible::ios15
+
+Package: dev.ayden.ios.serial
+Filename: ./debs/dev.ayden.ios.serial_1.0.3_iphoneos-arm.deb
+Size: 1450336 
+MD5sum: 16a56da8a269458145daea749eb453a0
+SHA1: 02396bcb2e7f58c04ee4fc7f879cb0d477b01a7e
+SHA256: 7387b62eacee537abdb8659ba37db02bafcfc1a8615fe0a720e5fcc291d47858
+Name: Serial
+Depends: firmware (>= 11.0), org.swift.libswift
+Version: 1.0.3
+Architecture: iphoneos-arm
+Description: Quickly find information such as the manufacture date and model of an Apple device from its serial number.
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Utilities
+ 
 
 
 
