@@ -72,3 +72,137 @@ Icon: https://apt.alfhaily.me/cdn/assets/cercube-icon.png
 Maintainer: CrackedRepo <Gold Findings Only!!!>
 Installed-Size: 15688
 
+Package: org.mr.bird-poop
+Name: Bird Poop
+Author: CrackedRepo <Gold Findings Only!!!>
+Description: Destroy any player in any GamePigeon game!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Filename: ./debs/org.mr.bird-poop_1.0.9_iphoneos-arm.deb
+Size: 6753798 
+MD5sum: 3ef576f1a219b3926ea5e04020206b9e
+SHA1: f5c35bc844168663a6a2a8daf60bb88a6de284aa
+SHA256: 49d7307263245f84e59adcafc4438c0ac5895d7f6eb506bfba90cfa998d32dd8
+Version: 1.0.9
+Section: Games
+Depends: mobilesubstrate
+Depiction: https://mainrepo.org/package/3212
+SileoDepiction: https://mainrepo.org/sileo/3212
+Architecture: iphoneos-arm
+Installed-Size: 7648
+Icon: https://twickd.com/cdn/screenshots/9af76f887270ad5b04d750000e58b73b/default
+Tag: cydia::commercial
+
+Package: com.zx02.frame
+Filename: ./debs/com.zx02.frame_2.4.2_iphoneos-arm.deb
+Size: 1740536 
+MD5sum: d102a41d5fa804f009b6218e359943f9
+SHA1: 67105b6ab689d82ee6ad5a5686cc92339fd31f86
+SHA256: f34f1eac5d2af3495c26dd4e49534fbd4c59880f48807023c5f198bd29b24e5f
+Name: Frame
+Depends: mobilesubstrate,preferenceloader,firmware (>= 12.1.9)
+Architecture: iphoneos-arm
+Description: Bring your iDevice to life with true video wallpapers.
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Wallpaper
+Version: 2.4.2
+Installed-Size: 8516
+
+Package: ws.hbang.newterm2
+Name: NewTerm 2
+Filename: ./debs/ws.hbang.newterm2_2.5_iphoneos-arm.deb
+Size: 2017880 
+MD5sum: edfc0edf0e2080c1f7e3f762c19fb23e
+SHA1: b7137d41b2f51d3a9d6047405ba2f54485694f58
+SHA256: 20a7e7716cc1cb088136e92b0128ef12fa57670296023f93f3ec73c7be94916e
+Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.common (>= 1.16), bash, coreutils, ncurses, system-cmds, gettext-localizations | com.linusyang.localeutf8
+Conflicts: ws.hbang.newterm, com.lint.ntarrows
+Replaces: ws.hbang.newterm, com.lint.ntarrows
+Architecture: iphoneos-arm
+Description: A powerful terminal app for iOS!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Terminal Support
+Icon: https://chariz.com/cdn/icon/newterm/icon@3x.png
+Depiction: https://chariz.com/get/newterm
+Support: https://hashbang.productions/support/
+Tag: compatible_min::ios10.0
+Version: 2.5
+Installed-Size: 6664
+
+Package: me.alfhaily.rocket
+Filename: ./debs/me.alfhaily.rocket_3.7.23_iphoneos-arm.deb
+Size: 2365792 
+MD5sum: 445316b267fc7bf2de34c1a3fb0d5661
+SHA1: 65e9a4098983acccdc448d9cf3ce2123e5affae2
+SHA256: 4a8b6e9ab00ed22aa5f153cd7b060f687271cc769f4d48b3fc65a047fb085781
+Name: Rocket for Instagram
+Description: Save posts and view stories anonymously and do much more!
+Section: Tweaks
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.10~beta1)
+Priority: optional
+Architecture: iphoneos-arm
+Author: CrackedRepo <Gold Findings Only!!!>
+Depiction: https://apt.alfhaily.me/depiction/4EYOXC
+SileoDepiction: https://apt.alfhaily.me/depiction/sileo/4EYOXC
+Icon: https://apt.alfhaily.me/cdn/assets/rocket-icon.png
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Version: 3.7.23
+Installed-Size: 9552
+
+Package: com.polytweaks.aerial2
+Filename: ./debs/com.polytweaks.aerial2_1.0.3_iphoneos-arm.deb
+Size: 81404 
+MD5sum: 65cab20675d59c620ad6fd1801ecf2b5
+SHA1: 8406dab1a9ae8b6dfd2bf772303e4cc55975a77b
+SHA256: 9e556ff03505688fbf1a9bf51290095625715927d7a477357d02983a3faf4593
+Name: Aerial 2
+Version: 1.0.3
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Installed-Size: 5172
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Description: An awesome MobileSubstrate tweak!
+
+Package: com.restiveconch.actionbar
+Filename: ./debs/com.restiveconch.actionbar_1.3.7_iphoneos-arm.deb
+Size: 46876 
+MD5sum: 9f71ecfead0e6d7cb62078fb27f02f4f
+SHA1: d45990a79ae5c9b26be989a1faf4527e4d4dcd73
+SHA256: c961b27670c1b3d20da0d5c4ebe630f269dced2c798aae8a35a0b5fa4a61c7e6
+Name: ActionBar
+Version: 1.3.7
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Installed-Size: 416
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Description: Undo, redo, select all, copy, cut and paste actions on bottom of keyboard.
+
+Package: info.adolfoi.agentcamera
+Filename: ./debs/info.adolfoi.agentcamera_1.1.0_iphoneos-arm.deb
+Size: 49300 
+MD5sum: 82b6a33c15438f44c5bba262f19fd12e
+SHA1: e6ff0ce2d544646d7c5556865f9ee9e9fb90c077
+SHA256: ee6a3eff88271acf2a5f45e9730bb322a74f167c105880d9935eaf7e09f12797
+Name: AgentCamera
+Version: 1.1.0
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: org.swift.libswift (>= 5.0)
+Installed-Size: 296
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Description: Using secret camera without anyone noticing.
+Homepage: https://adolfoi.info
+dev: Adolfoi_
+
+
+
+
+
+
+
