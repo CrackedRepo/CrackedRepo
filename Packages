@@ -602,3 +602,33 @@ Installed-Size: 4516
 Icon: https://twickd.com/cdn/screenshots/2088bf4c0e95cb0a7556b4c02cddf652/default
 Tag: purpose::extension, compatible_min::ios13.0, compatible_max::ios13.6
 
+Package: com.withertech.appgrid
+Filename: ./debs/com.withertech.appgrid_0.0.2-2_iphoneos-arm.deb
+Size:  35244 
+MD5sum: 846e1afb0a15470034998290cb9e88f1
+SHA1: c121e60ca4392d710dea7c01336a5818d9f74dc7
+SHA256: 3215141d933349b02b0e35264dd8e866136febc4c70d445c60e7c692549e3b82
+Name: AppGrid
+Version: 0.0.2-2
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Description: Change the style of the App Switcher to have an app grid like on the iPad.
+
+Package: com.spark.freshwall
+Filename: ./debs/com.spark.freshwall_0.0.30~Beta8_iphoneos-arm.deb
+Size: 988884  
+MD5sum: 7651f5ad3defdd9fb5d5be90fd8fb325
+SHA1: 8c96596f653bf7a772c6e5827181be4a16d300d3
+SHA256: 4212bba7be300ef4016bfa7b03bf239d8cd51513123a0db95fe370c37c0a6d50
+Name: FreshWall
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: A fresh wallpaper every unlock!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Version: 0.0.30~Beta8
+Installed-Size: 2388
