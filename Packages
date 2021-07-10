@@ -388,7 +388,7 @@ Section: Utilities
  
 Architecture: iphoneos-arm
 Package: repo.dpkghub.cydown
-Filename: ./debs/repo.dpkghub.cydown_7.1.1_iphoneos-arm.deb
+Filename: ./debs/repo.dpkghub.cydown.deb
 Size: 4358100 
 MD5sum: 5603c5d90c575c3454f521ce1e9ad4ae
 SHA1: 71710c67cdefadc7876ce204dfb5330a442b5e4a
