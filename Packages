@@ -130,26 +130,6 @@ Tag: compatible_min::ios10.0
 Version: 2.5
 Installed-Size: 6664
 
-Package: me.alfhaily.rocket
-Filename: ./debs/me.alfhaily.rocket_3.7.23_iphoneos-arm.deb
-Size: 2365792 
-MD5sum: 445316b267fc7bf2de34c1a3fb0d5661
-SHA1: 65e9a4098983acccdc448d9cf3ce2123e5affae2
-SHA256: 4a8b6e9ab00ed22aa5f153cd7b060f687271cc769f4d48b3fc65a047fb085781
-Name: Rocket for Instagram
-Description: Save posts and view stories anonymously and do much more!
-Section: Tweaks
-Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.10~beta1)
-Priority: optional
-Architecture: iphoneos-arm
-Author: CrackedRepo <Gold Findings Only!!!>
-Depiction: https://apt.alfhaily.me/depiction/4EYOXC
-SileoDepiction: https://apt.alfhaily.me/depiction/sileo/4EYOXC
-Icon: https://apt.alfhaily.me/cdn/assets/rocket-icon.png
-Maintainer: CrackedRepo <Gold Findings Only!!!>
-Version: 3.7.23
-Installed-Size: 9552
-
 Package: com.polytweaks.aerial2
 Filename: ./debs/com.polytweaks.aerial2_1.0.3_iphoneos-arm.deb
 Size: 81404 
@@ -421,9 +401,84 @@ Maintainer: CrackedRepo <Gold Findings Only!!!>
 Section: Tweaks
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Name: Rocket for Instagram
+Package: me.alfhaily.rocket
+Filename: ./debs/me.alfhaily.rocket_3.7.24_iphoneos-arm.deb
+Size: 2366554 
+MD5sum: 835bf0a0a17ffa1bb69dfec0e724de06
+SHA1: 577f497c4f5dcafe3408890ea12b3daf129638a3
+SHA256: 737a1b2a7f764f0b921c444bc59f489e33f4e23088282e7acfd1df0ce5746181
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap (>= 1.0.10~beta1)
+Section: Tweaks
+Installed-Size: 9322
+Version: 3.7.24
+Architecture: iphoneos-arm
+Description: Save posts and view stories anonymously and do much more!
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=rocketforinstagramDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=rocketforinstagramDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: freemanrepo
+Tag: purpose::extension
+Icon: file:///Library/Application%20Support/Rocket/Rocket.bundle/rocket-icon-title@2x.png
+ 
+Package: com.crackedrepo.airpay
+Filename: ./debs/com.crackedrepo.airpay_1.0_iphoneos-arm.deb
+Size: 457878 
+MD5sum: f1ffaf9d14633c488a568a0c64413bcb
+SHA1: 5855f66a895def29dafd56225c6746adbbc724e4
+SHA256: fee9f16bcdf7b76875386d2825b4a299fa8103e1b200601eefa010066fef3f38
+Name: AirPay
+Author: CrackedRepo <Gold Findings Only!!!>
+Description: Reimagined your Apple Pay!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Version: 1.0
+Section: Tweaks
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, ws.hbang.common (>= 1.14)
+Depiction: https://mainrepo.org/index.php?pid=89
+SileoDepiction: https://mainrepo.org/sileo.php?pid=89
+Architecture: iphoneos-arm
+Installed-Size: 808
+Icon: https://twickd.com/cdn/screenshots/bc56af595db670d06d3e71a2d531dabd/default
+Tag: purpose::extension, compatible_min::ios13.0, compatible_max::ios13.3
 
+Package: com.crackedrepo.adjacentperiod
+Filename: ./debs/com.crackedrepo.adjacentperiod_1.1_iphoneos-arm.deb
+Size: 5732 
+MD5sum: 1a3dcb5f06523068178e0b1fb28fbefb
+SHA1: 2bf167c9914ee0057ae07ce33e308e093b892a31
+SHA256: 3a2e3297204babfb3dbaf52b5978512f1ae6a4fc666ecff0e6fed370a85eb441
+Name: AdjacentPeriod
+Author: CrackedRepo <Gold Findings Only!!!>
+Description: Always show the period key adjacent to the space bar, as in browser apps.
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Version: 1.1
+Section: Tweaks
+Depends: mobilesubstrate
+Depiction: https://mainrepo.org/package/1613
+SileoDepiction: https://mainrepo.org/sileo/1613
+Architecture: iphoneos-arm
+Installed-Size: 136
+Icon: https://twickd.com/cdn/screenshots/4291842a31efe08295bb8cbe60801b1a/default
+Tag: purpose::extension, compatible_min::ios10.0, compatible_max::ios13.6
 
-
-
-
-
+Package: com.crackedrepo.ainsworth
+Filename: ./debs/com.crackedrepo.ainsworth_1.4.0.4_iphoneos-arm.deb
+Size: 525922 
+MD5sum: 673eb51b1302f5e0fcc4bbaa777b3f66
+SHA1: a492f628f93f84feec65d70afe843721135cb662
+SHA256: e70c7de54294c5486f3553f2693de64157cc004f3055fbb2f59d097083dcffdf
+Name: Ainsworth
+Author: CrackedRepo <Gold Findings Only!!!>
+Description: The Connecting Experience You Deserve!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Version: 1.4.0.4
+Section: Tweaks
+Depends: mobilesubstrate, com.muirey03.libmryipc, applist, ws.hbang.common (>= 1.11), com.muirey03.libimagepicker, com.spark.libsparkcolourpicker
+Depiction: https://mrepo.org/depiction/3468
+SileoDepiction: https://mrepo.org/sileo/3468
+Architecture: iphoneos-arm
+Installed-Size: 1220
+Icon: https://twickd.com/images/1ed89297a886c2383bc0c52355144468.jpeg
+Tag: purpose::extension, compatible_min::ios13.0, compatible_max::ios13.4
