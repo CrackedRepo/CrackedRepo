@@ -616,3 +616,23 @@ Depends: mobilesubstrate
 Author: CrackedRepo <Gold Findings Only!!!>
 Maintainer: CrackedRepo <Gold Findings Only!!!>
 Description: Change the style of the App Switcher to have an app grid like on the iPad.
+
+Architecture: iphoneos-arm
+Package: com.aohuiliu.ipadbar13
+Filename: ./debs/com.aohuiliu.ipadbar13_2.0.2_iphoneos-arm.deb
+Size: 107656  
+MD5sum: c8ff1cb5561d6b33de50333567cda291
+SHA1: d2ef04f95bafc78e5308ba7ad92b359a8b19c0af
+SHA256: e1af1462cc9acb1a4ec48950e91008ceadb9b922de57dbda5c07a1b64c53585e
+Name: iPadBar13
+Version: 2.0.2
+Depiction: https://janedut.github.io/depiction/web/com.aohuiliu.ipadbar13.html
+SileoDepiction: https://janedut.github.io/depiction/native/com.aohuiliu.ipadbar13.json
+ModernDepiction: https://janedut.github.io/depiction/native/com.aohuiliu.ipadbar13.json
+Icon: https://janedut.github.io/assets/com.aohuiliu.ipadbar13/icon.png
+Description: Awesome Status Bar!
+Section: Tweaks
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, firmware (>= 13)
+Tags: compatible_min::ios13.0, compatible_max::ios13.6
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
