@@ -386,28 +386,6 @@ Maintainer: CrackedRepo <Gold Findings Only!!!>
 Author: CrackedRepo <Gold Findings Only!!!>
 Section: Utilities
  
-Architecture: iphoneos-arm
-Package: repo.dpkghub.cydown
-Filename: ./debs/repo.dpkghub.cydown.deb
-Size: 4358100 
-MD5sum: 5603c5d90c575c3454f521ce1e9ad4ae
-SHA1: 71710c67cdefadc7876ce204dfb5330a442b5e4a
-SHA256: 841693d776bb14759e74f07a11daafe6de6997724ffd4548fe742a8acd800ee3
-Name: CyDown
-Version: 7.1.1
-Depiction: https://repo.dpkghub.com/depiction/web/repo.dpkghub.cydown.html
-SileoDepiction: https://repo.dpkghub.com/depiction/native/repo.dpkghub.cydown.json
-ModernDepiction: https://repo.dpkghub.com/depiction/native/repo.dpkghub.cydown.json
-Icon: https://repo.dpkghub.com/assets/repo.dpkghub.cydown/icon.png
-Description: Download paid tweaks without paying
-Homepage: https://repo.dpkghub.com
-Section: System
-Depends: firmware (>=13.0), coreutils-bin, coreutils, mobilesubstrate, preferenceloader
-Author: CrackedRepo <Gold Findings Only!!!>
-Maintainer: CrackedRepo <Gold Findings Only!!!>
-Tag: role::enduser
-SomeOtherEntryToControl: True
-
 Package: com.muirey03.arc
 Filename: ./debs/com.muirey03.arc_1.0.4_iphoneos-arm.deb
 Size: 572990 
@@ -425,6 +403,23 @@ Icon: file:///Library/PreferenceBundles/ArcPrefs.bundle/Icon-Large.png
 Version: 1.0.4
 Installed-Size: 980
 
+Package: com.julioverne.cydown
+Filename: ./debs/com.julioverne.cydown_7.1.1_iphoneos-arm.deb
+Size: 4358056
+MD5sum: cd0eb2e0a8ebbd2f6a052fa596f03a89
+SHA1: ae29c69e57da2d62ff41ccd77ead0af1fc14e3ab
+SHA256: 47027504dc6b13bde402e5423fd3f06d6c20b94b9b94d274677753743cc692be
+Name: CyDown
+Author: CrackedRepo <Gold Findings Only!!!>
+Version: 7.1.1
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Cydia Download Manager & Extra Features!
+Homepage: http://twitter.com/ijulioverne
+Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.cydown
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 
 
 
