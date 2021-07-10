@@ -616,19 +616,3 @@ Depends: mobilesubstrate
 Author: CrackedRepo <Gold Findings Only!!!>
 Maintainer: CrackedRepo <Gold Findings Only!!!>
 Description: Change the style of the App Switcher to have an app grid like on the iPad.
-
-Package: com.spark.freshwall
-Filename: ./debs/com.spark.freshwall_0.0.30~Beta8_iphoneos-arm.deb
-Size: 988884  
-MD5sum: 7651f5ad3defdd9fb5d5be90fd8fb325
-SHA1: 8c96596f653bf7a772c6e5827181be4a16d300d3
-SHA256: 4212bba7be300ef4016bfa7b03bf239d8cd51513123a0db95fe370c37c0a6d50
-Name: FreshWall
-Depends: mobilesubstrate, preferenceloader
-Architecture: iphoneos-arm
-Description: A fresh wallpaper every unlock!
-Maintainer: CrackedRepo <Gold Findings Only!!!>
-Author: CrackedRepo <Gold Findings Only!!!>
-Section: Tweaks
-Version: 0.0.30~Beta8
-Installed-Size: 2388
