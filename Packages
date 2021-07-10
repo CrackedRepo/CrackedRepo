@@ -72,16 +72,17 @@ Icon: https://apt.alfhaily.me/cdn/assets/cercube-icon.png
 Maintainer: CrackedRepo <Gold Findings Only!!!>
 Installed-Size: 15688
 
-Package: org.mr.bird-poop
+Package: com.crackedrepo.bird-poop
+Filename: ./debs/com.crackedrepo.bird-poop_1.0.9_iphoneos-arm.deb
+Size: 6753864
+MD5sum: c62440252c258eec9615b372f24e3c4f
+SHA1: 923747d1b16674920934fb647b341ddfab1e8fc7
+SHA256:
+ce7b97013afed3b0138f838844b7c52b089d850e2339bf23668618150a20c695
 Name: Bird Poop
 Author: CrackedRepo <Gold Findings Only!!!>
 Description: Destroy any player in any GamePigeon game!
 Maintainer: CrackedRepo <Gold Findings Only!!!>
-Filename: ./debs/org.mr.bird-poop_1.0.9_iphoneos-arm.deb
-Size: 6753798 
-MD5sum: 3ef576f1a219b3926ea5e04020206b9e
-SHA1: f5c35bc844168663a6a2a8daf60bb88a6de284aa
-SHA256: 49d7307263245f84e59adcafc4438c0ac5895d7f6eb506bfba90cfa998d32dd8
 Version: 1.0.9
 Section: Games
 Depends: mobilesubstrate
