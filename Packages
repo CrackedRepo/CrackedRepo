@@ -483,3 +483,122 @@ Architecture: iphoneos-arm
 Installed-Size: 1220
 Icon: https://twickd.com/images/1ed89297a886c2383bc0c52355144468.jpeg
 Tag: purpose::extension, compatible_min::ios13.0, compatible_max::ios13.4
+
+Package: com.crackedrepo.astrid
+Filename: ./debs/com.crackedrepo.astrid_1.2_iphoneos-arm.deb
+Size: 1919164 
+MD5sum: 87c13e4aaab2c2ef5da97ab3033b0b72
+SHA1: 650355a6907e5bc13d120cfe83282436bef5d934
+SHA256: 51f9e5180b2238f45d01c1c9956d2ab33773094aa7f206988457738db66318d9
+Name: Astrid
+Author: CrackedRepo <Gold Findings Only!!!>
+Description: Stellar multitasking!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Version: 1.2
+Section: Tweaks
+Depends: mobilesubstrate, ws.hbang.common, com.spark.libsparkcolourpicker,
+firmware (>= 13.0), com.peterdev.libpddokdo
+Depiction: https://mainrepo.org/package/1220
+SileoDepiction: https://mainrepo.org/sileo/1220
+Architecture: iphoneos-arm
+Installed-Size: 4344
+Icon: https://twickd.com/cdn/screenshots/60dcfde51452aae9ef947cde9810ad70/default
+Tag: purpose::extension, compatible_min::ios13.0, compatible_max::ios13.6
+
+Package: com.crackedrepo.autoredial
+Filename: ./debs/com.crackedrepo.autoredial_0.7.7_iphoneos-arm.deb
+Size: 85588 
+MD5sum: 4b86a00dc4b5eeec8edf58839d01a4af
+SHA1: 53afebc5120f49aa38a15fbf3cbb5951d22f7c78
+SHA256: 17386e3de4d02812b8e69b842a9486656ec61269d9c5e9bb4ebd0af75b521b75
+Name: AutoRedial
+Author: CrackedRepo <Gold Findings Only!!!>
+Description: A simple Tweak to AutoRedial call till it connects.
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Version: 0.7.7
+Section: Tweaks
+Depends: mobilesubstrate
+Depiction: https://mainrepo.org/package/1726
+SileoDepiction: https://mainrepo.org/sileo/1726
+Architecture: iphoneos-arm
+Installed-Size: 468
+Icon: https://twickd.com/cdn/screenshots/f66792661a663a1eef2ee6da0c47712c/default
+
+Package: com.crackedrepo.aurore
+Filename: ./debs/com.crackedrepo.aurore_1.1_iphoneos-arm.deb
+Size: 369372 
+MD5sum: f0eda147e3c8a0acbd21f6798cad9b82
+SHA1: c3c985c639882b0974ed2ff8ea2133c5ca3d31a9
+SHA256: fe9b05540f42d56fcf9c51b3aa18723aaac15e1a77407e6ab1554fe8af097522
+Name: Aurore
+Author: CrackedRepo <Gold Findings Only!!!>
+Description: Revamped iOS Alarms!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Version: 1.1
+Section: Tweaks
+Depends: mobilesubstrate, com.cokepokes.libnotifications
+Depiction: https://mainrepo.org/package/1454
+SileoDepiction: https://mainrepo.org/sileo/1454
+Architecture: iphoneos-arm
+Installed-Size: 1012
+Icon: https://twickd.com/cdn/screenshots/ac130df33ceb132d4d494c0a2d9f3cf4/default
+Tag: purpose::extension, compatible_min::ios13.0, compatible_max::ios13.6
+
+Package: com.crackedrepo.bigsurcenter
+Filename: ./debs/com.crackedrepo.bigsurcenter_1.2.0_iphoneos-arm.deb
+Size: 933640 
+MD5sum: dfcdd106f0fef9919dec81cf60e1e04c
+SHA1: d5003592e6cb4023b5ad5bc76ab09b5cfc04e1b5
+SHA256: 239d0796531ed34b178a39453b790e54afd9c29b7370b1168a99cd839a384ad6
+Name: BigSurCenter
+Author: CrackedRepo <Gold Findings Only!!!>
+Description: BigSurCenter replaces the default iOS control center with a new lightweight and elegant one inspired by the new control center in MacOS Big Sur.
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Version: 1.2.0
+Section: Tweaks
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), preferenceloader, com.opa334.ccsupport, com.rpetrich.rocketbootstrap (>= 1.0.6), ws.hbang.alderis (>= 1.1)
+Depiction: https://mrepo.org/depiction/3791
+SileoDepiction: https://mrepo.org/sileo/3791
+Architecture: iphoneos-arm
+Icon: https://twickd.com/images/7974e706e421fbaaa917586b8f869f7f.jpeg
+
+Package: com.crackedrepo.bottomtoolbar
+Filename: ./debs/com.crackedrepo.bottomtoolbar_1.5.2_iphoneos-arm.deb
+Size: 1906760 
+MD5sum: b4df3ec04fab659310a5d332b0097ad6
+SHA1: 2bebf322532e8dc739a80498968611c68b28a2de
+SHA256: db8647818926df39de9b64b08339f7cf3ed8d60a0c6a2da370638d9efa24000f
+Name: BottomToolBar
+Author: CrackedRepo <Gold Findings Only!!!>
+Description: A useful and beautiful tool bar for your devices.
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Version: 1.5.2
+Section: Tweaks
+Depends: mobilesubstrate
+Depiction: https://mainrepo.org/package/1352
+SileoDepiction: https://mainrepo.org/sileo/1352
+Architecture: iphoneos-arm
+Installed-Size: 3316
+Icon: https://twickd.com/cdn/screenshots/99763cd0a2fa4326d398aa165ddfcbb3/default
+Tag: purpose::extension, compatible_min::ios12.2, compatible_max::ios13.3
+
+Package: com.crackedrepo.caim
+Filename: ./debs/com.crackedrepo.caim_1.2.0_iphoneos-arm.deb
+Size: 4044338  
+MD5sum: 841654b54bd383e4e755c2469043ffba
+SHA1: d61253270fe3bd1398979213778d849dd9078c92
+SHA256: 3ed53e4dbe2cc27fb5743124cc1fdd7233c3d63e8b9debf40fa58690a9d05403
+Name: Caim
+Author: CrackedRepo <Gold Findings Only!!!>
+Description: iOS 14 pinned messages feature ported to iOS 13!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Version: 1.2.0
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), me.conorthedev.libappearancecell
+Depiction: https://mainrepo.org/package/1939
+SileoDepiction: https://mainrepo.org/sileo/1939
+Architecture: iphoneos-arm
+Installed-Size: 4516
+Icon: https://twickd.com/cdn/screenshots/2088bf4c0e95cb0a7556b4c02cddf652/default
+Tag: purpose::extension, compatible_min::ios13.0, compatible_max::ios13.6
+
