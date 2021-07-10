@@ -636,3 +636,149 @@ Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, firmware (>= 13)
 Tags: compatible_min::ios13.0, compatible_max::ios13.6
 Author: CrackedRepo <Gold Findings Only!!!>
 Maintainer: CrackedRepo <Gold Findings Only!!!>
+
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Name: Safari Plus
+Package: com.opa334.safariplus
+Filename: ./debs/com.opa334.safariplus_1.7.17-5_iphoneos-arm.deb
+Size: 1194686 
+MD5sum: d750236c79a884a622d447720b0a5554
+SHA1: 0c0b792ad2be58a4d11f1c71908744b5b1a23744
+SHA256: facc4df7b4fc0fcb3a3621df1991e59621114fe9c327c022800e61d45eb72c2b
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap, com.opa334.libundirect (>= 1.1) | firmware (<< 14.0)
+Section: Tweaks
+Installed-Size: 5420
+Version: 1.7.17-5
+Architecture: iphoneos-arm
+Description: Various enhancements to Safari!
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safariplusDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safariplusDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: opa334
+Tag: purpose::extension
+Icon: file:///Library/PreferenceBundles/SafariPlusPrefs.bundle/SPPRootIcon@2x.png
+
+Package: com.crackedrepo.batchomatic
+Filename: ./debs/com.crackedrepo.batchomatic_4.3.2_iphoneos-arm.deb
+Size: 109056  
+MD5sum: 614e36c748814fe353eb263817f40efe
+SHA1: 60d3d9b951f0898baf9fcb082596b26a8dc98266
+SHA256: e65897d5599476d0e694a0ff8d8ced4c062d8ed63cb3a199d1062eb5275b6b84
+Name: Batchomatic
+Version: 4.3.2
+Depends: firmware (>=11.0), mobilesubstrate, coreutils
+Installed-Size: 484
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Batch install your tweaks, repos, saved .debs, tweak preferences, and hosts file!
+Depiction: https://captinc.me/batchomatic
+
+Package: com.cokepokes.appstoreplusplus
+Filename: ./debs/com.cokepokes.appstoreplusplus_0.9.16-2_iphoneos-arm.deb
+Size: 3024992   
+MD5sum: e953eed8ca5b093477ba291a16c96d9e
+SHA1: bb9a0dfcf9f7c0cfe0e718c71d05c75e52c6cae3
+SHA256: 18e928fb6df9b351f0454a8ed738bcc22c64fe5a2ff4802bbbf12416dd7ec298
+Name: AppStore++
+Version: 0.9.16-2
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-14 whatever!
+Section: Tweaks
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Replaces:
+Priority: optional
+Architecture: iphoneos-arm
+Author: CrackedRepo <Gold Findings Only!!!>
+dev:
+Homepage:
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Icon:
+
+Package: com.spark.ants
+Filename: ./debs/com.spark.ants_1.0.4_iphoneos-arm.deb
+Size: 81124 
+MD5sum: d11b9ec2d9a0dc9d7cd8b618e5095351
+SHA1: 12e26a6de09e51c66213eb592fc0870c40ea8f7e
+SHA256: ba3b515d5017208ab39d67b510a52b22e0949eaf46b7f32ef5ed760dc830c260
+Name: Ants
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: A classic iOS tweak!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Version: 1.0.4
+Installed-Size: 728
+
+Package: com.julioverne.spotilife
+Filename: ./debs/com.julioverne.spotilife_1.6_iphoneos-arm.deb
+Size: 220010  
+MD5sum: 4f64d14ac7b74c0a7289dfcd29cc7a89
+SHA1: da4368fcb7b2bbcdb069048597f428013647fa8f
+SHA256: 5a60a5a23e6c597bd15e24d8cd88418bf935cad4c88c52cb6590eaf0cfa1407f
+Name: Spotilife
+Author: CrackedRepo <Gold Findings Only!!!>
+Version: 1.6
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)
+Homepage: http://twitter.com/ijulioverne
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.spotilife
+
+Package: com.pixelomer.mobilegoose
+Filename: ./debs/com.pixelomer.mobilegoose_1.3.1_iphoneos-arm.deb
+Size: 636378   
+MD5sum: 8ce3a80901ce25676b47d490cf045fa8
+SHA1: b5290f8e6674fe707f1b6651a674395e320587e6
+SHA256: d711d0b285a4bb1d8a8ab7b9683aaba68c021ad7c25a7a853e46fa6706100ee1
+Name: MobileGoose
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: An annoying goose for your iDevice!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Version: 1.3.1
+Installed-Size: 1104
+
+Package: com.imkpatil.colormybattery
+Filename: ./debs/com.imkpatil.colormybattery_1.3.3.1_iphoneos-arm.deb
+Size: 37546    
+MD5sum: 64a1e93fef3c3e388e716e44c597d24f
+SHA1: fc47e2808f5e72bea5f2b060ab7389e957298691
+SHA256: b8ebdcd1a8258e165db3624f4cde3cab59a35cfec494f53a00c398c6e87bd0c9
+Name: ColorMyBattery
+Version: 1.3.3.1
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Installed-Size: 368
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Description: Battery Color based on the battery percentage.
+Icon: file:///Library/Application Support/ColorMyBattery/icon.png
+
+Package: com.crackedrepo.lynx
+Filename: ./debs/com.crackedrepo.lynx_1.9.5-2_iphoneos-arm.deb
+Size: 1210160    
+MD5sum: 78923a8ef841ed1a792356c82f5e7664
+SHA1: 48ee3c9b3f32e7c9d8b0a35210c1d168eeebd093
+SHA256: e8163b794dd0da2da6733bd43a409e752c33ae4c1841ccac669dbb4710c8b7ec
+Name: Lynx
+Author: CrackedRepo <Gold Findings Only!!!>
+Description: Ultimate device customization!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Version: 1.9.5-2
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 12.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker
+Depiction: https://mainrepo.org/package/2525
+SileoDepiction: https://mainrepo.org/sileo/2525
+Architecture: iphoneos-arm
+Installed-Size: 2476
+Icon: https://twickd.com/cdn/screenshots/6195125da9033aac54ffa8c087ff0eaa/default
