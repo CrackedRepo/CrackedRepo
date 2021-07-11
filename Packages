@@ -782,3 +782,35 @@ SileoDepiction: https://mainrepo.org/sileo/2525
 Architecture: iphoneos-arm
 Installed-Size: 2476
 Icon: https://twickd.com/cdn/screenshots/6195125da9033aac54ffa8c087ff0eaa/default
+
+Package: com.midnightchips.harpy
+Filename: ./debs/com.midnightchips.harpy_2.0.1_iphoneos-arm.deb
+Size: 4854026     
+MD5sum: 3559fecce45700cd3fc6504c5f088fc4
+SHA1: 5c0fd5947b139f6eebb42d66a8d73a34ad0b6d7c
+SHA256: 9ecdae8ff5db817d8b9c66cff196c594011132b356b4f0dd2a41606e0ea64924
+Name: Harpy
+Version: 2.0.1
+Section: System
+Architecture: iphoneos-arm
+Depends: network-cmds
+Installed-Size: 12848
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Description: Control your network with ease!
+
+Architecture: iphoneos-arm
+Depends: firmware (>= 11.0), com.modmyi.libswift4
+Author: CrackedRepo <Gold Findings Only!!!>
+Description: AirDrop Flooder GUI!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Name: Trolldrop
+Package: me.midnightchips.trolldrop
+Filename: ./debs/me.midnightchips.trolldrop_1.0.0_iphoneos-arm.deb
+Size: 870220      
+MD5sum: 04e50555012dfd5c923fb695bd176760
+SHA1: 136d70ce2f1e8d56c3024684629f30f32c395e57
+SHA256: 84f1869f0bc2edfdeb99b33f498e8998937116a3a57b18cc2a5a142008e9a9c7
+Section: System
+Version: 1.0.0
+Depiction: https://midnightchips.me/depiction/?trolldrop-gui
