@@ -880,7 +880,7 @@ Icon: file:///Applications/Pandolife.app/logo-64.png
 Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.pandolife
 
 Package: h.ryan.youtubereborn
-Filename: ./debs/h.ryan.youtubereborn_2.1.3.3_iphoneos-arm.deb
+Filename: ./debs/YoutubeReborn.deb
 Size: 179830 
 MD5sum: 685407d2985256091a8e18d19371d9f2
 SHA1: e93c5f6deb61992bfc9839bd7acf072b576d976b
