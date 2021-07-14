@@ -814,3 +814,69 @@ SHA256: 84f1869f0bc2edfdeb99b33f498e8998937116a3a57b18cc2a5a142008e9a9c7
 Section: System
 Version: 1.0.0
 Depiction: https://midnightchips.me/depiction/?trolldrop-gui
+
+Name: accDemo
+Package: com.brend0n.accdemo
+Filename: ./debs/com.brend0n.accdemo_0.2.2_iphoneos-arm.deb
+Size: 5732      
+MD5sum: 1a3dcb5f06523068178e0b1fb28fbefb
+SHA1: 2bf167c9914ee0057ae07ce33e308e093b892a31
+SHA256: 3a2e3297204babfb3dbaf52b5978512f1ae6a4fc666ecff0e6fed370a85eb441
+Priority: optional
+Depends: mobilesubstrate, preferenceloader, applist
+Version: 0.2.2
+Architecture: iphoneos-arm
+Description: unity/cocos2d game accelerator!
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=accdemoDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=accdemoDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Tag: purpose::extension
+Installed-Size: 672
+dev: brend0n
+
+Architecture: iphoneos-arm
+Package: com.sgtaziz.webmessage
+Filename: ./debs/com.sgtaziz.webmessage_0.6.2_iphoneos-arm.deb
+Size: 1176106       
+MD5sum: 87bf7015de812f02b75f12935ad0fca9
+SHA1: d0935495f49ae62b72dee735fdcb93992e546f72
+SHA256:  8a5fb8790289fc33a09861f1f6584a4054a2bcbbc832f160f5535a961eb71f9a
+Name: WebMessage
+Version: 0.6.2
+Depiction: https://sgtaziz.github.io/repo/depiction/web/com.sgtaziz.webmessage.html
+SileoDepiction: https://sgtaziz.github.io/repo/depiction/native/com.sgtaziz.webmessage.json
+ModernDepiction: https://sgtaziz.github.io/repo/depiction/native/com.sgtaziz.webmessage.json
+Icon: https://sgtaziz.github.io/repo/assets/com.sgtaziz.webmessage/icon.png
+Description: Your messages, on every device.
+Homepage: https://sgtaziz.github.io/repo
+Section: Tweaks
+Pre-Depends: openssl
+Depends: firmware (>=12.0), com.muirey03.libmryipc, mobilesubstrate, preferenceloader
+Tags: compatible_min::ios12.0, compatible_max::ios14.0
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Tag: role::enduser
+SomeOtherEntryToControl: False
+
+Package: com.julioverne.pandolife
+Filename: ./debs/com.julioverne.pandolife_0.9c_iphoneos-arm.deb
+Size: 18320758     
+MD5sum: bcecaf65183e537a0e389ff3a6ec552f
+SHA1: 420981f74c2115612b8c678b8dcff2ae13365593
+SHA256: 7c6c5182e943500e2242c336288325e53abfe467be4d2970bce35d47f7132aef
+Name: Pandolife
+Author: CrackedRepo <Gold Findings Only!!!>
+Version: 0.9c
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Pandora No ADs, Download Manager Library, High Quality Stream, Unlimited Skips, No delay Button Skip, No 180 minutes timeout... Requires Pandora App (AppStore)
+Homepage: http://twitter.com/ijulioverne
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Icon: file:///Applications/Pandolife.app/logo-64.png
+Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.pandolife
+
+ 
