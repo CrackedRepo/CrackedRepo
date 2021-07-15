@@ -52,17 +52,16 @@ Author: CrackedRepo <Gold Findings Only!!!>
 Name: iSecureOS
 
 Package: me.alfhaily.cercube
+Filename: ./debs/me.alfhaily.cercube_5.2.27_iphoneos-arm.deb
+Size: 3806498 
+MD5sum: 7d4ee5274b63338177115e406cc8b204
+SHA1: ef25ced8f77bcbeac9979383b2641fb19eecd57f
+SHA256: a238e5279496b245a3beaff82d73c3b053f953c9cfe11fcfc324a446dc893d1d
 Name: Cercube for YouTube
 Description: Download YouTube videos and more!
-Version: 5.2.17
 Section: Tweaks
-Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.10~beta1)
+Depends: firmware (>= 9.0), mobilesubstrate
 Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
-Filename: ./debs/me.alfhaily.cercube_5.2.17_iphoneos-arm.deb
-Size:  3879206
-MD5sum: 84cb41a9c039af4cf70f40fa422c9ecb
-SHA1: 9caf7a3ae891e4c1e60916ea390f004299feb7a7
-SHA256: 6caef7e2702773f227b9c5d81c4b4e0e3696423e39cc62a1b4c7a297363a7009
 Priority: optional
 Architecture: iphoneos-arm
 Author: CrackedRepo <Gold Findings Only!!!>
@@ -70,7 +69,8 @@ Depiction: https://apt.alfhaily.me/depiction/FDXO5R
 SileoDepiction: https://apt.alfhaily.me/depiction/sileo/FDXO5R
 Icon: https://apt.alfhaily.me/cdn/assets/cercube-icon.png
 Maintainer: CrackedRepo <Gold Findings Only!!!>
-Installed-Size: 15688
+Version: 5.2.27
+Installed-Size: 15576
 
 Package: com.crackedrepo.bird-poop
 Filename: ./debs/com.crackedrepo.bird-poop_1.0.9_iphoneos-arm.deb
@@ -715,14 +715,14 @@ Version: 1.0.4
 Installed-Size: 728
 
 Package: com.julioverne.spotilife
-Filename: ./debs/com.julioverne.spotilife_1.6_iphoneos-arm.deb
-Size: 220010  
-MD5sum: 4f64d14ac7b74c0a7289dfcd29cc7a89
-SHA1: da4368fcb7b2bbcdb069048597f428013647fa8f
-SHA256: 5a60a5a23e6c597bd15e24d8cd88418bf935cad4c88c52cb6590eaf0cfa1407f
+Filename: ./debs/com.julioverne.spotilife_1.7_iphoneos-arm.deb
+Size: 193382 
+MD5sum: 1f045a8bc7970344b9319fd8e03581d0
+SHA1: 1df3681c0d4b90660a8a71ba8c39cf0d5780f477
+SHA256: 858858481477d8abba663a1a64ceb0fe7cb6d367fb88849b1c927fbbe79611ee
 Name: Spotilife
 Author: CrackedRepo <Gold Findings Only!!!>
-Version: 1.6
+Version: 1.7
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)
