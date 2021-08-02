@@ -897,3 +897,54 @@ Icon: https://apt.alfhaily.me/cdn/assets/cercube-icon.png
 Maintainer: CrackedRepo <Gold Findings Only!!!>
 Version: 5.2.28
 Installed-Size: 18408
+
+Package: com.laxus.iosgodsiapcracker
+Filename: ./debs/com.laxus.iosgodsiapcracker_1.0-2+debug_iphoneos-arm.deb
+Size: 18412 
+MD5sum: f609fdef7758b9f6c5b544781c58ded7
+SHA1: 6c7108cb350d2442aebc099fe3b2feaf939a55d6
+SHA256: 9f4b9857cd7a8286a14b477e5796cc14d7d71224fb8d8987a5a0324c4871aeb7
+Name: iOSGods iAP Cracker
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Free iAP Purchase for some apps and games, it doesn‚Äôt always work so don‚Äôt expect much. Turn on the tweak inside iOS Settings. This tweak is made by @Laxus for iOSGods.com, supported A12 / A13 devices!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Version: 1.0-2+debug
+Installed-Size: 296
+
+Package: com.anthopak.switchshades
+Filename: ./debs/com.anthopak.switchshades_1.1.3_iphoneos-arm.deb
+Size: 514098 
+MD5sum: 41b142b031d2a9e703fed0fbfe8fb96c
+SHA1: 958e827e454144cd69a97a8033531d33d8bdfce8
+SHA256: 1682100b09172086174e422b53d3485aee921bb2676ab118552193e35d2864eb
+Name: SwitchShades
+Version: 1.1.3
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 11.0)
+Installed-Size: 1112
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Description: Bring color to your app switcher based on app icon!
+
+Package: com.cemck.killx-pro
+Filename: ./debs/com.cemck.killx-pro_3.0.2_iphoneos-arm.deb
+Size: 197056  
+MD5sum: 4e58eca5693803bb216c620e03c9a106
+SHA1: 4657fc761a4a73c482d62a003984f862dc6f3842
+SHA256: 6b5e19af871e53e898f4dc0b666a85cdeb71a1930345ee7dabf20a462a1bf4fc
+Name: KillX Pro
+Version: 3.0.2
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader, applist, firmware (>= 13.0)
+Conflicts: com.cemck.killx
+Installed-Size: 984
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Description: One swipe to kill them all!
+Icon: file:///Library/PreferenceBundles/KillXProPrefs.bundle/icon_pro_big@3x.png
+
