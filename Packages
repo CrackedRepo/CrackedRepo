@@ -948,3 +948,36 @@ Maintainer: CrackedRepo <Gold Findings Only!!!>
 Description: One swipe to kill them all!
 Icon: file:///Library/PreferenceBundles/KillXProPrefs.bundle/icon_pro_big@3x.png
 
+Package: com.ajaidan.reachoptions
+Filename: ./debs/com.ajaidan.reachoptions_1.1.1_iphoneos-arm.deb
+Size: 16264 
+MD5sum: 9dfb08356a7cc1f532e02edbc8435125
+SHA1: dd535479ccb4424da63c11a62477cfe2fefc374f
+SHA256: 927cab48794cb6fb88af21f1a1dffba04691a14017bc07e870507a3d744eb4aa
+Name: ReachOptions
+Version: 1.1.1
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 11.0)
+Installed-Size: 312
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Description: A tweak to add options to reachability.
+
+Package: com.imkpatil.callblocker
+Filename: ./debs/com.imkpatil.callblocker_2.0.3_iphoneos-arm.deb
+Size: 51616 
+MD5sum: 5969fa8d11c78991b22ccc84241a2a2d
+SHA1: 34eb8286c62ae6739c26159db9fd2ae164787613
+SHA256: f5750a71bcaaea6fd18c8c52ee1d3c0d69f80538a0e838b0bf077b936628f9f4
+Name: CallBlocker
+Version: 2.0.3
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader
+Installed-Size: 512
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Description: Block annoying Callers!
+Icon: file:///Library/Application Support/CallBlocker/icon.png
+
