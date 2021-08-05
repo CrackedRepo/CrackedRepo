@@ -981,3 +981,22 @@ Maintainer: CrackedRepo <Gold Findings Only!!!>
 Description: Block annoying Callers!
 Icon: file:///Library/Application Support/CallBlocker/icon.png
 
+Package: org.zaid.assistantplus
+Filename: ./debs/org.zaid.assistantplus_2.0.4_iphoneos-arm.deb
+Size: 466286
+MD5sum: 96468a5dca9d7d3ac97bb63ef7081439
+SHA1: a0a004577447ce422b9514bc9c647725da13c912
+SHA256: 914b1dfd18927c8845b346502758f5556b072d1dbcab1179a7521e8be966773c
+Name: Assistant+
+Version: 2.0.4
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Installed-Size: 1628
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Description: Assign commands to trigger Activator events from Siri, set up custom replies for Siri, and use and create plugins for Siri using the Assistant+ plugin 
+framework!
+Icon: file:///Applications/AssistantPlusApp.app/Icon.png
+
+
