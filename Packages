@@ -1031,6 +1031,27 @@ Maintainer: CrackedRepo <Gold Findings Only!!!>
 Author: CrackedRepo <Gold Findings Only!!!>
 Section: Utilities 
 
+Package: me.alfhaily.cercube
+Filename: ./debs/me.alfhaily.cercube_5.3.0_iphoneos-arm.deb
+Size: 4163644 
+MD5sum: 9711127778da7980a509b7ecc3f8e71a
+SHA1: 57f0bb3c28c8a0afeb47357ab33e411d16be02f6
+SHA256: 3f0e58b746b28fb58268587f6318642806f8fd4ff18ef035d9da24c9608753bc
+Name: Cercube for YouTube
+Description: Download YouTube videos and more!
+Section: Tweaks
+Depends: firmware (>= 9.0), mobilesubstrate
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
+Priority: optional
+Architecture: iphoneos-arm
+Author: CrackedRepo <Gold Findings Only!!!>
+Depiction: https://apt.alfhaily.me/depiction/FDXO5R
+SileoDepiction: https://apt.alfhaily.me/depiction/sileo/FDXO5R
+Icon: https://apt.alfhaily.me/cdn/assets/cercube-icon.png
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Version: 5.3.0
+Installed-Size: 16716
+
 
 
 
