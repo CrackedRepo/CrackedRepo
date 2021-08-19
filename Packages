@@ -1052,6 +1052,81 @@ Maintainer: CrackedRepo <Gold Findings Only!!!>
 Version: 5.3.0
 Installed-Size: 16716
 
+Package: ai.paisseon.satella
+Filename: ./debs/ai.paisseon.satella_2.4_iphoneos-arm.deb
+Size: 48766
+MD5sum: 5978402f3be8727caf56bfde50c6a3bd
+SHA1: c86c0a0d75d8ae8676b7e2db8f8789d2eb489a63
+SHA256: faa92208ca9e4a77981b8c07d4f5f76f01f820936b140f7eb428c679f44e03ce
+Name: Satella
+Author: CrackedRepo <Gold Findings Only!!!>
+Description: Aishiteru.
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Architecture: iphoneos-arm
+Icon: https://i.imgur.com/HHOvZoD.png
+SileoDepiction: https://paisseon.github.io/info/satella.json
+Version: 2.4
+Installed-Size: 408
+
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Name: AltList
+Package: com.opa334.altlist
+Filename: ./debs/com.opa334.altlist_1.0.6-2_iphoneos-arm.deb
+Size: 46278 
+MD5sum: 0a6f3a070b12c318ebd88cc381de3fe3
+SHA1: 81f7fc72ac2862ff2235fc6e5e45900c4612ac10
+SHA256: 4ed033a45f4302f669ebb915183d93b3868672980309f7343cb72c6255d576bc
+Depends: firmware (>= 7.0)
+Section: Development
+Installed-Size: 299
+Version: 1.0.6-2
+Architecture: iphoneos-arm
+Description: A modern AppList alternative!
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: opa334
+Tag: purpose::library
+ 
+Package: com.thearmking.igoi
+Filename: ./debs/IGOI_1.0.3.deb
+Size: 288160 
+MD5sum: b77df305e54707d1057769f3734775c3
+SHA1: 41bfa739b5ad609aee5b07c71db9c9c2a3258fdd
+SHA256: ee0cba2de1b8db2092191e4178b5e7696ea97a0abbd8702d65afaa47695438f5
+Name: In-Game Offset Injector
+Depends: mobilesubstrate, preferenceloader, applist
+Architecture: iphoneos-arm
+Description: A Tweak that helps you inject the NEW Platinmods Menu and test offsets easily!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tool
+Homepage: https://thearmking.xyz
+Icon: file:///Library/PreferenceBundles/igoiPrefs.bundle/icon@2x.png
+Version: 1.03
+Installed-Size: 836
+
+Package: applist
+Filename: ./debs/applist_1.5.16_iphoneos-arm.deb
+Size: 105098 
+MD5sum: af1bdc77dd1805c249d416fa96957841
+SHA1: 843d2b873ad29a848c701af51f2e8a524770bc3a
+SHA256: b20901679ecd9a607636dd69d1c42fe074f6a3e8a5c21c20ecef893f1a9a4a7e
+Name: AppList
+Architecture: iphoneos-arm
+Description: Allow extensions to read the list of installed apps!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0.7~beta3) | firmware (<< 7.0)
+Conflicts: com.a3tweaks.polus (<< 2.0.7)
+Section: System
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
+Website: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=AppListDp
+dev: rpetrich
+Version: 1.5.16
+Installed-Size: 780
 
 
 
