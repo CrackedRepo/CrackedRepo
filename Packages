@@ -1128,5 +1128,24 @@ dev: rpetrich
 Version: 1.5.16
 Installed-Size: 780
 
+Package: mterminal
+Filename: ./debs/mterminal_1.4-6_iphoneos-arm.deb
+Size: 108042 
+MD5sum: dedfc589450b43d268bfc369d5b2f4c8
+SHA1: c7ede4ad96c384ca5c682c6528e51c60695c5240
+SHA256: 48a4f4f6a3185a1244a4f731329c1911058d114c963674cef65dc66fc18fc527
+Priority: standard
+Section: Utilities
+Installed-Size: 776
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Architecture: iphoneos-arm
+Version: 1.4-6
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: bash, coreutils, ncurses, system-cmds
+Description: A MobileTerminal fork!
+Name: MTerminal
+Author: CrackedRepo <Gold Findings Only!!!>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mterminalDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mterminalDp
 
 
