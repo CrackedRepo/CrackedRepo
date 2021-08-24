@@ -1148,4 +1148,23 @@ Author: CrackedRepo <Gold Findings Only!!!>
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mterminalDp
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mterminalDp
 
+Package: com.crackedrepo.milkyway2
+Filename: ./debs/com.crackedrepo.milkyway2_0.2.0_iphoneos-arm.deb
+Size: 68888 
+MD5sum: 1a732a3594170e0e371b2f9f3e36725a
+SHA1: 1c9a1314a7349f1c0f9438ea78492debf627df13
+SHA256: a4dc179f7019772244859e79c4d3b3015b10b854ac372656529333b64441be5a
+Name: MilkyWay2
+Author: CrackedRepo <Gold Findings Only!!!>
+Description: Run multiple applications at once!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Version: 0.2.0
+Section: Tweaks
+Depends: mobilesubstrate, org.mr.backgrounderaction13, applist, preferenceloader
+Depiction: https://mainrepo.org/package/1417
+SileoDepiction: https://mainrepo.org/sileo/1417
+Architecture: iphoneos-arm
+Installed-Size: 376
+Icon: https://mainrepo.org/CydiaIcon.png
+Tag: cydia::commercial
 
