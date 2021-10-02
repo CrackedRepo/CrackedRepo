@@ -1188,3 +1188,45 @@ Icon: https://apt.alfhaily.me/cdn/assets/cercube-icon.png
 Maintainer: CrackedRepo <Gold Findings Only!!!>
 Version: 5.3.1
 Installed-Size: 16732
+
+Package: com.matchstic.reprovision
+Filename: ./debs/com.matchstic.reprovision_ 0.5.2~_EOL_iphoneos-arm.deb
+Size: 14406348 
+MD5sum: 4064144eed72b264038cb91d9e477f1a
+SHA1: 1287ffa0f2919789fc86a96267e8cb3410715ff8
+SHA256: 11efa2b9c737860df3ebe08eeab429bfa664612c4b22b5e8aa237f20785b8e5d
+Name: ReProvision
+Version: 0.5.2~EOL
+Description: Re-sign applications on your iOS devices!
+Section: System
+Depends: firmware (>= 9.0)
+Priority: optional
+Replaces: com.matchstic.Extender-Installer
+Provides: com.matchstic.Extender-Installer
+Architecture: iphoneos-arm
+Author: CrackedRepo <Gold Findings Only!!!>
+dev: Matt Clarke <matt@incendo.ws>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Homepage: https://github.com/Matchstic/Extender-Installer
+Depiction: http://incendo.ws/repo/depictions/com.matchstic.reprovision.html
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+
+Package: wiki.qaq.chromatic
+Filename: ./debs/chromatic.rel.ci.1630256801.deb 
+Size: 9891604 
+MD5sum: 4fd43271491371689f21733b1e67350f
+SHA1: 38a12c652ffedfd2440bdfb55bf833ec8a976cf7
+SHA256: 6d34d80ea068cbf136e6b5cb10296eb4493e112fa4d79e1620437377f5a090b6
+Name: Saily
+Description: Modern. Fast. Beautiful.
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Version: 2.1-REL-1630256801
+Section: Applications
+Pre-Depends: firmware (>= 13.0), dpkg, uikittools, apt
+Architecture: iphoneos-arm
+Homepage: https://github.com/SailyTeam/main/
+Website: https://github.com/SailyTeam/main/
+Depiction: https://github.com/SailyTeam/main/blob/master/README.md
+Nativedepiction: https://github.com/SailyTeam/main/raw/master/Attachments/nativeDepiction.json
+Icon: https://github.com/SailyTeam/main/raw/master/Protein/Assets.xcassets/AppIcon.appiconset/icon-83.5%402x.png
