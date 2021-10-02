@@ -1230,3 +1230,20 @@ Website: https://github.com/SailyTeam/main/
 Depiction: https://github.com/SailyTeam/main/blob/master/README.md
 Nativedepiction: https://github.com/SailyTeam/main/raw/master/Attachments/nativeDepiction.json
 Icon: https://github.com/SailyTeam/main/raw/master/Protein/Assets.xcassets/AppIcon.appiconset/icon-83.5%402x.png
+
+Package: com.pandahelper.deb
+Filename: ./debs/com.pandahelper.deb_2.2.7_iphoneos-arm.deb
+Size: 67428812 
+MD5sum: 76c638a9b6a444bae4f3ddfa3d072548
+SHA1: a918856af1eee7f3d1b351b183b71c33bd616451
+SHA256: c454f28a224216ee97b1f6f00b378ce5760001c7a559a6742a9dd4bc2e156db2
+Name: PandaHelper
+Depends: 
+Version: 2.2.7
+Architecture: iphoneos-arm
+Description: This is Panda Helper Deb Version!
+Depiction: http://apt.pandahelp.vip
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Applications
+Icon: file:///Library/Application Support/PandaHelperDeb/panda.png
