@@ -1300,3 +1300,28 @@ Tag: purpose::extension
 Version: 0.1
 Installed-Size: 156
 
+Name: IAmLazy
+Filename: ./debs/me.lightmann.iamlazy_1.3.3_iphoneos-arm.deb
+Size: 115116 
+MD5sum: a748b66bb51748d5391f3ee37207d5f6
+SHA1: 72fefcefc7ed3030d122e254d2bad21c32bc7f91
+SHA256: 551e09989dcbac6655a220789835151b7feca7db6e2497a8ca2cdd76ff435614
+Package: me.lightmann.iamlazy
+Priority: optional
+Depends: coreutils, findutils, gzip, tar, xz | xz-utils, firmware (>= 13.0)
+Version: 1.3.3
+Architecture: iphoneos-arm
+Description: Easily backup and restore your tweaks from an 'offline' backup
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iamlazyDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iamlazyDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Utilities
+Tag: purpose::uikit
+Installed-Size: 520
+dev: lightmann
+Icon: https://raw.githubusercontent.com/UsrLightmann/IAmLazy/main/icon.png
+ 
+
+
