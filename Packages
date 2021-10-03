@@ -1231,3 +1231,72 @@ Depiction: https://github.com/SailyTeam/main/blob/master/README.md
 Nativedepiction: https://github.com/SailyTeam/main/raw/master/Attachments/nativeDepiction.json
 Icon: https://github.com/SailyTeam/main/raw/master/Protein/Assets.xcassets/AppIcon.appiconset/icon-83.5%402x.png
 
+Name: Overachiever
+Filename: ./debs/de.ingmarstein.overachiever_1.0.23-1_iphoneos-arm.deb
+Size: 1340230
+MD5sum: df0c9c34902db745a933e9d6dab1c2c3
+SHA1: dd948da61548284e5b6ab0c439645f92b6d6c823
+SHA256: 3bc9ec0852113505e92619ef86728eaf0437b85e18a9902858b8d7a568dcc1b3
+Package: de.ingmarstein.overachiever
+Priority: optional
+Depends: firmware (>= 4.2), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist (>= 1.5.6)
+Version: 1.0.23-1
+Architecture: iphoneos-arm
+Description: Automatically earn all missing achievements for Game Center games
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=overachieverDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=overachieverDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+Installed-Size: 5024
+dev: ingmarstein
+Icon: file:///Library/PreferenceLoader/Preferences/Overachiever/. de.ingmarstein.overachiever@2x.png
+
+Name: TouchSpritePro
+Filename: ./debs/com.touchsprite.pro.ios.arm64.pro.en.v3_3.1.7.1_iphoneos-arm.deb
+Size: 17304316 
+MD5sum: 1ec4a0ed0f6d046e055bc06a03a56367
+SHA1: 40f3c1eb2b44a36ebd8069eeb2d3118735e824ff
+SHA256: bea5cc943deccc037ddf0ff3235b3871936e6890e2b218c8410473e3d99eb486
+Package: com.touchsprite.pro.ios.arm64.pro.en.v3
+Priority: optional
+Depends: firmware (>= 7.0), mobilesubstrate
+Conflicts: com.ts.touchsprite, com.darwindev.touchsprite, repo.so.touchsprite, touchsprite.178, com.touchsprite.ios, com.touchsprite.ios.pro.v3
+Version: 3.1.7.1
+Architecture: iphoneos-arm
+Description: Simulate touch action. Script development tool compatible with iOS
+10.3.3-14 system
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=touchspritepro64Dp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=touchspritepro64Dp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Utilities
+Tag: purpose::extension
+Installed-Size: 55612
+dev: touchsprite
+Icon: file:///Applications/TouchSprite.app/AppIcon60x60@2x.png
+
+Package: com.rpetrich.powercuff
+Filename: ./debs/com.rpetrich.powercuff_0.1_iphoneos-arm.deb
+Size: 10960 
+MD5sum: eaa94a5fb28d6c96f0d26e370a8042b4
+SHA1: d3d376d53f677bf2b31c58a3a80e25b92da1d245
+SHA256: 26c38ea724f6186dbb029fc7f68a20bf04c6ab5b42366e3783c629a0cb881240
+Section: Tweaks
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Architecture: iphoneos-arm
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Description: Select from additional low power device states
+Name: Powercuff
+Homepage: http://rpetri.ch/cydia/powercuff/
+Depiction: http://rpetri.ch/cydia/powercuff/
+Author: CrackedRepo <Gold Findings Only!!!>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+Tag: purpose::extension
+Version: 0.1
+Installed-Size: 156
+
