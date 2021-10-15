@@ -1323,5 +1323,44 @@ Installed-Size: 520
 dev: lightmann
 Icon: https://raw.githubusercontent.com/UsrLightmann/IAmLazy/main/icon.png
  
+Package: ru.domo.cocoatop64
+Filename: ./debs/ru.domo.cocoatop64_2.2.3_iphoneos-arm.deb
+Size: 232222  
+MD5sum: 2527fa61468eb5986dc2b007784d9a1a
+SHA1: 01834d4b030191ce03c375cee68b3a7d01be881b
+SHA256: 6952c1af0b9d579a0e9eaeb3b71b26865b1f0c723c0a709f24a766f200019dec
+Name: CocoaTop
+Depends: 
+Conflicts: ru.domo.cocoatop
+Architecture: iphoneos-arm
+Description: Process Viewer for iOS GUI, updated for iOS 13 by SXX.
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Utilities
+Version: 2.2.3
+Installed-Size: 892
+
+Package: org.ppsspp.ppsspp-dev-latest
+Filename: ./debs/org.ppsspp.ppsspp-dev-latest_v1.12-3-gf6fb711d3_iphoneos-arm.deb
+Size:  24435312 
+MD5sum: 82dd62d66db9bcca70d1c9dcec99e85e
+SHA1: fbcae12260ae7c63d2706b6709435c9ff5dca3dc
+SHA256: 53b46ae4eff35aeb24079f08925257cb55e259252bb9781b804891286f12a39d
+Name: PPSSPP (Dev-Latest)
+Architecture: iphoneos-arm
+Description: A PSP emulator!
+Icon: file:///Library/PPSSPPRepoIcons/org.ppsspp.ppsspp-dev-latest.png
+Homepage: https://build.ppsspp.org/
+Conflicts: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing, org.ppsspp.ppsspp, org.ppsspp.ppsspp-dev-working
+Provides: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp,
+net.angelxwind.ppsspp-testing
+Replaces: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing
+Depiction: https://cydia.ppsspp.org/?page/org.ppsspp.ppsspp-dev-latest
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Games
+Version: 0v1.12-3-gf6fb711d3
+ 
+
 
 
