@@ -1383,5 +1383,24 @@ Tags: compatible_min::ios9.0, compatible_max::ios15.0
 Author: CrackedRepo <Gold Findings Only!!!>
 Maintainer: CrackedRepo <Gold Findings Only!!!>
 
+Package: org.mr.backgrounderaction13
+Filename: ./debs/org.mr.backgrounderaction13_0.1.4_iphoneos-arm.deb
+Size: 16608 
+MD5sum: 0ee0b55868782ed91a323bc5a5b242ca
+SHA1: 02621d8625e259d75986506ecfe1a0097b49e807
+SHA256: 85caaf5da35dbbdb9f10a73f8f8747205cda5ac6d28315ef4073f0a6f6ccb5a6
+Name: BackgrounderAction2 for CCSupport
+Author: CrackedRepo <Gold Findings Only!!!>
+Description: [iOS13]Add "Toggle Background Mode" action to ControlCenter.
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Version: 0.1.4
+Section: System
+Depends: mobilesubstrate, com.opa334.ccsupport
+Depiction: https://mrepo.org/depiction/1415
+SileoDepiction: https://mrepo.org/sileo/1415
+Architecture: iphoneos-arm
+Installed-Size: 244
+
+
 
 
