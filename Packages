@@ -1360,7 +1360,28 @@ Maintainer: CrackedRepo <Gold Findings Only!!!>
 Author: CrackedRepo <Gold Findings Only!!!>
 Section: Games
 Version: 0v1.12-3-gf6fb711d3
- 
+
+Package: jp.soh.reprovision
+Filename: ./debs/jp.soh.reprovision_0.8.3~debug4_iphoneos-arm.deb
+Size: 16941238 
+MD5sum: 968bd56bc25c4ccd63fd8cf07a1fd56b
+SHA1: 0aacfec7e8c1e440fd41c76ad47a625ae6291889
+SHA256: 55b652f9f31304685d5cd7995f5d6c457ac7d03e7ae45f9a295271c674536aed
+Name: ReProvision Reborn
+Architecture: iphoneos-arm
+Version: 0.8.3~debug4
+Depiction: https://repo.satoh.dev/depiction/web/jp.soh.reprovision.html
+SileoDepiction: https://repo.satoh.dev/depiction/native/jp.soh.reprovision.json
+ModernDepiction: https://repo.satoh.dev/depiction/native/jp.soh.reprovision.json
+Icon: https://repo.satoh.dev/assets/jp.soh.reprovision/icon.png
+Description: Re-sign applications on your device
+Homepage: https://shuga.co/
+Section: Utilities
+Depends: firmware (>=9.0), firmware (>= 9.0)
+Conflicts: com.matchstic.reprovision
+Tags: compatible_min::ios9.0, compatible_max::ios15.0
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
 
 
 
