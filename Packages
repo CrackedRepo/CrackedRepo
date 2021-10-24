@@ -1401,6 +1401,49 @@ SileoDepiction: https://mrepo.org/sileo/1415
 Architecture: iphoneos-arm
 Installed-Size: 244
 
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Name: Rocket for Instagram
+Package: me.alfhaily.rocket
+Filename: ./debs/me.alfhaily.rocket_3.7.26_iphoneos-arm.deb
+Size: 2367198 
+MD5sum: d52bd2170e679aaf60a9552571aad655
+SHA1: 68cec45a193376b6cd39ad651438af676b15531e
+SHA256: 6dab5e444ec6586b2b80bd4baccb1b7bf0fc64c860af0a16ccc5a624947d7d3c
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap (>= 1.0.10~beta1)
+Section: Tweaks
+Installed-Size: 9321
+Version: 3.7.26
+Architecture: iphoneos-arm
+Description: Save posts and view stories anonymously and do much more
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=rocketforinstagramDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=rocketforinstagramDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: freemanrepo
+Tag: purpose::extension
+Icon: file:///Library/Application%20Support/Rocket/Rocket.bundle/rocket-icon-title@2x.png
 
+Architecture: iphoneos-arm
+Package: jp.soh.reprovision
+Filename: ./debs/jp.soh.reprovision_0.8.3~debug5_iphoneos-arm.deb
+Size: 16941756
+MD5sum: e60a3bda3ceb5149add5a2cdd6ce2d6d
+SHA1: 9b62ca9240449d5f291117e383691e574a2cfb0e
+SHA256: 9dc020c334166d5fbdb72817b3f1d748628a141119a304ac000173e3cd996473
+Name: ReProvision Reborn
+Version: 0.8.3~debug5
+Depiction: https://repo.satoh.dev/depiction/web/jp.soh.reprovision.html
+SileoDepiction: https://repo.satoh.dev/depiction/native/jp.soh.reprovision.json
+ModernDepiction: https://repo.satoh.dev/depiction/native/jp.soh.reprovision.json
+Icon: https://repo.satoh.dev/assets/jp.soh.reprovision/icon.png
+Description: Re-sign applications on your device
+Homepage: https://shuga.co/
+Section: Utilities
+Depends: firmware (>=9.0), firmware (>= 9.0)
+Conflicts: com.matchstic.reprovision
+Tags: compatible_min::ios9.0, compatible_max::ios15.0
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
 
+ 
 
