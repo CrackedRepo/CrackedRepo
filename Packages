@@ -1445,5 +1445,25 @@ Tags: compatible_min::ios9.0, compatible_max::ios15.0
 Author: CrackedRepo <Gold Findings Only!!!>
 Maintainer: CrackedRepo <Gold Findings Only!!!>
 
+Package: me.alfhaily.rocket
+Filename: ./debs/me.alfhaily.rocket_3.7.27_iphoneos-arm.deb
+Size: 2369124 
+MD5sum: 841baaf4d8d4a9ccfa74f78f0ba09af8
+SHA1: b5201d75f9c3a0f12aaf45f758ae54e751110411
+SHA256: 1c55c4d2adce291a165608316c0c248ba4b6bbb31e02028a8f8326823e1c6840
+Name: Rocket for Instagram
+Description: Save posts and view stories anonymously and do much more!
+Section: Tweaks
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.10~beta1)
+Priority: optional
+Architecture: iphoneos-arm
+Author: CrackedRepo <Gold Findings Only!!!>
+Depiction: https://apt.alfhaily.me/depiction/4EYOXC
+SileoDepiction: https://apt.alfhaily.me/depiction/sileo/4EYOXC
+Icon: https://apt.alfhaily.me/cdn/assets/rocket-icon.png
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Version: 3.7.27
+Installed-Size: 9556
+
  
 
