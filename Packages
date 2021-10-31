@@ -1465,5 +1465,43 @@ Maintainer: CrackedRepo <Gold Findings Only!!!>
 Version: 3.7.27
 Installed-Size: 9556
 
- 
+Package: me.alfhaily.rocket
+Filename: ./debs/me.alfhaily.rocket_3.7.28_iphoneos-arm.deb
+Size: 2367848 
+MD5sum: edd373d1fcccdfa556f20ffcea8d3e7a
+SHA1: 3baf6ab9767b660f9c04a167bac6567439802698
+SHA256: 42bb1a4c7c92a4099d9b57bef514183ebc2a780e6b265ebfe059121930905dbf
+Name: Rocket for Instagram
+Description: Save posts and view stories anonymously and do much more!
+Section: Tweaks
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.10~beta1)
+Priority: optional
+Architecture: iphoneos-arm
+Author: CrackedRepo <Gold Findings Only!!!>
+Depiction: https://apt.alfhaily.me/depiction/4EYOXC
+SileoDepiction: https://apt.alfhaily.me/depiction/sileo/4EYOXC
+Icon: https://apt.alfhaily.me/cdn/assets/rocket-icon.png
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Version: 3.7.28
+Installed-Size: 9556
+
+Package: jp.soh.reprovision
+Filename: ./debs/jp.soh.reprovision_0.8.3~release_iphoneos-arm.deb
+Size: 15477492 
+MD5sum: 4ecea265b0b74c772bc94ab49a36e923
+SHA1: 21547146376e041b6ead427f1b53456f2bec4eab
+SHA256: eb1ec319ce0fab9584917eb3e8505121496c62b1f4826f6e7db60c6314661a21
+Name: ReProvision Reborn
+Version: 0.8.3~release
+Section: Utilities
+Priority: optional
+Architecture: iphoneos-arm
+Depends: firmware (>= 9.0)
+Conflicts: com.matchstic.reprovision
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Description: Re-sign applications on your device!
+dev: Matt Clarke
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+
 
