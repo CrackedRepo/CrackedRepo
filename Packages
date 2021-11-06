@@ -1504,4 +1504,22 @@ Description: Re-sign applications on your device!
 dev: Matt Clarke
 Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
 
+Package: com.julioverne.cydown
+Filename: ./debs/com.julioverne.cydown_7.1.2_iphoneos-arm.deb
+Size: 4361036 
+MD5sum: ad6f0eb7f039fbfd9b050d8265803c8aa62371e4
+SHA1: ad6f0eb7f039fbfd9b050d8265803c8aa62371e4
+SHA256: 09d1418fd281fbddfba6c76a39d4cf1db112b915b689907b3a3c0d5c80f80aaf
+Name: CyDown
+Author: CrackedRepo <Gold Findings Only!!!>
+Version: 7.1.2
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Cydia Download Manager & Extra Features!
+Homepage: http://twitter.com/ijulioverne
+Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.cydown
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+
 
