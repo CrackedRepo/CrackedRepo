@@ -1554,12 +1554,29 @@ Section: Tweaks
 Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.10~beta1)
 Priority: optional
 Architecture: iphoneos-arm
-Author: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Author: CrackedRepo <Gold Findings Only!!!>
 Depiction: https://apt.alfhaily.me/depiction/4EYOXC
 SileoDepiction: https://apt.alfhaily.me/depiction/sileo/4EYOXC
 Icon: https://apt.alfhaily.me/cdn/assets/rocket-icon.png
-Maintainer: JailbreakNews4U <Imsorrydaddy2@gmail.com>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
 Version: 3.7.30
 Installed-Size: 9556
 
+Package: com.crackedrepo.dayn
+Filename: ./debs/com.crackedrepo.dayn_1.0_iphoneos-arm.deb
+Size: 573186 
+MD5sum: e4e7e55c9f5dcae49b531843dc31c6d4
+SHA1: 53567a04ad9f2dbd83c9fa8c1798c85f54248c03
+SHA256: fcb26c0b57b427f77c57109a31040a995be4921f74eee21be6085649bbddf1d9
+Version: 1.0
+Section: Supports iOS 13
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
+Replaces: com.jannikcrack.dayn
+Architecture: iphoneos-arm
+Installed-Size: 1272
+Name: Dayn
+Author: CrackedRepo <Gold Findings Only!!!>
+Icon: https://chariz.com/cdn/icon/dayn/icon@3x.png
+Tag: compatible_min::ios12.0
 
