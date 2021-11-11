@@ -1569,7 +1569,7 @@ MD5sum: e4e7e55c9f5dcae49b531843dc31c6d4
 SHA1: 53567a04ad9f2dbd83c9fa8c1798c85f54248c03
 SHA256: fcb26c0b57b427f77c57109a31040a995be4921f74eee21be6085649bbddf1d9
 Version: 1.0
-Section: Supports iOS 13
+Section: Tweaks
 Maintainer: CrackedRepo <Gold Findings Only!!!>
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
 Replaces: com.jannikcrack.dayn
