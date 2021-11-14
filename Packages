@@ -1580,3 +1580,156 @@ Author: CrackedRepo <Gold Findings Only!!!>
 Icon: https://chariz.com/cdn/icon/dayn/icon@3x.png
 Tag: compatible_min::ios12.0
 
+Package: me.aspenuwu.zinnia
+Filename: ./debs/me.aspenuwu.zinnia_1.1.5_iphoneos-arm.deb
+Size: 237882 
+MD5sum: 638ed32b5eebc6659eeea2acb9f7b88f
+SHA1: 3d7964570a9e05a04e47d9457c42531e76684467
+SHA256: 0cee888b0107744e8590ff28ec41e04def806c66a678fc17121e6efc27723d68
+Name: Zinnia
+Version: 1.1.5
+Architecture: iphoneos-arm
+Description: A wonderful neon overhaul for your lock screen!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Replaces: me.aspenuwu.zinnia.trial
+Depends: firmware (>= 14.0), preferenceloader
+Icon: https://cdn.chariz.cloud/icon/zinnia/icon@3x.png
+Depiction: https://chariz.com/get/zinnia
+Tag: compatible_min::ios14.0
+Installed-Size: 1340
+
+Package: com.rileytestut.altdaemon
+Filename: ./debs/com.rileytestut.altdaemon_1.0_iphoneos-arm.deb
+Size: 597622 
+MD5sum: 83660c2d5119ac6ecce72236b27cfae4
+SHA1: 3c7ce20ff72c17f17a1415b14534a9be3fc41ca1
+SHA256: 1f5b35f4c402f6abab69e1833b260a4dfac156bbe1f9807b7aec4cd22665cc95
+Name: AltDaemon
+Depends:
+Version: 1.0
+Architecture: iphoneos-arm
+Description: AltDaemon allows AltStore to install and refresh apps without a computer.
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Homepage: https://altstore.io
+Section: System
+
+Package: com.rileytestut.altdaemon
+Filename: ./debs/com.rileytestut.altdaemon_1.0.1_iphoneos-arm.deb
+Size: 597754  
+MD5sum: 86b026f3f838e0ca193b086898e7152a
+SHA1: ec653b6067c8dd8daa2d1fad29ebcbb0c054bbbd
+SHA256: e30852d1e922dbf83222dd1a35d726491f19ff0f25a4415846638a4f99eac695
+Name: AltDaemon
+Depends: firmware (>= 12.2)
+Architecture: iphoneos-arm
+Description: AltDaemon allows AltStore to install and refresh apps without a computer.
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: System
+Version: 1.0.1
+Icon: https://cdn.chariz.cloud/icon/altdaemon/icon@3x.png
+Depiction: https://chariz.com/get/altdaemon
+Tag: compatible_min::ios12.2
+Installed-Size: 2560
+
+Package: com.julioverne.bettlife
+Filename: ./debs/com.julioverne.bettlife_0.1_iphoneos-arm.deb
+Size: 29612 
+MD5sum: 45af6fb73299a14f0f268fa96132e3d1
+SHA1: ff55611298761dc29a94fc32883203c0342c3d40
+SHA256: 7a8c476b4e2fe73c1ce7eee4eb1f5c1c3d6e4ee88ec55149130a98b097adf668
+Name: Bettlife
+Author: CrackedRepo <Gold Findings Only!!!>
+Version: 0.1
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Betternet Premium, Requires Betternet App (AppStore)!
+Homepage: http://twitter.com/ijulioverne
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.bettlife
+
+Package: com.mrgcgamer.colormenotifs
+Filename: ./debs/com.mrgcgamer.colormenotifs_1.5.2_iphoneos-arm.deb
+Size: 1026458 
+MD5sum: ff2931850cab904548ec2e756d37f3eb
+SHA1: c79397f0c96280ab00b138f23eeaad7d50d53b43
+SHA256: 5da19dc18f1eec381e559083eb729e922e370c95fe3437b0af19627e30ba812d
+Name: ColorMeNotifs
+Version: 1.5.2
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker (>= 0.0.14)
+Installed-Size: 1728
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Description: Bring colors to your notifications!
+
+Package: com.cokepokes.appstoreplusplus
+Filename: ./debs/com.cokepokes.appstoreplusplus_0.9.17-4_iphoneos-arm.deb
+Size: 3686816 
+MD5sum: 73d5d89d1796b3a50dfd4b2d4de2bdd9
+SHA1: 4690a36c1a47646a03f80cf21de26ea8a7bd9654
+SHA256: 71e884cd8215281adcdad5f2a7d8dcc1cac66224f5f4ec21c9a345bee0302138
+Name: AppStore++
+Version: 0.9.17-4
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-15, whatever!
+Section: Tweaks
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Replaces:
+Priority: optional
+Architecture: iphoneos-arm
+Author: CrackedRepo <Gold Findings Only!!!>
+dev:
+Homepage:
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Icon:
+
+Package: com.ceadd.flextotheosbyipadkid358
+Filename: ./debs/com.ceadd.flextotheosbyipadkid358_0.5_iphoneos-arm.deb
+Size: 38096 
+MD5sum: aa762399910243f59965298c6b536091
+SHA1: b9171f52e7c9a78a056af4be7da43320820b6f27
+SHA256: b3c8c0dfe9c9b436a74cd90b737ccaa89f10a79788836ae964f23815635109ed
+Name: Flex To Theos
+Version: 0.5
+Architecture: iphoneos-arm
+Description: Turn Flex 3 patches into Theos projects!
+Depiction: http://ceadd.ca/cydia/depictions/?p=com.ceadd.flextotheosbyipadkid358
+SileoDepiction: https://ceadd.ca/cydia/depictions/com.ceadd.flextotheosbyipadkid358/SileoDepiction.json
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: System
+Depends: mobilesubstrate
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Tag: compatible_min::ios11, compatible_max::ios13
+
+Package: com.creaturecoding.tweaksettings
+Filename: ./debs/com.creaturecoding.tweaksettings_1.0.5_iphoneos-arm.deb
+Size: 516868 
+MD5sum: cfbcf3ce4c6c25cb1b0c495ae87f1c17
+SHA1: 1c8c785ceaba424ff8775ee438bae6eb145eba4a
+SHA256: 626d1807c713360b1a96f03ec88a5cd8085329b0bbeb0fe339cccaaaad698070
+Name: TweakSettings
+Depends: firmware (>= 10.0), preferenceloader | com.creaturecoding.preferred
+Priority: optional
+Architecture: iphoneos-arm
+Description: Dedicated settings app for tweaks!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Applications
+dev: CreatureSurvive
+Homepage: https://creaturecoding.com/
+Depiction: https://creaturecoding.com/?page=depiction&id=tweaksettings
+SileoDepiction: https://creaturecoding.com/sileo/depiction/?package_id=tweaksettings
+Tag: purpose::application, compatible_min::ios10
+Icon: file:///Applications/TweakSettings.app/icon_large.png
+Version: 1.0.5
+Installed-Size: 1428
+
+
+ 
