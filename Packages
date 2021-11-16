@@ -1731,5 +1731,96 @@ Icon: file:///Applications/TweakSettings.app/icon_large.png
 Version: 1.0.5
 Installed-Size: 1428
 
+Package: git
+Filename: ./debs/git_2.20.0-1_iphoneos-arm.deb
+Size: 3040194
+MD5sum: 5b53985552b7446fdf539d7dc40d6898
+SHA1: 84c795182683305fda24f5ceabee19a8e0ef30fa
+SHA256: 4b1074978cf7ed944055f25fa599f1641ec6eb3afcb9f4570c24bf5620e838b7
+Priority: optional
+Section: Data_Storage
+Installed-Size: 55432
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Architecture: iphoneos-arm
+Version: 2.20.0-1
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: curl, expat, libssl1.0
+Description: fast content-addressable filesystem!
+Name: Git
 
+Package: com.cokepokes.appstoreplusplus
+Filename: ./debs/com.cokepokes.appstoreplusplus_0.9.18_iphoneos-arm.deb
+Size: 3706724 
+MD5sum: a842ea1120891c11710c6b22012d1e1e
+SHA1: 36fc296d0d732fcd9e6704e9dd3ed67f9ff4a474
+SHA256: fe4bfe88eb41a8d8ff7403099787752eafdcc9b1fd1d1c087e28900d497f0dec
+Name: AppStore++
+Version: 0.9.18
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-15.whatever!
+Section: Tweaks
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Replaces:
+Priority: optional
+Architecture: iphoneos-arm
+Author: CrackedRepo <Gold Findings Only!!!>
+dev:
+Homepage:
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Icon:
  
+Package: com.titand3v.libtitand3vuniversal
+Filename: ./debs/com.titand3v.libtitand3vuniversal_1.6_iphoneos-arm.deb
+Size: 9995016 
+MD5sum: 77b5f864743d5df989deb78fe8e2a843
+SHA1: 9576168f227fa1141db337a5233fdb138e77b032
+SHA256: 903f776221920f52507f4117d88556c958b6e6ba4c6d5af357a2a48a9404601d
+Name: libTitanD3vUniversal
+Architecture: iphoneos-arm
+Description: TitanD3v universal library!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: System
+Tag: role::developer
+Depiction: https://repo.titand3v.com/depictions/titand3vlib/index.html
+Icon: https://repo.titand3v.com/depictions/titand3vlib/assets/icon.png
+Version: 1.6
+Installed-Size: 12688
+
+Package: com.titand3v.libtitand3vuniversal
+Filename: ./debs/com.titand3v.libtitand3vuniversal_1.7_iphoneos-arm.deb
+Size: 10015748 
+MD5sum: fb23b024e940b146b253c1e2aef7a13b
+SHA1: 0acddcba06ef56f4f9baed0dce55eebb14e2096a
+SHA256: 57afdbd8f7f857a3e7c46d0c05e6d479d1cd70029a7fa9bdc161d8f23d898e5e
+Name: libTitanD3vUniversal
+Architecture: iphoneos-arm
+Description: TitanD3v universal library!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: System
+Tag: role::developer
+Depiction: https://repo.titand3v.com/depictions/titand3vlib/index.html
+Icon: https://repo.titand3v.com/depictions/titand3vlib/assets/icon.png
+Version: 1.7
+Installed-Size: 12704
+
+Package: com.titand3v.libtitand3vuniversal
+Filename: ./debs/com.titand3v.libtitand3vuniversal_1.8_iphoneos-arm.deb
+Size: 10097080 
+MD5sum: dfc8f0cd3b7be4b486c95f6ddedea74a
+SHA1: b8558816b6c34ab1df73deb7689f259918a4f1dd
+SHA256: c184c38bbf21dbbc56d80ca7053fac6f79ef362a80a06217f20dd42dc0f705df
+Name: libTitanD3vUniversal
+Architecture: iphoneos-arm
+Description: TitanD3v universal library!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: System
+Tag: role::developer
+Depiction: https://repo.titand3v.com/depictions/titand3vlib/index.html
+Icon: https://repo.titand3v.com/depictions/titand3vlib/assets/icon.png
+Version: 1.8
+Installed-Size: 13104
+
