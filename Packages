@@ -1913,22 +1913,3 @@ Installed-Size: 652
 Tag: cydia::commercial, compatible_min::ios13.0
 Icon: https://chariz.com/cdn/icon/titan/icon@3x.png
 Depiction: https://chariz.com/buy/titan
-
-Package: com.pandahelper.deb
-Filename: ./debs/com.pandahelper.deb_2.2.7_iphoneos-arm.deb
-Size: 67428812 
-MD5sum: 76c638a9b6a444bae4f3ddfa3d072548
-SHA1: a918856af1eee7f3d1b351b183b71c33bd616451
-SHA256: c454f28a224216ee97b1f6f00b378ce5760001c7a559a6742a9dd4bc2e156db2
-Name: PandaHelper
-Depends: 
-Version: 2.2.7
-Architecture: iphoneos-arm
-Description: This is Panda Helper Deb Version!
-Depiction: http://apt.pandahelp.vip
-Maintainer: CrackedRepo <Gold Findings Only!!!>
-Author: CrackedRepo <Gold Findings Only!!!>
-Section: Applications
-Icon: file:///Library/Application Support/PandaHelperDeb/panda.png
-
-
