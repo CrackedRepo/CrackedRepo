@@ -1824,3 +1824,111 @@ Icon: https://repo.titand3v.com/depictions/titand3vlib/assets/icon.png
 Version: 1.8
 Installed-Size: 13104
 
+Package: dev.midn1ght.copylog
+Filename: ./debs/dev.midn1ght.copylog_1.5.3k_iphoneos-arm.deb
+Size: 2122378 
+MD5sum: b460eb421fa23a8388383400b5b7cb13
+SHA1: 1853e7cf9a5bc7f0a0145f517889707db29a9282
+SHA256: 5271b214cdf0b1f048123ffe060bcf1a1f535dc822ba16705dc5cc307558c91f
+Name: CopyLog Cracked
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Description: Clipboard history manager for iOS!
+Version: 1.5.3k
+Installed-Size: 4604
+Icon: https://repo.midn1ght.dev/public/dev.midn1ght.copylog/icon.png
+Depiction: https://repo.midn1ght.dev/package/dev.midn1ght.copylog
+
+Package: com.miro.cyrch
+Filename: ./debs/com.miro.cyrch_1.0_iphoneos-arm.deb
+Size: 9542 
+MD5sum: e7b61cb0380bdec8be9c323dbaf52a9f
+SHA1: 8d8ea46818c1b3bf082a2f7b403508b47859ab03
+SHA256: df961e7f061974f2558b9ad97afdb65dd09d2a04c24bfd3c3a1ad32d5118db88
+Name: Cyrch
+Depends: firmware (>=12.0), mobilesubstrate
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.cyrch
+Description: Adds a search bar into the "Sources" tab in the Cydia app!
+Architecture: iphoneos-arm
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Tag: purpose::extension, compatible_min::ios12, compatible_max::ios14
+Version: 1.0
+Installed-Size: 168
+
+Package: org.mr.diary
+Filename: ./debs/Diary.deb
+Size: 3390846 
+MD5sum: b5740709e9911799a5a3eadc5bd9b273
+SHA1: bfa04c9993a70d008f739efeb4d93754252337af
+SHA256: f54b76904e4485a7f24df1446a326220b98d2b474dc169e510f94212b9752f38
+Name: Diary
+Author: CrackedRepo <Gold Findings Only!!!>
+Description: The new Windows 10!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Version: 1.0-508
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Depiction: https://mainrepo.org/package/3433
+SileoDepiction: https://mainrepo.org/sileo/3433
+Architecture: iphoneos-arm
+Installed-Size: 7008
+
+Package: com.neinzedd9.notepad
+Filename: ./debs/com.neinzedd9.notepad_1.2.5_iphoneos-arm.deb
+Size: 44924 
+MD5sum: fc813c51580da30e92191f07ec4c188e
+SHA1: cfa34840ca00a69841ff5e2a79523d46ed99fd65
+SHA256: 0321a8205ff5d7b5b0c30942a5b1a2e758e3682123336886f45872c60eaa5380
+Name: Notepad
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Architecture: iphoneos-arm
+Description: Quickly add notes to your Lock Screen!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Version: 1.2.5
+Installed-Size: 372
+
+Package: com.tcbrooks.titan
+Filename: ./debs/com.tcbrooks.titan_1.0.3_iphoneos-arm.deb
+Size: 129420 
+MD5sum: 571dd0da558cb5800c6269bc054f8785
+SHA1: 7389fea59e73eaa129c71ae4d4c5912d9fed2c82
+SHA256: 86f777f13737848288e078ee4f8c37a78a80b84fc8ceebb5808900c43f882e12
+Name: Titan
+Description: True picture in picture support for all your favorite apps!
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
+Conflicts: com.spicat.youpip
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 1.0.3
+Installed-Size: 652
+Tag: cydia::commercial, compatible_min::ios13.0
+Icon: https://chariz.com/cdn/icon/titan/icon@3x.png
+Depiction: https://chariz.com/buy/titan
+
+Package: com.pandahelper.deb
+Filename: ./debs/com.pandahelper.deb_2.2.7_iphoneos-arm.deb
+Size: 67428812 
+MD5sum: 76c638a9b6a444bae4f3ddfa3d072548
+SHA1: a918856af1eee7f3d1b351b183b71c33bd616451
+SHA256: c454f28a224216ee97b1f6f00b378ce5760001c7a559a6742a9dd4bc2e156db2
+Name: PandaHelper
+Depends: 
+Version: 2.2.7
+Architecture: iphoneos-arm
+Description: This is Panda Helper Deb Version!
+Depiction: http://apt.pandahelp.vip
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Applications
+Icon: file:///Library/Application Support/PandaHelperDeb/panda.png
+
+
