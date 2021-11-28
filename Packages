@@ -1927,3 +1927,138 @@ Description: The best Moive&TVShow App(iOS,Mac,Android,TV,Win,Web)!
 Architecture: iphoneos-arm
 Author: CrackedRepo <Gold Findings Only!!!>
 maintainer: CrackedRepo <Gold Findings Only!!!>
+
+Package: com.creaturecoding.tweaksettings
+Filename: ./debs/com.creaturecoding.tweaksettings_1.0.6_iphoneos-arm.deb
+Size: 664532 
+MD5sum: 4975307135d9e1e9ac5df0b562a11faf
+SHA1: 6d483e77ecc3958cc48cfb9d24f66a38b02d7cd4
+SHA256: 90285407d144d3af9f77e2c3b76b5e271740ca2d843dd41d0d81a5ed1142cbdd
+Name: TweakSettings
+Depends: firmware (>= 10.0), preferenceloader | com.creaturecoding.preferred
+Priority: optional
+Architecture: iphoneos-arm
+Description: Dedicated settings app for tweaks!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Applications
+dev: CreatureSurvive
+Homepage: https://creaturecoding.com/
+Depiction: https://creaturecoding.com/?page=depiction&id=tweaksettings
+SileoDepiction: https://creaturecoding.com/sileo/depiction/?package_id=tweaksettings
+Tag: purpose::application, compatible_min::ios10
+Icon: file:///Applications/TweakSettings.app/icon_large.png
+Version: 1.0.6
+Installed-Size: 2040
+
+Package: com.pxcex.adguardhack
+Filename: ./debs/com.pxcex.adguardhack_0.0.1_iphoneos-arm.deb
+Size: 68266 
+MD5sum: a46ab2ef3d2cbf87eae5732d3aa40b5b
+SHA1: a88d6c110b733c8743c64d277df39ab394ba8f7e
+SHA256: 67e64ca56205212b1f67591e39b1996ea9b2b6320c2b77019851a77737de480c
+Name: AdGuard Hack
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: AdGuard ‚ adblock&privacy Premium!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Version: 0.0.2
+Installed-Size: 384
+
+Package: pojavlauncher-dev
+Filename: ./debs/pojavlauncher-dev_2.0~alpha8_iphoneos-arm.deb
+Size: 17422460 
+MD5sum: d48db7c1ffd00a61a7d8d6fcc9a66146
+SHA1: 5266330cd81b2c7eb51a644b8d0cececa8c1ea27
+SHA256: 2a1f511ff13a9cc5cb845637d9bfdad7ad9fb2a9dfe845cc69cca24fcb6d3844
+Name: PojavLauncher iOS (Dev)
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Architecture: iphoneos-arm
+Version: 2.0~alpha8
+Depends: openjdk-8-jre | openjdk-16-jre | openjdk-8-jdk | openjdk-16-jdk, firmware
+(>= 12.0)
+Conflicts: pojavlauncher, pojavlauncher-zink
+Section: Games
+Priority: optional
+Homepage: https://github.com/PojavLauncherTeam/PojavLauncher_iOS
+Description: Minecraft: Java Edition launcher for iOS, based on PojavLauncher Android.
+Depiction: https://doregon.github.io/json-webviews/?json=https://repo.doregon.gq/depictions/natives/pojavlauncher-dev.json&name=PojavLauncher%20iOS%28Dev%29&dev=PojavLauncherTeam&section=Games&icon=https://doregon.github.io/cydia/images/icons/pojavlauncher_icon.png
+SileoDepiction: https://repo.doregon.gq/depictions/natives/pojavlauncher-dev.json
+Icon: https://repo.doregon.gq/images/icons/pojavlauncher_icon.png
+
+Package: openjdk-16-jre
+Filename: ./debs/openjdk-16-jre_16.0.0+git20201217.8383f41-2_iphoneos-arm.deb
+Size: 37028948 
+MD5sum: a4c2af9fd3ed167e9d5c6c752183713f
+SHA1: bac06b55b6090bf35b59dbb9a6afa3b607f58807
+SHA256: 171cca9cb97ca66ee15ccce2bed8899b1836b626672943dbe60e084ee7517a18
+Version: 16.0.0+git20201217.8383f41-2
+Architecture: iphoneos-arm
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Development
+Priority: optional
+Homepage: https://github.com/openjdk/aarch64-port/tree/jdk-macos
+Description: OpenJDK Java runtime, using Hotspot JIT
+Minimal Java runtime - needed for executing non GUI Java programs,
+using Hotspot JIT.
+Installed-Size: 333104
+Depiction: https://doregon.github.io/json-webviews/?json=https://repo.doregon.gq/depictions/natives/openjdk-16-jre.procursus.json&name=OpenJDK%2016%20-%20Runtime&dev=Hayden%20Seay&section=Development
+SileoDepiction: https://repo.doregon.gq/depictions/natives/openjdk-16-jre.procursus.json
+
+Architecture: iphoneos-arm
+Depends: firmware (>= 13.0)
+Author: CrackedRepo <Gold Findings Only!!!>
+Depiction: https://apptapp.me/repo/51/installer.html
+Description: Installer 5.1 beta. Fastest Package Manager for iOS.
+Icon: https://synnygr.dev/AppTapp/icon51.png
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Name: Installer
+Package: me.apptapp.installer
+Filename: ./debs/me.apptapp.installer_5.1-85_iphoneos-arm.deb
+Size: 11857294 
+MD5sum: 843e291f0b58e1ded1d7b779d352bf1d
+SHA1: eb8ff1c314f95c552cbab61979e9f848c587ed7a
+SHA256: e23dc3e7502f25e01fdedb6e8796777eb0004146c40ee15b11baea73c51c3b1a
+Section: Packaging
+Version: 5.1-85
+
+Package: jp.akusio.backgrounderaction13
+Filename: ./debs/jp.akusio.backgrounderaction13_0.1.4_iphoneos-arm.deb
+Size: 14078 
+MD5sum: c310760bda4ccc7e5ed3722aed9ef7de
+SHA1: b8619c32ee626b06376975eb84beecfd65cdae84
+SHA256: ad5dc505166d41fd2d60bd1ff9223e46ff1ba48999a57483cc78d8c946dec9c0
+Name: BackgrounderAction2 for CCSupport
+Depends: mobilesubstrate, com.opa334.ccsupport
+Architecture: iphoneos-arm
+Description: [iOS13]Add "Toggle Background Mode" action to ControlCenter.
+Depiction: https://akusio.github.io/descriptions/backgrounderaction13/index.html
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Version: 0.1.4
+Installed-Size: 244
+
+Package: xyz.willy.zebra
+Filename: ./debs/xyz.willy.zebra_1.1.22_iphoneos-arm.deb
+Size: 8370610 
+MD5sum: 3134d77d81b67d250660d7f14ad1ef7e
+SHA1: e7b9fe3c996f339532cfa54db65fdb35af9180e7
+SHA256: 81ef07d4bbccf6fc2a94286d60153a9ad762771754e248af1ed296a03d16e8a5
+Name: Zebra
+Architecture: iphoneos-arm
+Depends: dpkg, uikittools, firmware (>= 9.0)
+Description: A Useful Package Manager!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Packaging
+Depiction: https://getzbra.com/repo/depictions/xyz.willy.Zebra/
+Tag: compatible::9.0-14.8
+Version: 1.1.22
+Installed-Size: 15964
+
+
