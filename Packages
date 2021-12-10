@@ -2061,4 +2061,78 @@ Tag: compatible::9.0-14.8
 Version: 1.1.22
 Installed-Size: 15964
 
+Package: com.gamegod.igg
+Filename: ./debs/com.gamegod.igg_0.1.1_iphoneos-arm.deb
+Size: 64370650 
+MD5sum: 9ddb174387e21c69eb52f094e52d9e84
+SHA1: 333b634c800c4af4c4a56b85daab45e94a12593b
+SHA256: 8b77c0becd650f970dc276c4e1bb509de767e2f4702d53824a60eba4eff56bd1
+Name: iGameGod 
+Architecture: iphoneos-arm
+Depends: applist, mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0.3) | firmware (<< 7.0)
+Description: Be the god of your games. Find and edit scores, money, gems, and more in your favorite games.
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Utilities
+Version: 0.1.1
+Installed-Size: 306976
 
+Package: com.gamegod.igg
+Filename: ./debs/com.gamegod.igg_0.2.1_iphoneos-arm.deb
+Size: 39113344 
+MD5sum: 7698e21b56e056b2f710eb36a03e1e33
+SHA1: 97a523f5a882eaea0e8f462cd209315da1095fc6
+SHA256: 79ac095c17e819b7cc97624332dfb8d7bf16c4a39f85c9e0d0766b25b0342256
+Name: iGameGod
+Architecture: iphoneos-arm
+Description: Be the god of your games!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Utilities
+Depends: mobilesubstrate (>= 0.9.5000), FIRMWARE (>= 13) | applist
+Version: 0.2.1
+Installed-Size: 179404
+
+Package: com.creaturecoding.shuffle
+Filename: ./debs/com.creaturecoding.shuffle_1.6.0_iphoneos-arm.deb
+Size: 330570 
+MD5sum: fe48e2725e9ed5f04984a52718335bca
+SHA1: 62fdbff1a23554d7862b635a7dea05c86696d217
+SHA256: 6633c7e8168c9cce1bb8a3fea406069116ccf1058f80b01ad7fd95231ed5b947
+Name: Shuffle
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | org.coolstar.libhooker | mobilesubstrate
+Depends: com.creaturecoding.libcspreferences
+Replaces: com.cpdigitaldarkroom.placeholder
+Conflicts: com.cpdigitaldarkroom.placeholder
+Architecture: iphoneos-arm
+Description: Organize your settings!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Homepage: https://creaturecoding.com/
+Depiction: https://creaturecoding.com/?page=depiction&id=shuffle
+SileoDepiction: https://creaturecoding.com/sileo/depiction/?package_id=shuffle
+Tag: purpose::extension, compatible_min::ios10
+Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@3x.png
+Version: 1.6.0
+Installed-Size: 2364
+
+Package: me.alfhaily.rocket
+Filename: ./debs/me.alfhaily.rocket_3.7.31_iphoneos-arm.deb
+Size: 2369104 
+MD5sum: ddfef188cc840c9e82899013e47c7529
+SHA1: e40f8f46dc4a91c58711badc2b55160ee6257d36
+SHA256: 8cb9e39b3a265fcb25b2af90bde6c3c704f4046b20ea85a58b530b0dcc1d03fa
+Name: Rocket for Instagram
+Description: Save posts and view stories anonymously and do much more!
+Section: Tweaks
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.10~beta1)
+Priority: optional
+Architecture: iphoneos-arm
+Author: Rocket App
+Depiction: https://apt.alfhaily.me/depiction/4EYOXC
+SileoDepiction: https://apt.alfhaily.me/depiction/sileo/4EYOXC
+Icon: https://apt.alfhaily.me/cdn/assets/rocket-icon.png
+Maintainer: Rocket App <support@getrocketapp.io>
+Version: 3.7.31
+Installed-Size: 9556
