@@ -2061,38 +2061,6 @@ Tag: compatible::9.0-14.8
 Version: 1.1.22
 Installed-Size: 15964
 
-Package: com.gamegod.igg
-Filename: ./debs/com.gamegod.igg_0.1.1_iphoneos-arm.deb
-Size: 64370650 
-MD5sum: 9ddb174387e21c69eb52f094e52d9e84
-SHA1: 333b634c800c4af4c4a56b85daab45e94a12593b
-SHA256: 8b77c0becd650f970dc276c4e1bb509de767e2f4702d53824a60eba4eff56bd1
-Name: iGameGod 
-Architecture: iphoneos-arm
-Depends: applist, mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0.3) | firmware (<< 7.0)
-Description: Be the god of your games. Find and edit scores, money, gems, and more in your favorite games.
-Maintainer: CrackedRepo <Gold Findings Only!!!>
-Author: CrackedRepo <Gold Findings Only!!!>
-Section: Utilities
-Version: 0.1.1
-Installed-Size: 306976
-
-Package: com.gamegod.igg
-Filename: ./debs/com.gamegod.igg_0.2.1_iphoneos-arm.deb
-Size: 39113344 
-MD5sum: 7698e21b56e056b2f710eb36a03e1e33
-SHA1: 97a523f5a882eaea0e8f462cd209315da1095fc6
-SHA256: 79ac095c17e819b7cc97624332dfb8d7bf16c4a39f85c9e0d0766b25b0342256
-Name: iGameGod
-Architecture: iphoneos-arm
-Description: Be the god of your games!
-Maintainer: CrackedRepo <Gold Findings Only!!!>
-Author: CrackedRepo <Gold Findings Only!!!>
-Section: Utilities
-Depends: mobilesubstrate (>= 0.9.5000), FIRMWARE (>= 13) | applist
-Version: 0.2.1
-Installed-Size: 179404
-
 Package: com.creaturecoding.shuffle
 Filename: ./debs/com.creaturecoding.shuffle_1.6.0_iphoneos-arm.deb
 Size: 330570 
