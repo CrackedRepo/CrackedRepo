@@ -2097,10 +2097,141 @@ Section: Tweaks
 Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.10~beta1)
 Priority: optional
 Architecture: iphoneos-arm
-Author: Rocket App
+Author: CrackedRepo <Gold Findings Only!!!>
 Depiction: https://apt.alfhaily.me/depiction/4EYOXC
 SileoDepiction: https://apt.alfhaily.me/depiction/sileo/4EYOXC
 Icon: https://apt.alfhaily.me/cdn/assets/rocket-icon.png
-Maintainer: Rocket App <support@getrocketapp.io>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
 Version: 3.7.31
 Installed-Size: 9556
+
+Filename: ./debs/me.alfhaily.rocket_3.7.32_iphoneos-arm.deb
+Size: 2356602 
+MD5sum: 95ca6cc55480f44e3a1297eea8a69c11
+SHA1: 5ee02234949af1e53513a5e378a4c1072d28c972
+SHA256: 21f692579d8ed77aec89ecb38b7220876683f4a8f357ee1a96551db33b30b125
+Name: Rocket for Instagram
+Description: Save posts and view stories anonymously and do much more!
+Section: Tweaks
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.10~beta1)
+Priority: optional
+Architecture: iphoneos-arm
+Author: CrackedRepo <Gold Findings Only!!!>
+Depiction: https://apt.alfhaily.me/depiction/4EYOXC
+SileoDepiction: https://apt.alfhaily.me/depiction/sileo/4EYOXC
+Icon: https://apt.alfhaily.me/cdn/assets/rocket-icon.png
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Version: 3.7.32
+Installed-Size: 9492
+
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 14.8.1)
+Depiction: https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Homepage: https://cydia.akemi.ai/
+Provides: appsync
+Replaces: us.hackulo.appsync50
+Package: net.angelxwind.appsyncunified
+Filename: ./debs/net.angelxwind.appsyncunified_104.0_iphoneos-arm.deb
+Size: 59144 
+MD5sum: 4d4f867de80c03237897a0396d1bd90b
+SHA1: ec75e0cf681f50c11ced972d9990912f6d57af99
+SHA256: 720ab7caf651b5922c41ce2960d0a94a6e5c9c3be3c76676c33524a5d5eab0d3
+Name: AppSync Unified
+Architecture: iphoneos-arm
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Section: Tweaks
+Author: CrackedRepo <Gold Findings Only!!!>
+Version: 104.0
+Installed-Size: 732
+
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Name: CCSupport
+Package: com.opa334.ccsupport
+Filename: ./debs/com.opa334.ccsupport_1.3.5_iphoneos-arm.deb
+Size: 56888 
+MD5sum: ba62b041f456751233d72a147d54eb90
+SHA1: 101a08fa61f0e73aa93fdfc61a79c206e9f81b4e
+SHA256: 22eafbab78ccef3983db071f79c8afdbec46aa7c52e224dfd2784f18ee17ac8d
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Provides: com.ioscreatix.silo
+Replaces: com.ioscreatix.silo
+Conflicts: com.ioscreatix.silo
+Section: Tweaks
+Installed-Size: 386
+Version: 1.3.5
+Architecture: iphoneos-arm
+Description: Support tweak for CC modules!
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: opa334
+Tag: purpose::extension
+ 
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Name: CCSupport
+Package: com.opa334.ccsupport
+Filename: ./debs/com.opa334.ccsupport_1.3.6_iphoneos-arm.deb
+Size: 56838 
+MD5sum: 4972bdc07f2e953e8ad798864236e3c5
+SHA1: 4f0ae00b622cd063ae02aadb364141dbc972cae6
+SHA256: 47fd41fb7af36950afabb3ff90bafb23d3db33abc6ea587468ffbc8bee7bb739
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Provides: com.ioscreatix.silo
+Replaces: com.ioscreatix.silo
+Conflicts: com.ioscreatix.silo
+Section: Tweaks
+Installed-Size: 386
+Version: 1.3.6
+Architecture: iphoneos-arm
+Description: Support tweak for CC modules!
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: opa334
+Tag: purpose::extension
+
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Name: 420 Tools
+Package: com.randy420.tools
+Filename: ./debs/com.randy420.tools_1.2_iphoneos-arm.deb
+Size: 672614 
+MD5sum: 17e743e7ec79957707febe75c4de7ac7
+SHA1: 17192796d8a9fba6e3d5e0768e4d90d2e4289845
+SHA256: e6aabfa8fb7eb622731f19c0f1f740bd6ce0df74153d242887d5573aa46a9a10
+Depends: ws.hbang.common, preferenceloader
+Section: Development
+Installed-Size: 1513
+Version: 1.2
+Architecture: iphoneos-arm
+Description: Tools for Randy420's tweaks!
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=420toolsDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=420toolsDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: randy420
+Tag: role::developer, purpose::library
+ 
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Name: 420 Tools
+Package: com.randy420.tools
+Filename: ./debs/com.randy420.tools_2.1_iphoneos-arm.deb
+Size: 805666 
+MD5sum: baef2f38759f9bf4f26d01417a5502c9
+SHA1: 53359c0c2e1857644260b06f3f6935431fc31696
+SHA256: 9f0c50ed3ceb0fe00255539c441106911dcbc9d0553ed37074063f4d86e7c519
+Depends: ws.hbang.common, preferenceloader
+Section: Development
+Installed-Size: 2215
+Version: 2.1
+Architecture: iphoneos-arm
+Description: Tools for Randy420's tweaks
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=420toolsDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=420toolsDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: randy420
+Tag: role::developer, purpose::library
+
