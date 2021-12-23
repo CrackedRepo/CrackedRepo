@@ -2235,3 +2235,21 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 dev: randy420
 Tag: role::developer, purpose::library
 
+Package: ai.paisseon.satella
+Filename: ./debs/ai.paisseon.satella_2.7.1_iphoneos-arm.deb
+Size: 48684 
+MD5sum: 5c918029231fd1dccb6779c19e9f39e2
+SHA1: e52e21187dd3c1fe716ed517358132c9a7247bf1
+SHA256: 37e98f718ed70db26e220c9a543c3f1924b80d095d434a6bc3eb3484145ce76f
+Section: Tweaks
+Installed-Size: 332
+Maintainer: Paisseon
+Architecture: iphoneos-arm
+Version: 2.7.1
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Description: IAP cracker for modern devices!
+Name: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Icon: https://paisseon.github.io/info/satella.png
+SileoDepiction: https://paisseon.github.io/info/satella.json
+Depiction: https://paisseon.github.io/info/satella.html
