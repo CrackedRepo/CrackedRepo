@@ -2348,8 +2348,8 @@ Name: Zebra
 Architecture: iphoneos-arm
 Depends: dpkg, uikittools, firmware (>= 9.0)
 Description: A Useful Package Manager
-Maintainer: Zebra Team <team@getzbra.com>
-Author: Zebra Team <team@getzbra.com>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
 Section: Packaging
 Icon: file:///Applications/Zebra.app/AppIcon60x60@3x.png
 Depiction: https://getzbra.com/repo/depictions/xyz.willy.Zebra/
@@ -2357,3 +2357,24 @@ Support: https://getzbra.com/repo/depictions/xyz.willy.Zebra/bug_report.html
 Tag: compatible::9.0-14.8
 Version: 1.1.23
 Installed-Size: 14616
+
+Package: me.alfhaily.cercube
+Filename: ./me.alfhaily.cercube_5.3.4_iphoneos-arm.deb
+Size: 4161694 
+MD5sum: 1cf723be48696032ac6fcc884ebee835
+SHA1: daf93e636d021bde6fdd4a19ea8b49cec1ac39aa
+SHA256: 4b181ffdfac3a3fe419b4e9a476d8365bc6220086667f98ba967d9bba31a0842
+Name: Cercube for YouTube
+Description: Download YouTube videos and more!
+Section: Tweaks
+Depends: firmware (>= 9.0), mobilesubstrate
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
+Priority: optional
+Architecture: iphoneos-arm
+Author: CrackedRepo <Gold Findings Only!!!>
+Depiction: https://apt.alfhaily.me/depiction/FDXO5R
+SileoDepiction: https://apt.alfhaily.me/depiction/sileo/FDXO5R
+Icon: https://apt.alfhaily.me/cdn/assets/cercube-icon.png
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Version: 5.3.4
+Installed-Size: 16684
