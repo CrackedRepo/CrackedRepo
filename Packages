@@ -2378,3 +2378,44 @@ Icon: https://apt.alfhaily.me/cdn/assets/cercube-icon.png
 Maintainer: CrackedRepo <Gold Findings Only!!!>
 Version: 5.3.4
 Installed-Size: 16684
+
+Package: me.alfhaily.cercube
+Filename: ./me.alfhaily.cercube_5.3.5_iphoneos-arm.deb
+Size: 4170832 
+MD5sum: 1f20f9c45005e9d833e0cc3218a1e2bf
+SHA1: d8d31b02d99d779b4f18294a4e06599eeb515365
+SHA256: 0a8b31a5cc4f232aa7c5ce68fd6d3381d5d77eb5296492c770b98814c7117919
+Name: Cercube for YouTube
+Description: Download YouTube videos and more!
+Section: Tweaks
+Depends: firmware (>= 9.0), mobilesubstrate
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
+Priority: optional
+Architecture: iphoneos-arm
+Author: CrackedRepo <Gold Findings Only!!!>
+Depiction: https://apt.alfhaily.me/depiction/FDXO5R
+SileoDepiction: https://apt.alfhaily.me/depiction/sileo/FDXO5R
+Icon: https://apt.alfhaily.me/cdn/assets/cercube-icon.png
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Version: 5.3.5
+Installed-Size: 16700
+
+Package: xyz.willy.zebra
+Filename: ./xyz.willy.zebra_1.1.24_iphoneos-arm.deb
+Size: 8242476 
+MD5sum: f7b0ddb350f8053bf74f921fd78b1f10
+SHA1: f724c15cbb20a2581e111132c0924d139ca45635
+SHA256: ccab576250770836247a1e9016c4dbe58327aab804679e375bb8fb6dbecdfb73
+Name: Zebra
+Architecture: iphoneos-arm
+Depends: dpkg, uikittools, firmware (>= 9.0)
+Description: A Useful Package Manager
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Packaging
+Icon: file:///Applications/Zebra.app/AppIcon60x60@3x.png
+Depiction: https://getzbra.com/repo/depictions/xyz.willy.Zebra/
+Support: https://getzbra.com/repo/depictions/xyz.willy.Zebra/bug_report.html
+Tag: compatible::9.0-14.8
+Version: 1.1.24
+Installed-Size: 14796
