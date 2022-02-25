@@ -2419,3 +2419,21 @@ Support: https://getzbra.com/repo/depictions/xyz.willy.Zebra/bug_report.html
 Tag: compatible::9.0-14.8
 Version: 1.1.24
 Installed-Size: 14796
+
+Package: org.coolstar.sileo
+Filename: ./org.coolstar.sileo_2.3_iphoneos-arm.deb
+Size: 1997556 
+MD5sum: 8ec089704f0bd944d914ff044fef91a4
+SHA1: c3fc6093b43b37d41fd95bcfc7cb7852fc544870
+SHA256: d7cec451c30724bf92aec88ff217aa83a310ee87eab3fca438fce688a6d179ee
+Name: Sileo
+Version: 2.3
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Description: A modern APT package manager frontend!
+Architecture: iphoneos-arm
+Depends: firmware (>= 12.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), coreutils (>= 8.31-1), dpkg (>= 1.19.7-2), apt (>= 1.8.2), libzstd1
+Section: Packaging
+Icon: https://getsileo.app/img/icon.png
+SileoDepiction: https://featuredpage.getsileo.app/depiction.json
+
