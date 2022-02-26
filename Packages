@@ -2437,3 +2437,23 @@ Section: Packaging
 Icon: https://getsileo.app/img/icon.png
 SileoDepiction: https://featuredpage.getsileo.app/depiction.json
 
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Name: FreshCydia
+Package: com.t0mi.freshcydia
+Filename: ./com.t0mi.freshcydia_1.2.1_iphoneos-arm.deb
+Size: 1004618 
+MD5sum: f560941738181e05926712974915ee40
+SHA1: 0d923f1142e72b447c1952efaf27a22e964922dd
+SHA256: 149beab47bfb5295611b9ed4eb35afc52cf99d2ef3b8712cb97e86ee7e77d6ad
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5000), cydia
+Section: Tweaks
+Installed-Size: 2607
+Version: 1.2.1
+Architecture: iphoneos-arm
+Description: A refreshing and modern look for the Cydia homepage & more.
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=freshcydiaDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=freshcydiaDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: t0mi
+Tag: purpose::extension
