@@ -2457,3 +2457,44 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=freshcydiaD
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: t0mi
 Tag: purpose::extension
+
+Package: me.alfhaily.cercube
+Filename: ./me.alfhaily.cercube_5.3.6_iphoneos-arm.deb
+Size: 4126426
+MD5sum: 0d0b574c7a0016b5fb22d5d21e10c289
+SHA1: f38b791fae03d8e973a83322d7ca8abc6169542e
+SHA256: df7063a30063923f967dfc052c497e9c0c845d513bc08a1fdcdf15a0535e0374
+Name: Cercube for YouTube
+Description: Download YouTube videos and more!
+Section: Tweaks
+Depends: firmware (>= 9.0), mobilesubstrate
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
+Priority: optional
+Architecture: iphoneos-arm
+Author: CrackedRepo <Gold Findings Only!!!>
+Depiction: https://apt.alfhaily.me/depiction/FDXO5R
+SileoDepiction: https://apt.alfhaily.me/depiction/sileo/FDXO5R
+Icon: https://apt.alfhaily.me/cdn/assets/cercube-icon.png
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Version: 5.3.6
+Installed-Size: 16700
+
+Package: me.alfhaily.rocket
+Filename: ./me.alfhaily.rocket_3.7.38_iphoneos-arm.deb
+Size: 2343864 
+MD5sum: 3633b74b61dd15916ac40be83b7a7661
+SHA1: e7f0091e0e2d94b948d95f0e7379881f3a83ab7e
+SHA256: 236d6e409d8f70a2e32468d68b05461012ad0beb7bbe134c76d72be69c04cbea
+Name: Rocket for Instagram
+Description: Save posts and view stories anonymously and do much more!
+Section: Tweaks
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.10~beta1)
+Priority: optional
+Architecture: iphoneos-arm
+Author: CrackedRepo <Gold Findings Only!!!>
+Depiction: https://apt.alfhaily.me/depiction/4EYOXC
+SileoDepiction: https://apt.alfhaily.me/depiction/sileo/4EYOXC
+Icon: https://apt.alfhaily.me/cdn/assets/rocket-icon.png
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Version: 3.7.38
+Installed-Size: 8712
