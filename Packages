@@ -2519,3 +2519,45 @@ Icon: https://apt.alfhaily.me/cdn/assets/cercube-icon.png
 Maintainer: CrackedRepo <Gold Findings Only!!!>
 Version: 5.3.7
 Installed-Size: 16700
+
+Package: me.alfhaily.cercube
+Filename: ./me.alfhaily.cercube_5.3.8_iphoneos-arm.deb
+Size: 3682366 
+MD5sum: 0034a0290a0745277a7366a420a79663
+SHA1: e5c23bc6be4eb346958a2b4e89235444fb40f928
+SHA256: eef2e2767f77012b1cdd4a753405092aebdabc8967718b6d233adedfde55615a
+Name: Cercube for YouTube
+Description: Download YouTube videos and more!
+Section: Tweaks
+Depends: firmware (>= 9.0), mobilesubstrate
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
+Priority: optional
+Architecture: iphoneos-arm
+Author: CrackedRepo <Gold Findings Only!!!>
+Depiction: https://apt.alfhaily.me/depiction/FDXO5R
+SileoDepiction: https://apt.alfhaily.me/depiction/sileo/FDXO5R
+Icon: https://apt.alfhaily.me/cdn/assets/cercube-icon.png
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Version: 5.3.8
+Installed-Size: 14704
+
+Package: me.alfhaily.rocket
+Filename: ./me.alfhaily.rocket_3.7.40_iphoneos-arm.deb
+Size: 2345816 
+MD5sum: f76562256f0683c5b0662251f0cfdfe0
+SHA1: 371ad302537d135b261599e6c270943815288cdd
+SHA256: 2671323095641a9c0e7b089ef545cb41248222df3805769dd18201549d0d18e8
+Name: Rocket for Instagram
+Description: Save posts and view stories anonymously and do much more!
+Section: Tweaks
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.10~beta1)
+Priority: optional
+Architecture: iphoneos-arm
+Author: CrackedRepo <Gold Findings Only!!!>
+Depiction: https://apt.alfhaily.me/depiction/4EYOXC
+SileoDepiction: https://apt.alfhaily.me/depiction/sileo/4EYOXC
+Icon: https://apt.alfhaily.me/cdn/assets/rocket-icon.png
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Version: 3.7.40
+Installed-Size: 8716
+
