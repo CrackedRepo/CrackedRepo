@@ -2561,3 +2561,24 @@ Maintainer: CrackedRepo <Gold Findings Only!!!>
 Version: 3.7.40
 Installed-Size: 8716
 
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Name: AltList
+Package: com.opa334.altlist
+Filename: ./com.opa334.altlist_1.0.8_iphoneos-arm.deb
+Size: 46412 
+MD5sum: a09c874d849e30e7e2551e7a958b44cc
+SHA1: a9db03b1441bbca0eb68a975d316cb8fa4a352e1
+SHA256: 1e49232ed221001b716e0c612cfbc82038d0a85a5180314202f8169c9157c493
+Depends: firmware (>= 7.0)
+Section: Development
+Installed-Size: 306
+Version: 1.0.8
+Architecture: iphoneos-arm
+Description: A modern AppList alternative!
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: opa334
+Tag: purpose::library
+
