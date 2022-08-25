@@ -2599,3 +2599,141 @@ Maintainer: CrackedRepo <Gold Findings Only!!!>
 Section: Tweaks
 Depiction: https://julio.hackyouriphone.org/description.html?id=com.julioverne.spotilife
 
+Package: me.alfhaily.cercube
+Filename: ./me.alfhaily.cercube_5.3.9_iphoneos-arm.deb
+Size: 3682484 
+MD5sum: f3b9e7a27f86cbb54d7067f2ea30fd9b
+SHA1: f71664afea3776f7ba5e0dec60ce017379eb8bd2
+SHA256: d3640eda17f09b99903d3ac72c311af959b3a82039e0c692c1e46954a3dff088
+Name: Cercube for YouTube
+Description: Download YouTube videos and more!
+Section: Tweaks
+Depends: firmware (>= 9.0), mobilesubstrate
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
+Priority: optional
+Architecture: iphoneos-arm
+Author: CrackedRepo <Gold Findings Only!!!>
+Depiction: https://apt.alfhaily.me/depiction/FDXO5R
+SileoDepiction: https://apt.alfhaily.me/depiction/sileo/FDXO5R
+Icon: https://apt.alfhaily.me/cdn/assets/cercube-icon.png
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Version: 5.3.9
+Installed-Size: 14704
+
+Package: me.alfhaily.cercube
+Filename: ./me.alfhaily.cercube_5.3.10_iphoneos-arm.deb
+Size: 3330308 
+MD5sum: 7532af91b1857879ad65e74d5e07a7ef
+SHA1: fb78dfaeb5186e39355c7f7f17874e598e103c2e
+SHA256: da2860b5d6d5dc5f1ca81af0cffdd9c95075dd45e3cd7135327a68c3fb907350
+Name: Cercube for YouTube
+Description: Download YouTube videos and more!
+Section: Tweaks
+Depends: firmware (>= 9.0), mobilesubstrate
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
+Priority: optional
+Architecture: iphoneos-arm
+Author: CrackedRepo <Gold Findings Only!!!>
+Depiction: https://apt.alfhaily.me/depiction/FDXO5R
+SileoDepiction: https://apt.alfhaily.me/depiction/sileo/FDXO5R
+Icon: https://apt.alfhaily.me/cdn/assets/cercube-icon.png
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Version: 5.3.10
+Installed-Size: 14300
+
+Package: me.alfhaily.cercube
+Filename: ./me.alfhaily.cercube_5.3.11_iphoneos-arm.deb
+Size: 3333126 
+MD5sum: e64855b7fa823dd002a1f81af16bdc86
+SHA1: b03023613847fb9a6379935c56e17e43fbbc7def 
+SHA256: 14a40aabaa8680f3656894633fcddd365d95d7b433cf38f5fe63261faa553e96
+Name: Cercube for YouTube
+Description: Download YouTube videos and more!
+Section: Tweaks
+Depends: firmware (>= 9.0), mobilesubstrate
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
+Priority: optional
+Architecture: iphoneos-arm
+Author: CrackedRepo <Gold Findings Only!!!>
+Depiction: https://apt.alfhaily.me/depiction/FDXO5R
+SileoDepiction: https://apt.alfhaily.me/depiction/sileo/FDXO5R
+Icon: https://apt.alfhaily.me/cdn/assets/cercube-icon.png
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Version: 5.3.11
+Installed-Size: 14300
+
+Package: me.alfhaily.rocket
+Filename: ./me.alfhaily.rocket_3.7.45_iphoneos-arm.deb
+Size: 2393660 
+MD5sum: 5dd7912fdd15f1c818231125212c696a
+SHA1: e3dcd6835cdbb44a436cd96754cd436b35b8df92
+SHA256: f41e51586d4b1c498191019777f7ff0298c70def82c6b86ab1a9342f023c8a98
+Name: Rocket for Instagram
+Description: Save posts and view stories anonymously and do much more!
+Section: Tweaks
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.10~beta1)
+Priority: optional
+Architecture: iphoneos-arm
+Author: CrackedRepo <Gold Findings Only!!!>
+Depiction: https://apt.alfhaily.me/depiction/4EYOXC
+SileoDepiction: https://apt.alfhaily.me/depiction/sileo/4EYOXC
+Icon: https://apt.alfhaily.me/cdn/assets/rocket-icon.png
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Version: 3.7.45
+Installed-Size: 8860
+
+Package: me.alfhaily.rocket
+Filename: ./me.alfhaily.rocket_3.7.46_iphoneos-arm.deb
+Size: 2397726 
+MD5sum: cf1c915bc017aeccb7f200a40e75b2e9
+SHA1: 62ed9b3c55575b05934af8304700e733264d03d0
+SHA256: a1872e9f13a084ebc6842384226b20096dd966505fc32c797b4077e489f11336
+Name: Rocket for Instagram
+Description: Save posts and view stories anonymously and do much more!
+Section: Tweaks
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.10~beta1)
+Priority: optional
+Architecture: iphoneos-arm
+Author: CrackedRepo <Gold Findings Only!!!>
+Depiction: https://apt.alfhaily.me/depiction/4EYOXC
+SileoDepiction: https://apt.alfhaily.me/depiction/sileo/4EYOXC
+Icon: https://apt.alfhaily.me/cdn/assets/rocket-icon.png
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Version: 3.7.46
+Installed-Size: 8860
+
+Package: me.alfhaily.rocket
+Filename: ./me.alfhaily.rocket_3.7.47_iphoneos-arm.deb
+Size: 1892060 
+MD5sum: 631a6eb252dfe669b814c095d9e52770
+SHA1: 9bf997b0a88e69fb50afc6a5e169eeb6eb1b7d88
+SHA256: de13adbd5d96d1b209d9c9e641afd5b46a00d958ab710282ecfae9c685e9d400
+Name: Rocket for Instagram
+Description: Save posts and view stories anonymously and do much more!
+Section: Tweaks
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.10~beta1)
+Priority: optional
+Architecture: iphoneos-arm
+Author: CrackedRepo <Gold Findings Only!!!>
+Depiction: https://apt.alfhaily.me/depiction/4EYOXC
+SileoDepiction: https://apt.alfhaily.me/depiction/sileo/4EYOXC
+Icon: https://apt.alfhaily.me/cdn/assets/rocket-icon.png
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Version: 3.7.47
+Installed-Size: 8300
+
+Package: com.pxcex.localiapstore13
+Filename: ./com.pxcex.localiapstore13_0.0.1_iphoneos-arm.deb
+Size: 2684 
+MD5sum: ecfd8c78d1a9f6c841715d7257cde6b3
+SHA1: 755abab6e45b47294f5181b790e36b8a37a87bbf
+SHA256: 5e0cfa0ae83c1517fbcccf0a150a6d794ffdc2696e9e6e6d4659cd96185aa9f3
+Name: LocalIAPStore13
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Free In-App Purchases include app IOS 13 bypass Lock iCloud (bypass verify Passcode, Touch ID or Face ID).  No options to configure!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Version: 0.0.2
+Installed-Size: 136
