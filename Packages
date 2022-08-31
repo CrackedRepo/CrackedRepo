@@ -2815,28 +2815,6 @@ Description: OpenJDK 8 Runtime Environment, using HotSpot JIT runtime, from Azul
 Depiction: https://doregon.github.io/json-webviews/?json=https://repo.doregon.gq/depictions/natives/openjdk-8-jre.json&name=OpenJDK%208%20Developer%20Kit&dev=PojavLauncherTeam&section=Development
 SileoDepiction: https://repo.doregon.gq/depictions/natives/openjdk-8-jre.json
 
-Package: openjdk-8-jdk
-Filename: ./openjdk-8-jdk_1.8.0~292b10-build16_iphoneos-arm.deb
-Size: 83698776 
-MD5sum: aefc9f59f8b4a127a166bdf34afd52c4
-SHA1: 3f406a53c9a3c80c62ad161efb585da25ed47cea
-SHA256: 2c975abfb05626402e7130d05e1a608ec9b321c4f2951ab4fd54aed9192216bc
-Name: openjdk-8-jdk
-Maintainer: CrackedRepo <Gold Findings Only!!!>
-Author: CrackedRepo <Gold Findings Only!!!>
-Architecture: iphoneos-arm
-Replaces: java-8-openjdk
-Conflicts: java-8-openjdk, openjdk-8-jre
-Version: 1.8.0~292b10-build16
-Depends: firmware (>= 12.0)
-Section: Development
-Priority: optional
-Homepage: https://www.azul.com
-Description: OpenJDK 8 Runtime Environment, using HotSpot JIT runtime, from Azul's Runtime.
-This package includes developer tools to build and test your Java 8 applications directly on iOS.
-Depiction: https://doregon.github.io/json-webviews/?json=https://repo.doregon.gq/depictions/natives/openjdk-8-jdk.json&name=OpenJDK%208%20Developer%20Kit&dev=PojavLauncherTeam&section=Development
-SileoDepiction: https://repo.doregon.gq/depictions/natives/openjdk-8-jdk.json
-
 Package: com.doregon.overb0ard
 Filename: ./com.doregon.overb0ard_1.0.3_iphoneos-arm.deb
 Size: 7316 
