@@ -2834,3 +2834,18 @@ SileoDepiction: https://repo.doregon.gq/depictions/natives/com.doregon.overb0ard
 Section: System
 Version: 1.0.3
 Installed-Size: 276
+
+Package: com.CrackedRepo.pojavalauncher-2.1
+Filename: ./com.CrackedRepo.pojavalauncher-2.1_2.1_iphoneos-arm.deb
+Size: 27951596 
+MD5sum: edaee5ff057c9ba4e0d615b6026892d5
+SHA1: d3a32851b4307c0ab3f6f02f109b46c83d309a4a
+SHA256: 775e46606d342d894df7ab7c8d7e6f9d6d472d9a250ca22e303f1aa071bf0678
+Name: Pojavalauncher-2.1
+Version: 2.1
+Description: Minecraft Java Edition Emulator!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Games 
+Architecture: iphoneos-arm
+
