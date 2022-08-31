@@ -2737,3 +2737,122 @@ Author: CrackedRepo <Gold Findings Only!!!>
 Section: Tweaks
 Version: 0.0.2
 Installed-Size: 136
+
+Package: net.kdt.pojavlauncher.release
+Filename: ./net.kdt.pojavlauncher.release_2.0.1_iphoneos-arm.deb
+Size: 17418000 
+MD5sum: ef9264e05c62fb37f78410434585f1d4
+SHA1: 13c25c841a18dc630b2de7b81cd95ad5a1376e46
+SHA256: e728eca4db9c991500cb1087029052a7d86f2ad74566ada95e2445b160b60689
+Name: PojavLauncher iOS
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Architecture: iphoneos-arm
+Version: 2.0.1
+Depends: openjdk-8-jre | openjdk-16-jre | openjdk-8-jdk | openjdk-16-jdk, firmware (>= 12.0), firmware (<= 15.0)
+Conflicts: pojavlauncher-dev, pojavlauncher-zink, pojavlauncher, net.kdt.pojavlauncher.release-rootless, net.kdt.pojavlauncher.development, net.kdt.pojavlauncher.development-rootless
+Replaces: pojavlauncher, pojavlauncher-dev
+Section: Games
+Priority: optional
+Homepage: https://github.com/PojavLauncherTeam/PojavLauncher_iOS
+Description: Minecraft: Java Edition launcher for iOS, based on PojavLauncher Android.
+SileoDepiction: https://repository.crystall1ne.software/depictions/natives/net.kdt.pojavlauncher.release.json
+
+Package: net.kdt.pojavoptimize-1171
+Filename: ./net.kdt.pojavoptimize-1171_1.0_iphoneos-arm.deb
+Size: 24131256 
+MD5sum: d4bac3372c984563cd5a56f0af613814
+SHA1: fa2137dfba5c5081be48aa8c663b0ee3dd58538a
+SHA256: 01f9c6a33d4338503b9495cb78ad4d6dc48c25319f4521a77a62811524169e7a
+Architecture: iphoneos-arm
+Version: 1.0
+Section: PojavLauncher Addons
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Depends: firmware (>=12.0), net.kdt.pojavlauncher.release | net.kdt.pojavlauncher.release-rootless | net.kdt.pojavlauncher.development | net.kdt.pojavlauncher.development-rootless
+Conflicts: com.doregon.pojavoptimize, net.kdt.pojavoptimize-1165
+Replaces: com.doregon.pojavoptimize
+Description: A collection of mods to improve the performance of PojavLauncher, based off of Fabulously Optimized.
+Author: CrackedRepo <Gold Findings Only!!!>
+Depiction: https://doregon.github.io/json-webviews/?json=https://repo.doregon.gq/depictions/natives/net.kdt.pojavoptimize.json&name=PojavOptimize&dev=Adam%20Tunnic&section=Games
+SileoDepiction: https://repo.doregon.gq/depictions/natives/net.kdt.pojavoptimize-1171.json
+Name: PojavOptimize (1.17.1)
+
+Package: openjdk-17-jre
+Filename: ./openjdk-17-jre_17+16_iphoneos-arm.deb
+Size: 37875504 
+MD5sum: 53dd2279a2d91a96bc433df5db4c8a55
+SHA1: 78e3755a558559231e0423af44d23cac7115c0e5
+SHA256: f4f4265eb845aa6a17d6bb14b94738ec484a11fa8bb4a8eeb02029e9f2f47dd9
+Version: 17+16
+Architecture: iphoneos-arm
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Section: System
+Priority: optional
+Homepage: https://github.com/openjdk/jdk
+Description: OpenJDK Java runtime, using Hotspot JIT
+Minimal Java runtime - needed for executing non GUI Java programs,
+using Hotspot JIT.
+Installed-Size: 170092
+
+Package: openjdk-8-jre
+Filename: ./openjdk-8-jre_1.8.0~292b10-build16_iphoneos-arm.deb
+Size: 27635716 
+MD5sum: e8b451e2a3e0864c5b6b46a1bcd9ed5a
+SHA1: 354435c08c1cec71c7d5ff8a65ab8b5b295f7418
+SHA256: e8af73bbba5cd7890e5fb6a1ac9bd67a745bc6afb3d817e5e0d3f45c0be1ae0c
+Name: openjdk-8-jre
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Architecture: iphoneos-arm
+Replaces: java-8-openjdk
+Conflicts: java-8-openjdk, openjdk-8-jdk
+Version: 1.8.0~292b10-build16
+Depends: firmware (>= 12.0)
+Section: Development
+Priority: optional
+Homepage: https://www.azul.com
+Description: OpenJDK 8 Runtime Environment, using HotSpot JIT runtime, from Azul's Runtime.
+Depiction: https://doregon.github.io/json-webviews/?json=https://repo.doregon.gq/depictions/natives/openjdk-8-jre.json&name=OpenJDK%208%20Developer%20Kit&dev=PojavLauncherTeam&section=Development
+SileoDepiction: https://repo.doregon.gq/depictions/natives/openjdk-8-jre.json
+
+Package: openjdk-8-jdk
+Filename: ./openjdk-8-jdk_1.8.0~292b10-build16_iphoneos-arm.deb
+Size: 83698776 
+MD5sum: aefc9f59f8b4a127a166bdf34afd52c4
+SHA1: 3f406a53c9a3c80c62ad161efb585da25ed47cea
+SHA256: 2c975abfb05626402e7130d05e1a608ec9b321c4f2951ab4fd54aed9192216bc
+Name: openjdk-8-jdk
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Architecture: iphoneos-arm
+Replaces: java-8-openjdk
+Conflicts: java-8-openjdk, openjdk-8-jre
+Version: 1.8.0~292b10-build16
+Depends: firmware (>= 12.0)
+Section: Development
+Priority: optional
+Homepage: https://www.azul.com
+Description: OpenJDK 8 Runtime Environment, using HotSpot JIT runtime, from Azul's Runtime.
+This package includes developer tools to build and test your Java 8 applications directly on iOS.
+Depiction: https://doregon.github.io/json-webviews/?json=https://repo.doregon.gq/depictions/natives/openjdk-8-jdk.json&name=OpenJDK%208%20Developer%20Kit&dev=PojavLauncherTeam&section=Development
+SileoDepiction: https://repo.doregon.gq/depictions/natives/openjdk-8-jdk.json
+
+Package: com.doregon.overb0ard
+Filename: ./com.doregon.overb0ard_1.0.3_iphoneos-arm.deb
+Size: 7316 
+MD5sum: 734c5aaf03862a83e399edddb21a2544
+SHA1: 80a6271486ca330eaf45ed4251fd10428c21dbcb
+SHA256: 2c8cfd734cb7640c6edee04c99364da83fecb9d31273a314eaaa7d4ce72c303b
+Name: overb0ard
+Depends: firmware (>= 6.0)
+Conflicts: com.doregon.overb0ard-dev, com.kramerapps.jetsamctl
+Replaces: com.kramerapps.jetsamctl
+Architecture: iphoneos-arm
+Description: Take control of your device's memory.
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Depiction: https://doregon.github.io/json-webviews/?json=https://repo.doregon.gq/depictions/natives/com.doregon.overb0ard.json&name=overb0ard&dev=Adam%20Tunnic&section=System
+SileoDepiction: https://repo.doregon.gq/depictions/natives/com.doregon.overb0ard.json
+Section: System
+Version: 1.0.3
+Installed-Size: 276
