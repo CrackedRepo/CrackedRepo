@@ -2864,4 +2864,38 @@ Section: Utilities
 Version: 1.0.5
 Installed-Size: 600
 
+Package: com.level3tjg.bfdecrypt
+Filename: ./com.level3tjg.bfdecrypt_1.3.4_iphoneos-arm.deb
+Size: 69810 
+MD5sum: 7d485a5623d1fac60940178162705f55
+SHA1: 0bf3c243278d5d7ed14089ad056c0e5163df0000
+SHA256: 22561e7ad840be5744de87ea9fef9f658f49e3c8e38826c5b2eb946004bd90c7
+Name: bfdecrypt
+Architecture: iphoneos-arm
+Description: bfdecrypt for iOS 11+
+Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.bfdecrypt
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Depends: mobilesubstrate, com.opa334.altlist, firmware (>=11.0)
+Version: 1.3.4
+Installed-Size: 388
+
+Package: com.level3tjg.insert-dylib
+Filename: ./com.level3tjg.insert-dylib_1.0.3_iphoneos-arm.deb
+Size: 53956 
+MD5sum: 9c7cf05f88b6efe0b05cb72488668795
+SHA1: 570aeeccdb6cf8fdbde45fbc34ceacc275ba5e42
+SHA256: c70e81a82fbcd068b540cfbb3d22dca20571fe30453ab85380b674a7de2637bb
+Name: insert_dylib
+Version: 1.0.3
+Architecture: iphoneos-arm
+Description: Command line utility for inserting a dylib load command into a Mach-O binary. https://github.com/Tyilo/insert_dylib
+Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.insert-dylib
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: System
+Tag: role:hacker
+
+
 
