@@ -2849,3 +2849,19 @@ Author: CrackedRepo <Gold Findings Only!!!>
 Section: Games 
 Architecture: iphoneos-arm
 
+Package: com.opa334.trollstorehelper
+Filename: ./com.opa334.trollstorehelper_1.0.5_iphoneos-arm.deb
+Size: 202098 
+MD5sum: 06238c48ad1408f08768d034172c80c6
+SHA1: 1e996f0a4b420c61f54d53dcd17cd4923f97ebf2
+SHA256: c2476751373545cadf70723c32b1452348b9128788ad2d40afd1c8ad1edae637
+Name: TrollStore Helper
+Architecture: iphoneos-arm
+Description: Helper app to install and manage TrollStore!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Utilities
+Version: 1.0.5
+Installed-Size: 600
+
+
