@@ -2930,4 +2930,26 @@ Author: CrackedRepo <Gold Findings Only!!!>
 Section: Development
 Depiction: https://repoiz.github.io/repoiz/depictions/?p=com.rullinoiz.ipa2deb
 
+Author: CrackedRepo <Gold Findings Only!!!>
+Filename: ./bz.jed.tweakcompatible_0.1.5_iphoneos-arm.deb
+Size: 54016 
+MD5sum: 0a90d6021ba05aa5f67c60274c8d69b7
+SHA1: de79c31d1d26788d60e4a1e473e3153d2933f5d3
+SHA256: d10cb06e4da3281ed89906ac84656996b98f52c98c743a22f303fcdad3297b7e
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Name: tweakCompatible
+Package: bz.jed.tweakcompatible
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Section: Tweaks
+Installed-Size: 292
+Version: 0.1.5
+Architecture: iphoneos-arm
+Description: Adds a way to check tweak compatibility in cydia!
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tweakcompatibleDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tweakcompatibleDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: jed
+Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Icon: file:///Library/PreferenceBundles/tweakCompatible_prefs.bundle/icon@2x.png
+
 
