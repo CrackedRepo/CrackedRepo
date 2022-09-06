@@ -2952,4 +2952,19 @@ dev: jed
 Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 Icon: file:///Library/PreferenceBundles/tweakCompatible_prefs.bundle/icon@2x.png
 
+Package: ra1npoc
+Filename: ./ra1npoc_2.1.4_iphoneos-arm.deb
+Size: 634114 
+MD5sum: 5590ee833321138dd7e5aebafdf5c448
+SHA1: 776ac4a909280ad3a714ba7b5572f7349214b103
+SHA256: ec4479d427cfa7e1d4782207d7aa856893146e011da514ca8a7975f3b994b21c
+Name: ra1npoc (builtin)
+Version: 2.1.4
+Architecture: iphoneos-arm
+Description: checkrain clone v2.1.4 for iphoneos by interception!
+Depiction: https://dora2ios.github.io/info/ra1npoc/
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: System
+Depends: firmware (>= 9.0)
 
