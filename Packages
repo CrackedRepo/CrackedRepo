@@ -2985,3 +2985,25 @@ Description: Decrypts iOS Apps!
 Section: System
 Icon: file:///Applications/crackerxi.app/AppIcon.png
 
+Package: vn.tuandb.cloneappcmd
+Filename: ./vn.tuandb.cloneappcmd_1.0~b2_iphoneos-arm.deb
+Size: 54552 
+MD5sum: 755b62c0830955032ce9667c68f1ed91
+SHA1: 1ba1274cefff616ee420f9600a15746abb574ab5
+SHA256: f7c35d6dda5e1c6dcc531b33c00b37c3a34e5c9e24a5c09027b57abd87eeffe2
+Name: Clone App Command
+Version: 1.0~b2
+Section: Development
+Icon: file:///Library/tuandb.IconRepo/Development.png
+Description: Nh√¢n b·∫£n ·ª©ng d·ª•ng b·∫±ng l·ªánh cmd
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.cloneappcmd
+Homepage: https://repo.tuandb.name.vn
+Architecture: iphoneos-arm
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Support: CrackedRepo <Gold Findings Only!!!>
+Depends: plutil | com.bingner.plutil, net.angelxwind.appsyncunified
+Conflicts: com.hoangtuan.cloneappcmd
+Installed-Size: 297
+
+
