@@ -2897,5 +2897,21 @@ Author: CrackedRepo <Gold Findings Only!!!>
 Section: System
 Tag: role:hacker
 
+Package: com.cdalei.injectipa
+Filename: ./com.cdalei.injectipa_1.1-7.9_iphoneos-arm.deb
+Size: 684290 
+MD5sum: 278d063737a28175f8616fd211f91917
+SHA1: da22274bad5616e5edde9ad115af9b1c82831d00
+SHA256: 3e4197bd83c147d2e3a2198f4f88229fbcf34f9e7a6db79e8f99ec5fc00b223c
+Version: 1.1-7.9
+Section: Êèí‰ª∂
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Depends: firmware (>= 11.0)
+Architecture: iphoneos-arm
+Installed-Size: 1904
+Name: injectipa ‰∏ÄÈîÆÊ≥®ÂÖ•Êèí‰ª∂
+Author: CrackedRepo <Gold Findings Only!!!>
+Sponsor: ACydiaÂ§ßÈõ∑Ê∫ê‚Ñ¢<http://apt.cdalei.com>
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 
 
