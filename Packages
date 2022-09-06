@@ -2968,3 +2968,20 @@ Author: CrackedRepo <Gold Findings Only!!!>
 Section: System
 Depends: firmware (>= 9.0)
 
+Architecture: iphoneos-arm
+Filename: ./cydia.com.ipc.crackerxi_1.1.16_iphoneos-arm.deb
+Size: 9960924 
+MD5sum: 7363c9289b0041ba3bc8df156b751a9c
+SHA1: 27b8a552befab49a15e78d0cc1d5c5867af3c0fb
+SHA256: 3b835fa95d1d060334929db4ed8b67767c12dba58e8ded8acd0161d44ce974fc
+Name: CrackerXI+
+Package: cydia.com.ipc.crackerxi
+Depends: firmware (>= 11.0)
+Version: 1.1.16
+Size: 244 Kb
+Website: https://ipastore.me
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Description: Decrypts iOS Apps!
+Section: System
+Icon: file:///Applications/crackerxi.app/AppIcon.png
+
