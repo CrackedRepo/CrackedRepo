@@ -3045,5 +3045,27 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 dev: crazymind90
 Tag: purpose::extension
  
+Package: com.rileytestut.altdaemon
+Filename: ./com.rileytestut.altdaemon_1.0_iphoneos-arm.deb
+Size: 597622 
+MD5sum: 83660c2d5119ac6ecce72236b27cfae4
+SHA1: 3c7ce20ff72c17f17a1415b14534a9be3fc41ca1
+SHA256: 1f5b35f4c402f6abab69e1833b260a4dfac156bbe1f9807b7aec4cd22665cc95
+Name: AltDaemon
+Depends:
+Version: 1.0
+Architecture: iphoneos-arm
+Description: AltDaemon allows AltStore to install and refresh apps without a computer.
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Homepage: https://altstore.io
+Section: System
+
+
+
+
+ 
+
+
 
 
