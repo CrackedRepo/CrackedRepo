@@ -3006,4 +3006,23 @@ Depends: plutil | com.bingner.plutil, net.angelxwind.appsyncunified
 Conflicts: com.hoangtuan.cloneappcmd
 Installed-Size: 297
 
+Package: com.geosn0w.iSecureOS
+Filename: ./com.geosn0w.iSecureOS.deb
+Size: 316948 
+MD5sum: 6ae90b7accb297e8128225d9e999018e
+SHA1: 5d61d4f4843a9989ecd8ff651dd61f3f9eedcfb7
+SHA256: 885c4e652435766597a32b0fad0d4605fda2154553ea50c9000884bd0f336b04
+Name: iSecureOS
+Depends: firmware (>= 11.0)
+Version: 1.18
+Architecture: iphoneos-arm
+Description: An iOS Security Application for Jailbroken units.
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Utilities
+Icon: https://isecureos.idevicecentral.com/repo/Files/iSecureOS/iSecureOS.png
+Depiction: https://isecureos.idevicecentral.com/repo/Files/iSecureOS/iSecureOS.html
+SileoDepiction: https://isecureos.idevicecentral.com/repo/sileo/isecureos.json
+
+
 
