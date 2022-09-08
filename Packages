@@ -3024,5 +3024,26 @@ Icon: https://isecureos.idevicecentral.com/repo/Files/iSecureOS/iSecureOS.png
 Depiction: https://isecureos.idevicecentral.com/repo/Files/iSecureOS/iSecureOS.html
 SileoDepiction: https://isecureos.idevicecentral.com/repo/sileo/isecureos.json
 
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Filename: ./com.crazymind90.ytdescopy_1.1_iphoneos-arm.deb
+Size: 11164 
+MD5sum: e481349424ff38531b1c7e6b0468772f
+SHA1: 24f412b8e0a0741ef74eee9d576b62b0cd0ca709
+SHA256: 3d20970c442118d7294b36ed8d5006c42fefe4f588ea50484e33909cd9fbc979
+Name: YTDescriptionCopy
+Package: com.crazymind90.ytdescopy
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000)
+Section: Tweaks
+Installed-Size: 275
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Copy youtube description!
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ytdescriptioncopyDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ytdescriptioncopyDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: crazymind90
+Tag: purpose::extension
+ 
 
 
