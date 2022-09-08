@@ -3061,6 +3061,26 @@ Author: CrackedRepo <Gold Findings Only!!!>
 Homepage: https://altstore.io
 Section: System
 
+Package: com.rileytestut.altstore.alpha.jailbroken
+Filename: ./com.rileytestut.AltStore.Alpha.Jailbroken_iphoneos-arm.deb
+Size: 3124474 
+MD5sum: e9824193c0d561e1617a70fb0529dc4a
+SHA1: 84f8f2cf8503853f00119428b7834cfb07462bc8
+SHA256: 07f33096485919cf8b5718a52508b1351bdf296e38ef9ce66af7fb9935cca3e8
+Section: Tweaks
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Depends: firmware (>=12.2), com.rileytestut.altdaemon
+Architecture: iphoneos-arm
+Version: 1.4a4
+Size: 3124474
+Description: Jailbroken version of AltStore with on device signing feature.
+Name: AltStore (ALPHA)
+Author: CrackedRepo <Gold Findings Only!!!>
+
+
+
+ 
+
 
 
 
