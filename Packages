@@ -3234,6 +3234,28 @@ Homepage: https://iosdag.com
 Version: 3.1.0
 Installed-Size: 272
 
+Package: com.Crackedrepo.athanpro
+Filename: ./com.Crackedrepo.athanpro_3.34_iphoneos-arm.deb
+Size: 88388 
+MD5sum: 49f502bdfa21b1c0778ae81dacff7ec0
+SHA1: 0013c0e98fd0e895be006c78aa3e4d20343d7454
+SHA256: bd931a1a1998b28e55b544ad3d99c7b3fe127b9d3a76a2640e2b5d8de8a68e5e
+Name: athanpro Hack
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: This hack was made by iOSDag.com!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Homepage: https://iosdag.com
+Version: 3.34
+Installed-Size: 272
+
+
+
+
+ 
+
 
 
 
