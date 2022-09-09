@@ -3556,3 +3556,276 @@ Section: Tweaks
 Version: 1.0.1
 Installed-Size: 136
 
+Package: com.iosdag.365scores
+Filename: ./com.iosdag.365scores_4.8.8_iphoneos-arm.deb
+Size: 68422 
+MD5sum: 4cc80f9c95334e91083b3800751126f9
+SHA1: 4224d95b3fa7c07c4bbf14bcbaffba21f5688498
+SHA256: 0937587309f7d46355e40c822aa445e073025b2e8d0903ba6e2e722d30e21f7c
+Name: 365scores Hack
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: This hack was made by iOSDag.com!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Homepage: https://iosdag.com
+Version: 4.8.8
+Installed-Size: 272
+
+Package: com.iosdag.vizmato
+Filename: ./com.iosdag.vizmato_3.1.8_iphoneos-arm.deb
+Size: 68528 
+MD5sum: c7b27951d90188ee1af1df5b592beb91
+SHA1: 37727eb45ac0116323b2a68999b20d288a7eaed9
+SHA256: b29b97b99ed32f62925bd0052f8caf89ea8ae37591db646cac7f8dc2e58d1010
+Name: vizmato Hack
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: This hack was made by iOSDag.com!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Homepage: https://iosdag.com
+Version: 3.1.8
+Installed-Size: 272
+
+Package: com.iosdag.vivavideo
+Filename: ./com.iosdag.vivavideo_6.2.8_iphoneos-arm.deb
+Size: 68846 
+MD5sum: 15b4202713e65a303c5484b7af735691
+SHA1: 6118f028dcf6d7ec98591a1c542cae0ada56bbe0
+SHA256: b67439dbf0104983ffef45196cc5e14c0ccc8fe84fc8a323a655a28b9b8bebe6
+Name: vivavideo Hack
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: This hack was made by iOSDag.com!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Homepage: https://iosdag.com
+Version: 6.2.8
+Installed-Size: 272
+
+Package: com.iosdag.videodrama
+Filename: ./com.iosdag.videodrama_2.1.5_iphoneos-arm.deb
+Size: 68440 
+MD5sum: fe833664b2c583739f43ca0fff4f56c0
+SHA1: d31aa216a0e9f37779832f986ec3b2bb4523ca7c
+SHA256: c46b8ae8c6e4d5da8a40dd28e9f9f6d7e3e812b2cf06d92c102ad3ad0425a193
+Name: videodrama Hack
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: This hack was made by iOSDag.com!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Homepage: https://iosdag.com
+Version: 2.1.5
+Installed-Size: 272
+
+Package: com.iosdag.sing
+Filename: ./com.iosdag.sing_8.6.9_iphoneos-arm.deb
+Size: 68746 
+MD5sum: 046684fd8748265c36aa77c0c64ea9bc
+SHA1: 7effc287d85b19334c9cabc97c5d1a39d858bd2f
+SHA256: 1383866842157145da1fbb2a5836343bca18d5faa68601a49a46027b0d1a2ef4
+Name: Smule - Social Karaoke Singing Hack
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: This hack was made by iOSDag.com!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Homepage: https://iosdag.com
+Version: 8.6.9
+Installed-Size: 272
+
+Package: com.iosdag.scannerforme
+Filename: ./com.iosdag.scannerforme_2.1.4_iphoneos-arm.deb
+Size: 68616
+MD5sum: 2510b7d771f185a432b6bf795284cd7c
+SHA1: e677ee4329b2618b69ae4256b71211ae95d212e7
+SHA256: b9b6e542163514db3a3f7c66f689912c5117d56ba2c98d5ea79ef323d95e89d1
+Name: Scanner for Me: Scan documents Hack
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: This hack was made by iOSDag.com!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Homepage: https://iosdag.com
+Version: 2.1.4
+Installed-Size: 272
+
+Package: com.iosdag.recolor
+Filename: ./com.iosdag.recolor_5.2.0_iphoneos-arm.deb
+Size: 68436 
+MD5sum: e84f7aecfa2009a5053c582f9c732fe7
+SHA1: c32e39ef004d0e54adaa9a85250191b1133c0c57
+SHA256: 0cbaa8e6b315fe5e897f1cc4416c09ce9883fe1ef57e9163475ebdb36901150e
+Name: Recolor - Adult Coloring Book Hack
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: This hack was made by iOSDag.com!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Homepage: https://iosdag.com
+Version: 5.2.0
+Installed-Size: 272
+
+Package: com.iosdag.pixaloop
+Filename: ./com.iosdag.pixaloop_1.6.6_iphoneos-arm.deb
+Size: 69100 
+MD5sum: 83d33e2c53dec67342638a76fe814072
+SHA1: b6d0aebc1e867b0cec948670279fb4ea80880b76
+SHA256: eab3bd3441acc5186c34e535a158defe8c8e8c216613b3eacaad57186e776f78
+Name: Pixaloop - 3D Photo Animator Hack
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: This hack was made by iOSDag.com!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Homepage: https://iosdag.com
+Version: 1.6.6
+Installed-Size: 272
+
+Package: com.iosdag.makeup
+Filename: ./com.iosdag.makeup_2.2_iphoneos-arm.deb
+Size: 68422 
+MD5sum: 3ac42c683f943e17488395d868fb2712
+SHA1: 5ccf59c1053dc8c5caa5394c4deb6be455c90560
+SHA256: 30e69ad6866fa11be66093e86e20a851dfbc832457b1fd9bd7ebe829b21665cb
+Name: makeup Hack
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: This hack was made by iOSDag.com!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Homepage: https://iosdag.com
+Version: 2.2
+Installed-Size: 272
+
+Package: com.iosdag.magicscreen
+Filename: ./com.iosdag.magicscreen_4.56_iphoneos-arm.deb
+Size: 68484 
+MD5sum: 6ae029f4ede27216d93d7517cb8b70fd
+SHA1: 5724cda32ef663aac59c8c2a770b5d44b5e33c93
+SHA256: 8b60cd1dcd2cd1338ee92b2ba5c2b3370d435d4dfac3673bd11f31305bb9242d
+Name: magicscreen Hack
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: This hack was made by iOSDag.com!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Homepage: https://iosdag.com
+Version: 4.56
+Installed-Size: 272
+
+Package: com.iosdag.magicpiano
+Filename: ./com.iosdag.magicpiano_8.4.5_iphoneos-arm.deb
+Size: 68564 
+MD5sum: 1b77136e54e5065b7e77634d2c8197d3
+SHA1: 4dedddff5af02e763785b97a949672c6d2610933
+SHA256: 50f24cdea19b704bb69334a0a652b9d81075c6da79af2ba3fe297181e122e453
+Name: Magic Piano Hack
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: This hack was made by iOSDag.com!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Homepage: https://iosdag.com
+Version: 8.4.5
+Installed-Size: 272
+
+Package: com.iosdag.introtube
+Filename: ./com.iosdag.introtube_2.1_iphoneos-arm.deb
+Size: 68504 
+MD5sum: 8c88f36a70054961d10c65c3f4e8bab4
+SHA1: d9656157835a60a3edf36f44e965e0710813e482
+SHA256: a8d87ff86788ca2b14f6ccdc301e52d569dd32bd0bf02b47ae697cb48abce7fc
+Name: introtube Hack
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: This hack was made by iOSDag.com!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Homepage: https://iosdag.com
+Version: 2.1
+Installed-Size: 272
+
+Package: com.iosdag.filterra
+Filename: ./com.iosdag.filterra_2.5_iphoneos-arm.deb
+Size: 68624
+MD5sum: 8ba2ad4de9d31946728d977868e2b125
+SHA1: c2bfca58c988b320c3244abca5d38c0122c6629f
+SHA256: 488fee5d682ad6d11d4892fb9ed40e8b3e08936a8de4821ea699595533bb7578
+Name: filterra Hack
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: This hack was made by iOSDag.com!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Homepage: https://iosdag.com
+Version: 2.5
+Installed-Size: 272
+
+Package: com.iosdag.cutecut
+Filename: ./com.iosdag.cutecut_1.8.10_iphoneos-arm.deb
+Size: 68570 
+MD5sum: 508426ed92d7b3e0af3aa839b68e87c0
+SHA1: 51c17832ef4001973ed575879bef5e8aa895c9ca
+SHA256: e31dae0f12b37c1592cbb8fa0dd89474f2cd95bf8ce11fbf7f715ee456af098f
+Name: Cute CUT Hack
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: This hack was made by iOSDag.com!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Homepage: https://iosdag.com
+Version: 1.8.10
+Installed-Size: 272
+
+Package: com.iosdag.coloringbookforme
+Filename: ./com.iosdag.coloringbookforme_4.32.0_iphoneos-arm.deb
+Size: 68358 
+MD5sum: dc932ee2b936dc4a226cae56258be749
+SHA1: 77234d752e977a402a4a7baa14b7cf50284ba611
+SHA256: 2754094e438c1401c61568282e626b335667197a826e6f29b3f82d177a159f1d
+Name: coloring book for me Hack
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: This hack was made by iOSDag.com!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Homepage: https://iosdag.com
+Version: 4.32.0
+Installed-Size: 272
+
+Package: com.iosdag.autorap
+Filename: ./com.iosdag.autorap_2.7.9_iphoneos-arm.deb
+Size: 68524 
+MD5sum: 74d427d4b652fbecc133a0f6931b9f87
+SHA1: e2873b719ce3acb65c658e650b81d7294f84ed67
+SHA256: 4b92e58be7439396fa2f5a754f913b102fb12fd2407506710a0483fc5cf91cdb
+Name: AutoRap Hack
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: This hack was made by iOSDag.com!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Homepage: https://iosdag.com
+Version: 2.7.9
+Installed-Size: 272
+
+
