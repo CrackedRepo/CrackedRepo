@@ -3201,6 +3201,47 @@ Version: 1.4.5
 Tag: purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14
 Icon: file:///Applications/AltStore.app/AppIcon60x60@2x.png
 
+Package: com.kermit.gameseagull
+Filename: ./com.kermit.gameseagull_0.0.1_iphoneos-arm.deb
+Size: 7560 
+MD5sum: b978326b34b4a00fb4484da1302cf6b3
+SHA1: 494283f53914c57f153567465cf94f587e60475a
+SHA256: c20a4ca5f8ddcdd1c2bf00c0ebb29a4240f3fd232d504082d0f325613df5341a
+Name: GameSeagull
+Architecture: iphoneos-arm
+Description: Minor game pigeon "assistance"!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Version: 0.0.1
+Installed-Size: 280
+
+Package: com.Crackedrepo.starvpn
+Filename: ./com.Crackedrepo.starvpn_3.1.0_iphoneos-arm.deb
+Size: 88254 
+MD5sum: 90e29faed3930df89827b3754aa8e5cf
+SHA1: ba9213e3bd11d1077e7a841296c83dc5f7a80ed3
+SHA256: 4baf36188b12107b6bfad76aa0f7f0c6b334e674f9d0e7d0b7c39c8a23e58571
+Name: starvpn Hack
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: This hack was made by iOSDag.com! 
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Homepage: https://iosdag.com
+Version: 3.1.0
+Installed-Size: 272
+
+
+
+
+ 
+
+
+
+
 
 
  
