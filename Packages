@@ -3251,7 +3251,22 @@ Homepage: https://iosdag.com
 Version: 3.34
 Installed-Size: 272
 
-
+Package: com.Crackedrepo.touchvpn
+Filename: ./com.Crackedrepo.touchvpn_3.1.0_iphoneos-arm.deb
+Size: 88400 
+MD5sum: 12e87e75de12cef5edbbcea4806fe3f5
+SHA1: 6c0fdfaced2054910224dd447e41af77d86533f4
+SHA256: 914b72f6fdec4d3a55f06aa2a58b99722f5ade37fee12373e3c6cc08e1a23cc6
+Name: touchvpn Hack
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: This hack was made by iOSDag.com!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Homepage: https://iosdag.com
+Version: 3.1.0
+Installed-Size: 272
 
 
  
