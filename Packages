@@ -3268,45 +3268,291 @@ Homepage: https://iosdag.com
 Version: 3.1.0
 Installed-Size: 272
 
+Package: com.iosdag.selfieeditor
+Filename: ./com.iosdag.selfieeditor_2.7.40_iphoneos-arm.deb
+Size: 68520 
+MD5sum: 20bcf09a08b45bb3cc9d55d1c30c2c64
+SHA1: f78519f84f1f831be0380cef3ef42a011d5318c1
+SHA256: 10e4a7ffab56cb6c6f15c6b0ed5107dab9bdf44ee22587aabe7ddb1749250d8d
+Name: selfieeditor Hack
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: This hack was made by iOSDag.com!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Homepage: https://iosdag.com
+Version: 2.7.40
+Installed-Size: 272
 
+Package: com.iosdag.crunchyroll
+Filename: ./com.iosdag.crunchyroll_3.1.1_iphoneos-arm.deb
+Size: 68774 
+MD5sum: c3fad1b9e18cfa72dbbacfd3fcdaefb0
+SHA1: 3c153d9dfcf40167c29ca1a60e083e8fc514cbbf
+SHA256: aa4f31fc325982af168df8bfce5dce12890ce6a807c205fe075677e877a2a8d5
+Name: 3.1.1 Hack
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: This hack was made by iOSDag.com!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Homepage: https://iosdag.com
+Version: 3.1.1
+Installed-Size: 272
+
+Package: com.iosdag.muslimpro
+Filename: ./com.iosdag.muslimpro_11.1.1_iphoneos-arm.deb
+Size: 68498 
+MD5sum: 3aa25bd20a59df5b19d489cce4570bfe
+SHA1: 051b5ea694e6dc489591c05fe23c3026ae126f9d
+SHA256: d3f7aa2f9ddebb849b224902562145772403f305191658491832e8b5e0ab1aac
+Name: MuslimPro:Azan,Quran,Community Hack
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: This hack was made by iOSDag.com!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Homepage: https://iosdag.com
+Version: 11.1.1
+Installed-Size: 272
+
+Package: com.iosdag.inmessage
+Filename: ./com.iosdag.inmessage_3.3.8_iphoneos-arm.deb
+Size: 68426 
+MD5sum: bed4c0baa78705039238533037bf92e2
+SHA1: 9d39bc4862b5f420281ba2eaaaf97a2eec09f437
+SHA256: 4d05fb36fa9f782693201f2aef193f806417cb48c6b7b31c0b8efb62afdde385
+Name: InMessage: Meet, Chat, Date Hack
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: This hack was made by iOSDag.com!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Homepage: https://iosdag.com
+Version: 3.3.8
+Installed-Size: 272
+
+Package: com.iosdag.snaptranslate
+Filename: ./com.iosdag.snaptranslate_1.4.2_iphoneos-arm.deb
+Size: 68486 
+MD5sum: f163dc0a481e33b2bcfdd79784fb074d
+SHA1: cb65db67678dd926b56de43da23f2fc4ef24ee74
+SHA256: a95bb7143c855127412d9c35420cd2e670ae7b0979e860d8c083fb93e4d6456d
+Name: Snap & Translate - Translator Hack
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: This hack was made by iOSDag.com!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Homepage: https://iosdag.com
+Version: 1.4.2
+Installed-Size: 272
+
+Package: com.iosdag.logoshop
+Filename: ./com.iosdag.logoshop_1.33_iphoneos-arm.deb
+Size: 3040194 
+MD5sum: 5b53985552b7446fdf539d7dc40d6898
+SHA1: 84c795182683305fda24f5ceabee19a8e0ef30fa
+SHA256: 4b1074978cf7ed944055f25fa599f1641ec6eb3afcb9f4570c24bf5620e838b7
+Name: logoshop Hack
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: This hack was made by iOSDag.com!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Homepage: https://iosdag.com
+Version: 1.33
+Installed-Size: 272
+
+Package: com.iosdag.picsart
+Filename: ./com.iosdag.picsart_9.39_iphoneos-arm.deb
+Size: 68474
+MD5sum: 5222ae4d650bda3e87001e9f2c17efb8
+SHA1: 66ea1e548fb92a86cf9a9ae90b968758f0468a88
+SHA256: 0400ac49586204ac274f28d733aa2e09819f1bd3a3ff9fa9854c54b03b378758
+Name: picsart Hack
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: This hack was made by iOSDag.com!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Homepage: https://iosdag.com
+Version: 9.39
+Installed-Size: 272
+
+Package: com.iosdag.starvpn
+Filename: ./com.iosdag.starvpn_2.3_iphoneos-arm 2.deb
+Size: 68394 
+MD5sum: 6d299cee4dc751f77d8bdfd1d100f777
+SHA1: fc24e28e33bdffdc78cc8893f2377b5b46dc6a8b
+SHA256: d2eb0e9f7d73394a585da1191f550377beb9ca95f7dd4c1d6d9aa478764ee7cc
+Name: starvpn Hack
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: This hack was made by iOSDag.com!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Homepage: https://iosdag.com
+Version: 2.3
+Installed-Size: 272
+
+Package: com.iosdag.athanpro
+Filename: ./com.iosdag.athanpro_3.34_iphoneos-arm.deb
+Size: 68506 
+MD5sum: 37f44c48e4ff3eec5054365bd928c29f
+SHA1: 7b9f8f818effda8053e0ab5e5bfba91268533fcf
+SHA256: 0de65010dd446834f35d0653717a7d33819268cf8c3558851701926d9e8fd4f6
+Name: athanpro Hack
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: This hack was made by iOSDag.com!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Homepage: https://iosdag.com
+Version: 3.34
+Installed-Size: 272
+
+Package: com.iosdag.absworkout
+Filename: ./com.iosdag.absworkout_6.5.9_iphoneos-arm.deb
+Size: 68496
+MD5sum: 7e1d0ccdd0ad627ccae3204ddeb3ce60
+SHA1: db22f6e30942ec9f60201d9e2acc9fe4d7134a78
+SHA256: 37ecf670baf3a1b78025c8d7c8aa12097b75169c6c750272d6796b37ce5db451
+Name: absworkout Hack
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: This hack was made by iOSDag.com!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Homepage: https://iosdag.com
+Version: 6.5.9
+Installed-Size: 272
+
+Package: com.iosdag.betternet
+Filename: ./com.iosdag.betternet_5.7.0_iphoneos-arm.deb
+Size: 68442 
+MD5sum: 136951d5bb67018687c2bb6652b4af10
+SHA1: 4034044746579dfba27bad8904a1fa710f8bd6f1
+SHA256: 6aee7f6a9e96a76bd1551d756995d6d2f95167876227c50b28862739c34952e4
+Name: Best VPN Proxy Betterne Hack
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: This hack was made by iOSDag.com!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Homepage: https://iosdag.com
+Version: 5.7.0
+Installed-Size: 272
  
+Package: com.iosdag.boom
+Filename: ./com.iosdag.boom_1.2.7_iphoneos-arm.deb
+Size: 68574 
+MD5sum: 5bc21510e3771aa2d0d01fd6c8300326
+SHA1: 1b381eea9d84f8843e358b89147bcef1207a9299
+SHA256: f33cbdfee32dc38cdbe5dbe6b201f600308185007ac3011fe19e11f643114a3d
+Name: boom Hack
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: This hack was made by iOSDag.com!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Homepage: https://iosdag.com
+Version: 1.2.7
+Installed-Size: 272
 
+Package: com.iosdag.manly
+Filename: ./com.iosdag.manly_Manly-.deb
+Size: 3040194 
+MD5sum: 5b53985552b7446fdf539d7dc40d6898
+SHA1: 84c795182683305fda24f5ceabee19a8e0ef30fa
+SHA256: 84c795182683305fda24f5ceabee19a8e0ef30fa
+Name: Manly- Best Body Editor Hack
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: This hack was made by iOSDag.com!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Homepage: https://iosdag.com
+Version: Manly- Best Body Editor3.1.8
+Installed-Size: 272
 
+Package: com.iosdag.expressvpn
+Filename: ./com.iosdag.expressvpn_6.7.3_iphoneos-arm.deb
+Size: 68434 
+MD5sum: a1e42bd2c511e5eae1fca2c3ca8242f6
+SHA1: 8a7964dd21ef42cd06f4065a160fa619d59dd010
+SHA256: 6dc1daaeb63973308fc1fce67f549982a1ee61569837e1749712e3c0e868b07a
+Name: expressvpn Hack
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: This hack was made by iOSDag.com!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Homepage: https://iosdag.com
+Version: 6.7.3
+Installed-Size: 272
 
+Package: com.iosdag.facetune2
+Filename: ./com.iosdag.facetune2_2.4.3_iphoneos-arm.deb
+Size: 68706 
+MD5sum: d3c958a48143026f0a9e4e7ee1800bcd
+SHA1: 9b92cfc1b76866a414cb68ae3442592be67c2158
+SHA256: a1bf5447a9a4c81946859a33bd36459d04c023937804de4b0917dc7f4dc7c697
+Name: Facetune2: Best Selfie Editing Hack
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: This hack was made by iOSDag.com!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Homepage: https://iosdag.com
+Version: 2.4.3
+Installed-Size: 272
 
- 
+Package: com.iosdag.vpnmaster
+Filename: ./com.iosdag.vpnmaster_3.3.0_iphoneos-arm.deb
+Size: 68438 
+MD5sum: 456cf05b46c73c1aba24c82ec00ae534
+SHA1: 7a0d4185ad0300af4c11a256658b3bb04ff60a25
+SHA256: ef557df122137e879b381c8a4108766f2b0b68bf338d96ef664a7ffcadb6d82f
+Name:  Hack
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: This hack was made by iOSDag.com!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Homepage: https://iosdag.com
+Version: 3.3.0
+Installed-Size: 272
 
-
-
-
-
-
- 
-
-
- 
-
-
-
-
- 
-
-
-
-
-
-
- 
-
-
-
- 
-
-
-
-
- 
-
-
-
+Package: com.qiop1379.iflooder
+Filename: ./com.qiop1379.iflooder_1.0.1_iphoneos-arm.deb
+Size: 12100 
+MD5sum: ff65e85e78811d360b2048124af2c5b7
+SHA1: 19de4ba08c6ae682ed76effa4164a954ff204d01
+SHA256: 121554fc0fb502c5da49d94d731dba104fa5055eaa24485f48e4bd62494f8abe
+Name: iFlooder
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: A tweak to spam in the messages app.
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Version: 1.0.1
+Installed-Size: 136
 
