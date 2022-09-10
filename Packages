@@ -4064,5 +4064,127 @@ Maintainer: CrackedRepo <Gold Findings Only!!!>
 Version: 3.8.0
 Installed-Size: 8316
 
+Package: emt.paisseon.erika
+Filename: ./emt.paisseon.erika_1.9_iphoneos-arm.deb
+Size: 93402 
+MD5sum: e474273ded2ce05b0c403034f9c3eeb2
+SHA1: f93654af282edae2167a465182b1851ed85ef1d5
+SHA256: 1ffb8f0c7791475a2ef3656e5522961cd7de9ba5a1502f91f50a0acd7aa32c98
+Name: Erika
+Architecture: iphoneos-arm
+Description: Paid tweaks for free on Installer, Saily, Sileo, and Zebra!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 13.0), ws.hbang.common (>= 1.17)
+Icon: https://paisseon.github.io/icons/erika.png
+SileoDepiction: https://paisseon.github.io/depictions/erika.json
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/erika.json&name=Erika&dev=Paisseon
+Version: 1.9
+Installed-Size: 364
 
+Package: emt.paisseon.erika
+Filename: ./emt.paisseon.erika_1.9.1_iphoneos-arm.deb
+Size: 118870 
+MD5sum: 250229951b9d7a0b1ef804e6475221e2
+SHA1: 842a46c5946f7abf678fb950288b69cfc164a268
+SHA256: a092fafc23c1402b1ae84f7ce354ada638b2e22b2dad612aade237dbdc445994
+Name: Erika
+Architecture: iphoneos-arm
+Description: Paid tweaks for free on Installer, Saily, Sileo, and Zebra!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks 
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 13.0), ws.hbang.common (>= 1.17)
+Icon: https://paisseon.github.io/icons/erika.png
+SileoDepiction: https://paisseon.github.io/depictions/erika.json
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/erika.json&name=Erika&dev=Paisseon
+Version: 1.9.1
+Installed-Size: 632
 
+Package: dev.theos.orion14
+Filename: ./dev.theos.orion14_1.0.0_iphoneos-arm.deb
+Size: 815260 
+MD5sum: abf3d993b38c5dc1c0d9c4f97be4ce46
+SHA1: 37310e0daeb117cb5f21f81521e2295c499dc8e6
+SHA256: 0820bd5fed1f3b7c46a270dfc0adf8e73894289b77585fd5812ccb7ebbf8cf05
+Name: Orion Runtime (iOS 14)
+Depends: firmware (>= 14.0), firmware (<< 16.0), mobilesubstrate (>= 0.9.5000)
+Provides: dev.theos.orion (= 1.0.0)
+Architecture: iphoneos-arm
+Description: Runtime for tweaks built using Orion and Swift!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Development
+Tag: role::developer, compatible_min::ios14.0
+Version: 1.0.0
+Icon: https://cdn.chariz.cloud/icon/orion-runtime14/icon@3x.png
+Depiction: https://chariz.com/get/orion-runtime14
+Installed-Size: 2560
+
+Package: emt.paisseon.satella
+Filename: ./emt.paisseon.satella_1.3.2_iphoneos-arm.deb
+Size: 79514 
+MD5sum: a430fbde0b2af3266a9e9036697a998c
+SHA1: ceb7d169fb269871e006e23027cde7f1baeda367
+SHA256: 97643fd9b011733f2719a6a5e19fac02a05ed8f37893fc5a9ea5556d723a19f3
+Name: Satella
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Description: Modern in-app purchase cracker!
+Depends:  dev.theos.orion (>= 1.0.0), firmware (>= 12.2), ws.hbang.common (>= 1.17), com.opa334.altlist (>= 1.0.7)
+Conflicts: ai.paisseon.satella
+Architecture: iphoneos-arm
+Section: Tweaks 
+Priority: optional
+Icon: https://paisseon.github.io/icons/satella.png
+SileoDepiction: https://paisseon.github.io/depictions/satella.json
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https:/paisseon.github.io/depictions/satella.json&name=Satella&dev=Paisseon
+Version: 1.3.2
+Installed-Size: 568
+
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Filename: ./com.opa334.libsandy_1.0.2_iphoneos-arm.deb
+Size: 24862 
+MD5sum: e4412c3986af28cc9ba00b51ed00567d
+SHA1: fde6f52709caaefa9085f9895972a9dc1b817db5
+SHA256: 45443f190ed59602f66a5d4d40b2a08753b12139204901c28933bf4cf524e5c7
+Name: libSandy
+Package: com.opa334.libsandy
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: ws.hbang.stopcrashingpls (<= 1.0.2)
+Section: System
+Installed-Size: 576
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: Securely extend the sandbox of system processes and user applications!
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsandyDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsandyDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: opa334
+Tag: purpose::extension, role::developer
+ 
+Architecture: iphoneos-arm
+Filename: ./repo.dpkghub.crane_1.1.2-5_iphoneos-arm.deb
+Size: 436954 
+MD5sum: 322091f853decffe6675e8a8a3d4bb52
+SHA1: fbdd45516b66bc4f62c5b141081b5e67895b9e90
+SHA256: 45511de3562b922c6a7eefb8430897b4a01f1ec67dccb032bb865ba45c6740c3
+Package: repo.dpkghub.crane
+Name: Crane
+Version: 1.1.2-5
+Depiction: https://repo.dpkghub.com/depiction/web/repo.dpkghub.crane.html
+SileoDepiction: https://repo.dpkghub.com/depiction/native/repo.dpkghub.crane.json
+ModernDepiction: https://repo.dpkghub.com/depiction/native/repo.dpkghub.crane.json
+Icon: https://repo.dpkghub.com/assets/repo.dpkghub.crane/icon.png
+Description: Multiple containers for your applications!
+Homepage: https://repo.dpkghub.com
+Section: Tweaks
+Depends: firmware (>=11.0), firmware (>=11.0), mobilesubstrate, applist, com.rpetrich.rocketbootstrap, preferenceloader, com.opa334.libundirect (>=1.1) | firmware (<<14.0)
+Conflicts: com.opa334.cranelite, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Tags: compatible_min::ios11.0, compatible_max::ios14.5
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Tag: purpose::extension
+SomeOtherEntryToControl: True
