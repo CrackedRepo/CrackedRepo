@@ -3828,4 +3828,220 @@ Homepage: https://iosdag.com
 Version: 2.7.9
 Installed-Size: 272
 
+Package: flexdecrypt
+Filename: ./flexdecrypt.deb
+Size: 816362 
+MD5sum: 0e7da473ba3a3f0aef5e228bf5f5153b
+SHA1: d48b286048d7cdad4b11f9b94425fe4129a8d906
+SHA256: 505086536761c07f36dde79a851a43c32baa8b586f75140077580d94cb12a96f
+Name: flexdecrypt
+Depends: firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Description: Tool for decrypting iOS apps and Mach-O binaries.
+Version: 1.1
+Section: Tools
+Architecture: iphoneos-arm
+
+Package: com.test.h5gg
+Filename: ./H5GGv7.9通用注入版.deb
+Size: 463612
+MD5sum: 9925e73170871d3efe1343591f758953
+SHA1: b0db868b89e88419d231a0ed3881e06f721785f1
+SHA256: 0ca0ba37bc42eec6589d55de2a431d61ebd0fb3aeeec1de56bdf3cdd24f220f8
+Name: H5GG
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: an iOS cheat engine for JavaScript APIs & Html5 UI.
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Version: 0.0.1
+Installed-Size: 3332
+
+Package: com.crazymind90.itheosmakertweak
+Filename: ./com.crazymind90.itheosmakertweak_1.5_iphoneos-arm.deb
+Size: 1220066 
+MD5sum: 6511e39de648dba6060458b2209dafab
+SHA1: 0cb05b15660a2fa8e7d7329d0c0ff8bab99070d8
+SHA256: 04b1673f7a812df7437ceb8b6d664c98e31a3b9f5705263435d222e01e3725fc
+Name: iTheosMaker
+Version: 1.5
+Section: base
+Priority: optional
+Architecture: iphoneos-arm
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Description: An app that helps you to create and manage Theos projects!
+
+Package: com.n00neimp0rtant.xcon
+Filename: ./com.n00neimp0rtant.xcon_40~beta5_iphoneos-arm.deb
+Size: 85212 
+MD5sum: 54557e9c05657ff1a75415095ca7cb82
+SHA1: dee1a727f74ccc48082dc11b63df2c9b48313796
+SHA256: 600f2902a53bdb1df763617a9e75f55084dcf61fbe787f13abf2ce6c1f2477fe
+Name: xCon
+Depends: mobilesubstrate
+Version: 40~beta5
+Architecture: iphoneos-arm
+Description: bypass anti-jailbreak protection!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Installed-Size: 315
+
+Package: net.myclassic.localiapstore14
+Filename: ./Abdulkader.localiapstore14_1.1_iphoneos-arm.deb
+Size: 3632 
+MD5sum: 2a6c1e6c7a91771b90a0e0afaa073d6c
+SHA1: 6a1e84e09688b7ce9434cdc7fd976debb65cb143
+SHA256: d24ede4e32985ea6fbad1a3c15dac8cfe188f58aa07478e6f71280486fc9c498
+Version: 1.1
+Section: Tweaks
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+SileoDepiction: https://myclassic.net/sileo.php?pid=2152
+Architecture: iphoneos-arm
+Name: LocalIAPStore14
+Author: CrackedRepo <Gold Findings Only!!!>
+
+Package: com.simplycode.PostBox
+Filename: ./PostBox-0.1-beta.deb
+Size: 4723428
+MD5sum: 5469a2f3f504554a6763eee622234568
+SHA1: 9e294d575814a17e4f1e26ec7d2efa31ff29709b
+SHA256: 9c9d720027a7e018cd213372ec564179b79566dcddb47b18ec9d0c337c59eaec
+Name: PostBox
+Version: 0.1-beta
+Architecture: iphoneos-arm
+Description: Not a package manager :) | getpostbox.now.sh | @PostBoxTeam!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Apps
+dev: PostBox Team
+Depiction: https://getpostbox.now.sh
+
+Package: com.simplycode.PostBox
+Filename: ./PostBox-0.2-beta.deb
+Size: 23150616 
+MD5sum: dcfe92d721cb160397ad56414d3fced0
+SHA1: 0734666e9194adf816504138f6541c3fbefacb07
+SHA256: 215504e67bc14ce5ae9e5eb642a3fbc043428b970ab99a11ac09d49af681b284
+Name: PostBox
+Version: 0.2
+Architecture: iphoneos-arm
+Description: News, tweak lists, and repo lists, all community centered.
+Icon: https://getpostbox.now.sh/depicts/app/icon.png
+Homepage: https://getpostbox.now.sh
+Depiction: https://getpostbox.now.sh/depicts/app
+SileoDepiction: https://getpostbox.now.sh/depicts/app/fancydeps.json
+Section: Apps
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+
+Package: com.simplycode.PostBox
+Filename: ./PostBox-0.3-beta.deb
+Size: 23033484 
+MD5sum: 44d12f7b1d2328a0a9c8d78bb1e1f994
+SHA1: 15e0c13f642125c3f6ffe8721e5d1c2bae175a57
+SHA256: 1268ebe12e9857be6afcadfe6f78a9822065c9a1ec442da78957079b806ad628
+Name: PostBox
+Version: 0.3
+Architecture: iphoneos-arm
+Description: News, tweak lists, and repo lists, all community centered.
+Icon: https://getpostbox.now.sh/depicts/app/icon.png
+Homepage: https://getpostbox.now.sh
+Depiction: https://getpostbox.now.sh/depicts/app
+SileoDepiction: https://getpostbox.now.sh/depicts/app/fancydeps.json
+Section: Apps
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+
+Package: com.simplycode.PostBox
+Filename: ./PostBox-0.4-beta.deb
+Size: 22985392
+MD5sum: 9cabb78695beffc2e55a994e6b73b4f2
+SHA1: b7730e076c9ed3e643f7d65d93726b7d3544c4ef
+SHA256: c314e4d3322b1a5fad9ef502cd76d3e6a93cd1043bb5aaa3ddf4709fdf97f622
+Name: PostBox
+Version: 0.4
+Architecture: iphoneos-arm
+Description: News, tweak lists, and repo lists, all community centered.
+Icon: https://getpostbox.now.sh/depicts/app/icon.png
+Homepage: https://getpostbox.now.sh
+Depiction: https://getpostbox.now.sh/depicts/app
+SileoDepiction: https://getpostbox.now.sh/depicts/app/fancydeps.json
+Section: Apps
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+
+Package: com.simplycode.PostBox
+Filename: ./PostBox-0.5-beta.deb
+Size: 16021180 
+MD5sum: cfb534c05c6eb1c976638f3d296f2a46
+SHA1: fd0cdc5640dd741cfcbd373455fad9e23be6d933
+SHA256: 7e1f35ead294378998248388124812151fdd70593df00055d68e3b74041dab24
+Name: PostBox
+Version: 0.5
+Architecture: iphoneos-arm
+Description: News, tweak lists, and repo lists, all community centered.
+Icon: https://getpostbox.now.sh/depicts/app/icon.png
+Homepage: https://getpostbox.now.sh
+Depiction: https://getpostbox.now.sh/depicts/app
+SileoDepiction: https://getpostbox.now.sh/depicts/app/fancydeps.json
+Section: Apps
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+
+Package: com.simplycode.PostBox
+Filename: ./PostBox-0.6-beta.deb
+Size: 12429616 
+MD5sum: fb751eb55a406c726f0f84d3ae4f0df6
+SHA1: e7b3254f449b1302636f2527032509522b1b08d3
+SHA256: 3e2d2c8430f24703ece5732c50caa0fef29b4f410bbf2a02dc2665b3c24eac95
+Name: PostBox
+Version: 0.6
+Architecture: iphoneos-arm
+Description: News, package lists, and repo lists, all community centered.
+Icon: https://getpostbox.now.sh/depicts/app/icon.png
+Homepage: https://getpostbox.now.sh
+Depiction: https://getpostbox.now.sh/depicts/app
+SileoDepiction: https://getpostbox.now.sh/depicts/app/fancydeps.json
+Section: Apps
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+
+Package: com.Crackedrepo.PostBox
+Filename: ./com.Crackedrepo.PostBox_0.7_iphoneos-arm.deb
+Size: 15564382 
+MD5sum: 2812ec68a4076753528a6fd245889633
+SHA1: e8f6255b1bf5cd09199425e5f7768d3e35f03437
+SHA256: 254fbdfeca7fafd5ed5a0f02665c0f08be1df9b08c77ed3abe3efadd3d811c62
+Name: PostBox
+Version: 0.7
+Description: News, package lists, and repo lists, all community centered.
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Apps
+Architecture: iphoneos-arm
+
+Package: com.simplycode.PostBox
+Filename: ./PostBox-0.8-beta.deb
+Size: 5038160 
+MD5sum: 1d0b456ef31906ed1080dd2844dbedef
+SHA1: 21599dc3e104c2bce472e708faf6fd245c0c44d2
+SHA256: 6304c65c41457c76cf48cd5c251854d33d333caead44ec140d016ddaee3a884c
+Name: PostBox
+Version: 0.8
+Architecture: iphoneos-arm
+Description: News, package lists, and repo lists, all community centered.
+Icon: https://postbox.news/depicts/app/icon.png
+Homepage: https://postbox.news
+Depiction: https://postbox.news/depicts/app
+SileoDepiction: https://postbox.news/depicts/app/fancydeps.json
+Section: Apps
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+
 
