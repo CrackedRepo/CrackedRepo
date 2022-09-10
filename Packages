@@ -4188,3 +4188,23 @@ Author: CrackedRepo <Gold Findings Only!!!>
 Maintainer: CrackedRepo <Gold Findings Only!!!>
 Tag: purpose::extension
 SomeOtherEntryToControl: True
+
+Package: weeb.lillie.youtubedislikesreturn
+Filename: ./weeb.lillie.youtubedislikesreturn_1.6.7_iphoneos-arm.deb
+Size: 15820 
+MD5sum: beb8287b61edba567995407e2f2976ef
+SHA1: c36ead94d791270709a37c9ab592bac38e372dd2
+SHA256: bacf89b47354b3b8e9d5fa4ddb6a756ad7e7afec0093e7ceeae97810a67dff71
+Version: 1.6.7
+Architecture: iphoneos-arm
+Section: Tweaks
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Installed-Size: 119
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Name: Return YouTube Dislike
+Description: Bring Back Dislikes On YouTube!
+Icon: https://img.chariz.cloud/icon/return-youtube-dislike/icon@3x.png
+Depiction: https://chariz.com/get/return-youtube-dislike
+Tag: compatible_min::ios11.0
+ 
