@@ -4224,3 +4224,25 @@ Homepage:
 Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
 Maintainer: CrackedRepo <Gold Findings Only!!!>
 Icon: https://cokepokes.github.io/depiction/appstoreplus/icon.png
+
+Package: com.cokepokes.appstoreplusplus
+Filename: ./com.cokepokes.appstoreplusplus_0.10.1-5_iphoneos-arm.deb
+Size: 4636364 
+MD5sum: 1439e142bcdec4582b9ac8bccc112e4a
+SHA1: c252051616bade4de9d2ccc3a1ea7e29882488c8
+SHA256: 23bb2021da9b3fdaf5d947490f8ebff5c947d71a6966bf70e43c025c4916c8c7
+Name: AppStore++
+Version: 0.10.1-5
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS11-15!
+Section: Tweaks
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Replaces:
+Priority: optional
+Architecture: iphoneos-arm
+Author: CrackedRepo <Gold Findings Only!!!>
+dev:
+Homepage:
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Icon: https://cokepokes.github.io/depiction/appstoreplus/icon.png
