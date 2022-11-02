@@ -4246,3 +4246,40 @@ Homepage:
 Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
 Maintainer: CrackedRepo <Gold Findings Only!!!>
 Icon: https://cokepokes.github.io/depiction/appstoreplus/icon.png
+
+Package: com.powen.permasignerios
+Filename: ./com.powen.permasignerios.0.2.5.deb
+Size: 2524340 
+MD5sum: 1efb9bb5bde61d8116ff8d7ac54553a2
+SHA1: aefdde8d2e471ed95a521a058d0c8f878fe44570
+SHA256: 4744c8784f90d2d494e487bd9ab8f09f795e2372de4e3f4e9e5a8b7840ee6d38
+Name: permasigneriOS
+Description: permasigner on iOS!
+Author: CrackedRepo <Gold Findings Only!!!>
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Version: 0.2.5
+Section: Applications
+Depends: dpkg, ldid , bash , plutil | com.bingner.plutil
+Pre-Depends: firmware (>= 14.0)
+Architecture: iphoneos-arm
+depiction: https://github.com/powenn/permasigneriOS
+
+Package: com.miro.uyou
+Filename: ./com.miro.uyou_2.1_iphoneos-arm.deb
+Size: 10989818 
+MD5sum: c98c2eb25b14905855bd8347eeaadbc4
+SHA1: cdce2f6101d6e1529683b2a04f9eada019ba2f63
+SHA256: 4c0858e08d6f00bbffbd6f6a73341102f64b8481aae1629b7d4c094a1a9822bc
+Name: uYou
+Depends: firmware (>=13.0), mobilesubstrate, com.miro.uyouimport
+Conflicts: com.miro.easyyt, com.miro.ytnoshorts, com.ps.noytpremium, com.ps.youarethere
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyou
+Description: The best tweak for the YouTube app!
+Architecture: iphoneos-arm
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Icon: file:////Library/Application Support/uYouBundle.bundle/icon_clipped.png
+Version: 2.1
+Installed-Size: 31280
