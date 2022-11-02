@@ -4283,3 +4283,19 @@ Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
 Icon: file:////Library/Application Support/uYouBundle.bundle/icon_clipped.png
 Version: 2.1
 Installed-Size: 31280
+
+Package: com.opa334.trollstorehelper
+Filename: ./com.opa334.trollstorehelper_1.3.4_iphoneos-arm.deb
+Size: 214896 
+MD5sum: 3be3638557e8587a32a5c8ead5232a31
+SHA1: a56a5e6d3e0a42acb11319d1c7b31ef8c3ad1d69
+SHA256: e968173cd9a1fd41d304ad5b683a9bbe9908063d72faa544e416fafea22ab0e1
+Name: TrollStore Helper
+Architecture: iphoneos-arm
+Description: Helper utility to install and manage TrollStore!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Applications
+Version: 1.3.4
+Installed-Size: 640
+
