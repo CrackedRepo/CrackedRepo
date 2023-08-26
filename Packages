@@ -4299,36 +4299,3 @@ Section: Applications
 Version: 1.3.4
 Installed-Size: 640
 
-Package: com.pxcex.localiapstore13
-FileName: ./com.pxcex.localiapstore13_0.0.1_iphoneos-arm.deb
-Size: 2684 
-MD5sum: ecfd8c78d1a9f6c841715d7257cde6b3
-SHA1: 755abab6e45b47294f5181b790e36b8a37a87bbf
-SHA256: 5e0cfa0ae83c1517fbcccf0a150a6d794ffdc2696e9e6e6d4659cd96185aa9f3
-Name: LocalIAPStore13
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Description: Free In-App Purchases include app IOS 13 bypass Lock iCloud (bypass verify Passcode, Touch ID or Face ID).  No options to configure!
-Maintainer: CrackedRepo <Gold Findings Only!!!>
-Author: CrackedRepo <Gold Findings Only!!!>
-Section: Tweaks
-Version: 0.0.2
-Installed-Size: 136
-
-Package: net.myclassic.localiapstore14
-FileName: ./Abdulkader.localiapstore14_1.1_iphoneos-arm.deb
-Size: 3632 
-MD5sum: 2a6c1e6c7a91771b90a0e0afaa073d6c
-SHA1: 6a1e84e09688b7ce9434cdc7fd976debb65cb143
-SHA256: d24ede4e32985ea6fbad1a3c15dac8cfe188f58aa07478e6f71280486fc9c498
-Name: LocalIAPStore14
-Description: Let’s you bypass games in-app purchases for iOS 14!
-Section: Tweaks
-Version: 1.1
-Maintainer: CrackedRepo <Gold Findings Only!!!>
-SileoDepiction: https://myclassic.net/sileo.php?pid=2152
-Architecture: iphoneos-arm
-Author: CrackedRepo <Gold Findings Only!!!>
-
-
-
