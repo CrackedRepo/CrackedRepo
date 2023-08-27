@@ -4270,7 +4270,7 @@ Version: 1.3.4
 Installed-Size: 640
 
 Package: com.ipodhacks142.localiapstore
-Filename: ./com.ipodhacks142.localiapstore_1.4-2_iphoneos-arm.deb
+filename=localiapstore
 Size: 71194
 MD5sum: 851a2f7c0e88390d144323d4b3a883d7
 SHA1: 6d290a11a18fa24e8e8e9cdad18756adfce74e39
