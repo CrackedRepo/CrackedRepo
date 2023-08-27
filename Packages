@@ -2722,22 +2722,6 @@ Maintainer: CrackedRepo <Gold Findings Only!!!>
 Version: 3.7.47
 Installed-Size: 8300
 
-Package: com.pxcex.localiapstore13
-Filename: ./com.pxcex.localiapstore13_0.0.1_iphoneos-arm.deb
-Size: 2684 
-MD5sum: ecfd8c78d1a9f6c841715d7257cde6b3
-SHA1: 755abab6e45b47294f5181b790e36b8a37a87bbf
-SHA256: 5e0cfa0ae83c1517fbcccf0a150a6d794ffdc2696e9e6e6d4659cd96185aa9f3
-Name: LocalIAPStore13
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Description: Free In-App Purchases include app IOS 13 bypass Lock iCloud (bypass verify Passcode, Touch ID or Face ID).  No options to configure!
-Maintainer: CrackedRepo <Gold Findings Only!!!>
-Author: CrackedRepo <Gold Findings Only!!!>
-Section: Tweaks
-Version: 0.0.2
-Installed-Size: 136
-
 Package: net.kdt.pojavlauncher.release
 Filename: ./net.kdt.pojavlauncher.release_2.0.1_iphoneos-arm.deb
 Size: 17418000 
@@ -3892,20 +3876,6 @@ Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
 Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
 Installed-Size: 315
 
-Package: net.myclassic.localiapstore14
-Filename: ./Abdulkader.localiapstore14_1.1_iphoneos-arm.deb
-Size: 3632 
-MD5sum: 2a6c1e6c7a91771b90a0e0afaa073d6c
-SHA1: 6a1e84e09688b7ce9434cdc7fd976debb65cb143
-SHA256: d24ede4e32985ea6fbad1a3c15dac8cfe188f58aa07478e6f71280486fc9c498
-Version: 1.1
-Section: Tweaks
-Maintainer: CrackedRepo <Gold Findings Only!!!>
-SileoDepiction: https://myclassic.net/sileo.php?pid=2152
-Architecture: iphoneos-arm
-Name: LocalIAPStore14
-Author: CrackedRepo <Gold Findings Only!!!>
-
 Package: com.simplycode.PostBox
 Filename: ./PostBox-0.1-beta.deb
 Size: 4723428
@@ -4298,4 +4268,21 @@ Author: CrackedRepo <Gold Findings Only!!!>
 Section: Applications
 Version: 1.3.4
 Installed-Size: 640
+
+Package: com.ipodhacks142.localiapstore
+Filename: ./com.ipodhacks142.localiapstore_1.4-2_iphoneos-arm.deb
+Size: 71194
+MD5sum: 851a2f7c0e88390d144323d4b3a883d7
+SHA1: 6d290a11a18fa24e8e8e9cdad18756adfce74e39
+SHA256: 6fc03341c06eef304a1692848355efb675493fb0cd8413914289884df1d8c9b6
+Name: LocalIAPStore
+Version: 1.4-2
+Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Author: CrackedRepo <Gold Findings Only!!!>
+Depiction: http://repo.ipodhacks142.com/descriptions/localiapstore.html
+Section: Tweaks
+Description: Get In-App purchases free on iOS 5 - iOS 14.7!
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=localiapstore
+Maintainer: CrackedRepo <Gold Findings Only!!!>
 
