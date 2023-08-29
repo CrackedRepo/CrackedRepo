@@ -4288,4 +4288,22 @@ Architecture: iphoneos-arm
 Version: 1.8.1
 Installed-Size: 524
 
+Package: com.0xkuj.iparanger
+Filename: ./com.0xkuj.iparanger_1.8_iphoneos-arm.deb
+Size: 1132986 
+MD5sum: 8a215a9d202715eef580e55858412ce4
+SHA1: 8dfd031f9e00b9aa557ba5b593774e49883ac7a1
+SHA256: 405a5785efa8c9c0654a1fdc7b14cad8e1e4466096badcff64c79115f7b9ead8
+Name: IPA Ranger
+Description: GUI Based Application for ipatool!
+Depends: gawk, unzip
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Applications
+Architecture: iphoneos-arm
+Version: 1.8
+Installed-Size: 3356
+
+
+
 
