@@ -4320,6 +4320,23 @@ Architecture: iphoneos-arm
 Version: 0.4.2.1
 Installed-Size: 195092
 
+Package: com.test.h5gg
+Filename: ./com.test.h5gg_0.0.1_iphoneos-arm.deb
+Size: 459666 
+MD5sum: d205a79d689f7c5a0ba941e5c75674d8
+SHA1: d013f3eec0984585bab15c3de5b45a528d577d86
+SHA256: c43d1c4498a86e446ed867eaae0140d0668447f6dfeed610e23b16f3a9d01b8c
+Name: H5GG
+Depends: mobilesubstrate
+Description: an iOS cheat engine for JavaScript APIs & Html5 UI. Discord https://discord.gg/FAs4MH7HMc
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Tweaks
+Architecture: iphoneos-arm
+Version: 0.0.1
+Installed-Size: 3332
+
+
 
 
 
