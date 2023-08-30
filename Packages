@@ -4304,6 +4304,22 @@ Architecture: iphoneos-arm
 Version: 1.8
 Installed-Size: 3356
 
+Package: com.gamegod.igg
+Filename: ./com.gamegod.igg_0.4.2.1_iphoneos-arm.deb
+Size: 36606232 
+MD5sum: 6d0189ad23c8b66fb6358b8efe220305
+SHA1: 95dc9add7953950d35612f458c392ddfa1e50a99
+SHA256: 2c1b1c5f7f6dcebd9525ba43e36d7bef98fddae74ecf83943dae9b53fe2f84a4
+Name: iGameGod
+Description: Be the god of your games!
+Maintainer: CrackedRepo <Gold Findings Only!!!>
+Author: CrackedRepo <Gold Findings Only!!!>
+Section: Utilities
+Depends: mobilesubstrate (>= 0.9.5000), ldid, odcctools
+Architecture: iphoneos-arm
+Version: 0.4.2.1
+Installed-Size: 195092
+
 
 
 
